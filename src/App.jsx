@@ -1,14 +1,10 @@
-
+import Navbar from './Navbar/Navbar'
 import './index.css'
 
 function App() {
 
   return (
-    <>
-      <div>
-        
-        </div>
-    </>
+  <Navbar />
   )
 }
 
