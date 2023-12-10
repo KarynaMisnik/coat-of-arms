@@ -7,8 +7,58 @@
   --gray: rgb(164, 160, 160);
   --black: #08111f;
 
-  /* FONT */
+  /* FONT-FAMILY */
   --main-text: "Montserrat", sans-serif;
+
+  /*** === FONT-WEIGHT === ***/
+  --bold: 600;
+  --bolder: 700;
+  --boldest: 900;
+
+  /* FONT-SIZE */
+  --h1: 2.5rem;
+  --h2: 2rem;
+  --h3: 1.75rem;
+  --h4: 1.5rem;
+  --h5: 1.25rem;
+  --h6: 1rem;
+  --p: 1rem;
+}
+
+@media (min-width: 300px) {
+  :root {
+    --h1: 1.5rem;
+    --h2: 1rem;
+    --h3: 1.75rem;
+    --h4: 1.25rem;
+    --h5: 1rem;
+    --h6: 0.5rem;
+    --p: 1rem;
+  }
+}
+
+@media (min-width: 600px) {
+  :root {
+    --h1: 3rem;
+    --h2: 2.5rem;
+    --h3: 2rem;
+    --h4: 1.75rem;
+    --h5: 1.5rem;
+    --h6: 1.25rem;
+    --p: 1.125rem;
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --h1: 4rem;
+    --h2: 3rem;
+    --h3: 2.5rem;
+    --h4: 2rem;
+    --h5: 1.75rem;
+    --h6: 1.5rem;
+    --p: 1.25rem;
+  }
 }
 
 * {
