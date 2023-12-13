@@ -6,6 +6,7 @@
   --white: #fff;
   --gray: rgb(164, 160, 160);
   --black: #08111f;
+  --gray-bg: rgb(0, 0, 0, 37%);
 
   /* FONT-FAMILY */
   --main-text: "Montserrat", sans-serif;
@@ -68,5 +69,5 @@
 }
 
 body {
-  background-color: var(--gray);
+  background: var(--gray-bg);
 }
