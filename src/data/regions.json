@@ -2,79 +2,118 @@
   "regions": [
     {
       "name": "Ahvenmaa",
-      "img": "Ahvenmaa"
+      "img": "Ahvenmaa",
+      "src": "src/assets/img/Ahvenanmaa/Ahvenanmaa.png",
+      "alt": ""
+
     },
     {
       "name": "Etelä-Karjala",
-      "img": "Etelä-Karjala"
+      "img": "Etelä-Karjala",
+      "src": "src/assets/img/Etelä-Karjala/Etelä-Karjala.png",
+      "alt": ""
     },
      {
       "name": "Etelä-Pohjanmaa",
-      "img": "Etelä-Pohjanmaa"
+      "img": "Etelä-Pohjanmaa",
+      "src": "src/assets/img/Etelä-Pohjanmaa/Etelä-Pohjanmaa.png",
+      "alt": ""
     },
        {
       "name": "Etelä-Savo",
-      "img": "Etelä-Savo"
+      "img": "Etelä-Savo",
+      "src": "src/assets/img/Etelä-Savo/Etelä-Savo.png",
+      "alt":""
     },
        {
       "name": "Kainuu",
-      "img": "Kainuu"
+      "img": "Kainuu",
+      "src": "src/assets/img/Kainuu/Kainuu.png",
+      "alt":""
     },
        {
       "name": "Kanta-Häme",
-      "img": "Kanta-Häme"
+      "img": "Kanta-Häme",
+      "src": "src/assets/img/Kanta-Häme/Kanta-Häme.png",
+      "alt":""
     },
          {
       "name": "Keski-Pohjanmaa",
-      "img": "Keski-Pohjanmaa"
+      "img": "Keski-Pohjanmaa",
+      "src": "src/assets/img/Keski-Pohjanmaa/Keski-Pohjanmaa.png",
+      "alt":""
     },
          {
       "name": "Keski-Suomi",
-      "img": "Keski-Suomi"
+      "img": "Keski-Suomi",
+      "src": "src/assets/img/Keski-Suomi/Keski-Suomi.png",
+      "alt":""
     },
          {
       "name": "Kymenlaakso",
-      "img": "Kymenlaakso"
+      "img": "Kymenlaakso",
+      "src": "src/assets/img/Kymenlaakso/Kymenlaakso.png",
+      "alt":""
     },
          {
       "name": "Lapland",
-      "img": "Lapi"
+      "img": "Lapi",
+      "src": "src/assets/img/Lapland/Lapi.png",
+      "alt":""
     },
          {
       "name": "Päijät-Häme",
-      "img": "Päijät-Häme"
+      "img": "Päijät-Häme",
+      "src": "src/assets/img/Päijät-Häme/Päijät-Häme.png",
+      "alt":""
     },
       {
       "name": "Pirkanmaa",
-      "img": "Pirkanmaa"
+      "img": "Pirkanmaa",
+      "src": "src/assets/img/Pirkanmaa/Pirkanmaa.png",
+      "alt":""
     },
      {
       "name": "Pohjanmaa",
-      "img": "Pohjanmaa"
+      "img": "Pohjanmaa",
+      "src": "src/assets/img/Pohjanmaa/Pohjanmaa.png",
+      "alt":""
     },
     {
       "name": "Pohjois-Karjala",
-      "img": "Pohjois-Karjala"
+      "img": "Pohjois-Karjala",
+      "src": "src/assets/img/Pohjois-Karjala/Pohjois-Karjala.png",
+      "alt":""
     },
     {
-      "name": "Pohjois-Pohjanmaan",
-      "img": "Pohjois-Pohjanmaan"
+      "name": "Pohjois-Pohjanmaa",
+      "img": "Pohjois-Pohjanmaa",
+      "src":  "src/assets/img/Pohjois-Pohjanmaa/Pohjois-Pohjanmaa.png",
+      "alt":""
     },
      {
       "name": "Pohjois-Savo",
-      "img": "Pohjois-Savo"
+      "img": "Pohjois-Savo",
+      "src": "src/assets/img/Pohjois-Savo/Pohjois-Savo.png",
+      "alt":""
     },
      {
       "name": "Satakunta",
-      "img": "Satakunta"
+      "img": "Satakunta",
+      "src": "src/assets/img/Satakunta/Satakunta.png",
+      "alt":""
     },
      {
       "name": "Uudenmaa",
-      "img": "Uudenmaa"
+      "img": "Uusimaa",
+      "src": "src/assets/img/Uudenmaa/Uusimaa.png",
+      "alt": ""
     },
     {
       "name": "Varsinais-Suomi",
-      "img": "Varsinais-Suomi"
+      "img": "Varsinais-Suomi",
+      "src": "src/assets/img/Varsinais-Suomi/Varsinais-Suomi.png",
+      "alt":""
     }
   ]
 }
