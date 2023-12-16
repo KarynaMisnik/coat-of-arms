@@ -1,4 +1,3 @@
-// ImageGallery.jsx
 import React, { useState, useEffect } from "react";
 import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Grid";
@@ -14,18 +13,21 @@ const Home = () => {
   }, []);
 
   return (
-    <div style={{ padding: "1rem" }}>
+    <div style={{ padding: ".5rem" }}>
       <Grid container spacing={3}>
         {data &&
           data.regions.map((region) => (
             <Grid
               item
-              xs={12}
-              sm={6}
+              xs={6}
+              sm={4}
               md={4}
               lg={2}
               key={region.name}
-              style={{ display: "flex", justifyContent: "center" }}
+              style={{
+                display: "flex",
+                justifyContent: "center",
+              }}
             >
               <Paper
                 elevation={3}
@@ -41,17 +43,17 @@ const Home = () => {
                   style={{
                     width: "100%",
                     height: "auto",
-
+                    objectFit: "cover",
                     borderRadius: "8px",
                   }}
                 />
-                <h3
+                <h4
                   style={{
                     textAlign: "center",
                   }}
                 >
                   {region.name}
-                </h3>
+                </h4>
               </Paper>
             </Grid>
           ))}
