@@ -22,7 +22,8 @@ const Home = () => {
               xs={6}
               sm={4}
               md={4}
-              lg={2}
+              lg={3}
+              xl={2}
               key={region.name}
               style={{
                 display: "flex",
@@ -40,6 +41,7 @@ const Home = () => {
                 <img
                   src={region.src}
                   alt={region.alt}
+                  loading="lazy"
                   style={{
                     width: "100%",
                     height: "auto",
@@ -47,13 +49,15 @@ const Home = () => {
                     borderRadius: "8px",
                   }}
                 />
-                <h4
+                <h2
                   style={{
                     textAlign: "center",
+                    fontSize: "var(--h2)",
+                    fontWeight: "var(--boldest)",
                   }}
                 >
                   {region.name}
-                </h4>
+                </h2>
               </Paper>
             </Grid>
           ))}
