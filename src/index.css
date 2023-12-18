@@ -49,3 +49,8 @@
 body {
   background: var(--gray-bg);
 }
+
+.nav-link {
+  color: var(--white);
+  text-decoration: none;
+}

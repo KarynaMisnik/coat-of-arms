@@ -4,7 +4,7 @@
       "region": "Ahvenmaa",
      "images": [
     
-        { "name": "Brändö", "alt": "A flying white gull on the red background on top of a shield, lower a red fish on white background" },
+        { "name": "Brändö",  "alt": "A flying white gull on the red background on top of a shield, lower a red fish on white background" },
         { "name": "Eckerö", "alt": "A red boat with sail on white background" },
         { "name": "Finström", "alt": "A golden tree on red background" },
         { "name": "Föglö", "alt": "Three golden ducks flying high on blue background" },
@@ -144,8 +144,6 @@
         { "name": "Karstula", "alt": "" },
         { "name": "Keuruu", "alt": "" },
         { "name": "Kinnula", "alt": "" },
-        { "name": "Kivijärvi", "alt": "" },
-        { "name": "Konnevesi", "alt": "" },
         { "name": "Kivijärvi", "alt": "" },
         { "name": "Konnevesi", "alt": "" },
         { "name": "Kyyjärvi", "alt": "" },
