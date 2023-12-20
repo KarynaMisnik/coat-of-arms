@@ -2,9 +2,12 @@
   "regions": [
     {
       "name": "Ahvenmaa",
+      "regionDescription": "The coat of arms of Åland was originally to be granted to the Swedish island province of Öland in 1560. ",
       "img": "Ahvenmaa",
-      "src": "src/assets/img/Ahvenanmaa/Ahvenanmaa.png",
-      "alt": "",
+      "src": "/src/assets/img/Ahvenanmaa/Ahvenanmaa.png",
+      "alt": "white crown on top, a yellow elk on blue background",
+      "location": "/src/assets/img/Ahvenanmaa/ahvenmaa-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Brändö",
@@ -91,8 +94,10 @@
     {
       "name": "Etelä-Karjala",
       "img": "Etelä-Karjala",
-      "src": "src/assets/img/Etelä-Karjala/Etelä-Karjala.png",
+      "src": "/src/assets/img/Etelä-Karjala/Etelä-Karjala.png",
       "alt": "",
+      "location": "/src/assets/img/Etelä-Karjala/etelä-karjala-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Imatra",
@@ -144,8 +149,10 @@
     {
       "name": "Etelä-Pohjanmaa",
       "img": "Etelä-Pohjanmaa",
-      "src": "src/assets/img/Etelä-Pohjanmaa/Etelä-Pohjanmaa.png",
+      "src": "/src/assets/img/Etelä-Pohjanmaa/Etelä-Pohjanmaa.png",
       "alt": "",
+      "location": "/src/assets/img/Etelä-Pohjanmaa/etelä-pohjanmaa-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Ähtäri",
@@ -242,8 +249,10 @@
     {
       "name": "Etelä-Savo",
       "img": "Etelä-Savo",
-      "src": "src/assets/img/Etelä-Savo/Etelä-Savo.png",
+      "src": "/src/assets/img/Etelä-Savo/Etelä-Savo.png",
       "alt": "",
+      "location": "/src/assets/img/Etelä-Savo/etelä-savo-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Enonkoski",
@@ -310,8 +319,10 @@
     {
       "name": "Kainuu",
       "img": "Kainuu",
-      "src": "src/assets/img/Kainuu/Kainuu.png",
+      "src": "/src/assets/img/Kainuu/Kainuu.png",
       "alt": "",
+      "location": "/src/assets/img/Kainuu/kainuu-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Hyrynsalmi",
@@ -358,8 +369,10 @@
     {
       "name": "Kanta-Häme",
       "img": "Kanta-Häme",
-      "src": "src/assets/img/Kanta-Häme/Kanta-Häme.png",
+      "src": "/src/assets/img/Kanta-Häme/Kanta-Häme.png",
       "alt": "",
+      "location": "/src/assets/img/Kanta-Häme/kanta-häme-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Forssa",
@@ -421,8 +434,10 @@
     {
       "name": "Keski-Pohjanmaa",
       "img": "Keski-Pohjanmaa",
-      "src": "src/assets/img/Keski-Pohjanmaa/Keski-Pohjanmaa.png",
+      "src": "/src/assets/img/Keski-Pohjanmaa/Keski-Pohjanmaa.png",
       "alt": "",
+      "location": "/src/assets/img/Keski-Pohjanmaa/keski-pohjanmaa-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Halsua",
@@ -469,8 +484,10 @@
     {
       "name": "Keski-Suomi",
       "img": "Keski-Suomi",
-      "src": "src/assets/img/Keski-Suomi/Keski-Suomi.png",
+      "src": "/src/assets/img/Keski-Suomi/Keski-Suomi.png",
       "alt": "",
+      "location": "/src/assets/img/Keski-Suomi/keski-suomi-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Äänekoski",
@@ -587,8 +604,10 @@
     {
       "name": "Kymenlaakso",
       "img": "Kymenlaakso",
-      "src": "src/assets/img/Kymenlaakso/Kymenlaakso.png",
+      "src": "/src/assets/img/Kymenlaakso/Kymenlaakso.png",
       "alt": "",
+      "location": "/src/assets/img/Kymenlaakso/kymenlaakso-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Hamina",
@@ -625,8 +644,10 @@
     {
       "name": "Lapi",
       "img": "Lapi",
-      "src": "src/assets/img/Lapland/Lapi.png",
+      "src": "/src/assets/img/Lapland/Lapi.png",
       "alt": "",
+      "location": "/src/assets/img/Lapi/lapi-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Enontekiö",
@@ -733,8 +754,10 @@
     {
       "name": "Päijät-Häme",
       "img": "Päijät-Häme",
-      "src": "src/assets/img/Päijät-Häme/Päijät-Häme.png",
+      "src": "/src/assets/img/Päijät-Häme/Päijät-Häme.png",
       "alt": "",
+      "location": "/src/assets/img/Päijät-Häme/päijät-häme-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Asikkala",
@@ -786,8 +809,10 @@
     {
       "name": "Pirkanmaa",
       "img": "Pirkanmaa",
-      "src": "src/assets/img/Pirkanmaa/Pirkanmaa.png",
+      "src": "/src/assets/img/Pirkanmaa/Pirkanmaa.png",
       "alt": "",
+      "location": "/src/assets/img/Pirkanmaa/pirkanmaa-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Akaa",
@@ -909,8 +934,10 @@
     {
       "name": "Pohjanmaa",
       "img": "Pohjanmaa",
-      "src": "src/assets/img/Pohjanmaa/Pohjanmaa.png",
+      "src": "/src/assets/img/Pohjanmaa/Pohjanmaa.png",
       "alt": "",
+      "location": "/src/assets/img/Pohjanmaa/pohjanmaa-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Kaskinen",
@@ -987,8 +1014,10 @@
     {
       "name": "Pohjois-Karjala",
       "img": "Pohjois-Karjala",
-      "src": "src/assets/img/Pohjois-Karjala/Pohjois-Karjala.png",
+      "src": "/src/assets/img/Pohjois-Karjala/Pohjois-Karjala.png",
       "alt": "",
+      "location": "/src/assets/img/Pohjois-Karjala/pohjois-karjala-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Heinävesi",
@@ -1060,8 +1089,10 @@
     {
       "name": "Pohjois-Pohjanmaa",
       "img": "Pohjois-Pohjanmaa",
-      "src": "src/assets/img/Pohjois-Pohjanmaa/Pohjois-Pohjanmaa.png",
+      "src": "/src/assets/img/Pohjois-Pohjanmaa/Pohjois-Pohjanmaa.png",
       "alt": "",
+      "location": "/src/assets/img/Pohjois-Pohjanmaa/pohjois-pohjanmaa-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Alavieska",
@@ -1218,8 +1249,10 @@
     {
       "name": "Pohjois-Savo",
       "img": "Pohjois-Savo",
-      "src": "src/assets/img/Pohjois-Savo/Pohjois-Savo.png",
+      "src": "/src/assets/img/Pohjois-Savo/Pohjois-Savo.png",
       "alt": "",
+      "location": "/src/assets/img/Pohjois-Savo/pohjois-savo-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Iisalmi",
@@ -1316,8 +1349,10 @@
     {
       "name": "Satakunta",
       "img": "Satakunta",
-      "src": "src/assets/img/Satakunta/Satakunta.png",
+      "src": "/src/assets/img/Satakunta/Satakunta.png",
       "alt": "",
+      "location": "/src/assets/img/Satakunta/satakunta-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Eura",
@@ -1404,8 +1439,10 @@
     {
       "name": "Uudenmaa",
       "img": "Uusimaa",
-      "src": "src/assets/img/Uudenmaa/Uusimaa.png",
+      "src": "/src/assets/img/Uudenmaa/Uusimaa.png",
       "alt": "",
+      "location": "/src/assets/img/Uudenmaa/uusimaa-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Askola",
@@ -1537,8 +1574,10 @@
     {
       "name": "Varsinais-Suomi",
       "img": "Varsinais-Suomi",
-      "src": "src/assets/img/Varsinais-Suomi/Varsinais-Suomi.png",
+      "src": "/src/assets/img/Varsinais-Suomi/Varsinais-Suomi.png",
       "alt": "",
+      "location": "/src/assets/img/Varsinais-Suomi/varsinais-suomi-location.png",
+      "locationAlt": "",
       "images": [
         {
           "municipality": "Askainen",
