@@ -24,19 +24,25 @@
 
 @media (min-width: 300px) {
   :root {
+    --h1: 1.25rem;
     --h2: 1rem;
+    --h3: 0.85rem;
   }
 }
 
 @media (min-width: 600px) {
   :root {
+    --h1: 1.5rem;
     --h2: 1.25rem;
+    --h3: 1rem;
   }
 }
 
 @media (min-width: 960px) {
   :root {
+    --h1: 2rem;
     --h2: 1.85rem;
+    --h3: 1.5rem;
   }
 }
 
@@ -53,4 +59,13 @@ body {
 .nav-link {
   color: var(--white);
   text-decoration: none;
+}
+
+/* IMG OF LOCATION OF A REGION ON THE MAP */
+
+@media screen and (min-width: 768px) {
+  .location-img {
+    width: 200px;
+    height: auto;
+  }
 }
