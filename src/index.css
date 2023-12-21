@@ -20,8 +20,6 @@
   --h2: 2rem;
 }
 
-/*! DONT CHANGE h2 !*/
-
 @media (min-width: 300px) {
   :root {
     --h1: 1.25rem;
@@ -61,7 +59,7 @@ body {
   text-decoration: none;
 }
 
-/* IMG OF LOCATION OF A REGION ON THE MAP */
+/* LOCATION IMG OF A REGION ON THE MAP */
 
 @media screen and (min-width: 768px) {
   .location-img {
