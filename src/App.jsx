@@ -19,7 +19,10 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/quiz" element={<Quiz />} />
         <Route path="/region/:regionName" element={<Region />} />
-        <Route path="/municipality" element={<Municipality />} />
+        <Route
+          path="/municipality/:regionName/:municipalityName"
+          element={<Municipality />}
+        />
       </Routes>
     </div>
   );
