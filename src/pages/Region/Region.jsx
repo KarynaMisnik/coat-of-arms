@@ -98,7 +98,7 @@ const Region = () => {
           >
             <NavLink
               className="nav-link"
-              to={`/municipality`}
+              to={`/municipality/${regionName}/${image.municipality}`}
               style={{
                 display: "flex",
                 justifyContent: "center",
