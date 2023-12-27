@@ -41,12 +41,20 @@ const Municipality = () => {
           padding: "1rem",
         }}
       >
-        <h1>{municipalityData.municipality}</h1>
+        <div style={{ display: "flex", paddingBottom: "1rem" }}>
+          <img
+            src={municipalityData.url}
+            style={{
+              maxWidth: "35px",
+              maxHeight: "auto",
+              marginRight: ".5rem",
+            }}
+          />
+          <h1>{municipalityData.municipality}</h1>
+        </div>
         <p>Population: 112</p>
         <p>Weather Info: -3</p>
-        {/* Add more information about the municipality as needed */}
       </Paper>
-      {/* Add additional components or sections as needed */}
     </div>
   );
 };
