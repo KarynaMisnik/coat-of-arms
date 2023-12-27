@@ -54,7 +54,7 @@ const Region = () => {
               src={regionData.src}
               alt={regionData.alt}
               style={{
-                maxWidth: "30px",
+                maxWidth: "35px",
                 maxHeight: "auto",
                 marginRight: ".5rem",
               }}
