@@ -1,6 +1,12 @@
-# About the project
+<details>
 
-# Purpose
+<summary>About the project</summary>
+
+### You can add a header
+
+text example
+
+</details>
 
 
 # React + Vite
