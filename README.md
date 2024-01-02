@@ -8,6 +8,22 @@ This project is about Finland and its regional structure. The 'Land of a Thousan
 
 </details>
 
+<details>
+  <summary><h1>Purpose</h1></summary>
+  
+  ### Idea behind the project
+
+  
+</details>
+
+## TO-DO:
+
+
+- [ ] Add population info (Tilastokeskus);
+- [ ] Update layout;
+- [ ] Build a quiz;
+- [ ] Add weather info (opt);
+- [ ] Add location (opt);
 
 # React + Vite
 
