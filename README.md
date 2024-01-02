@@ -1,10 +1,10 @@
 <details>
 
-<summary>About the project</summary>
+<summary><h1>About the project</h1></summary>
 
-### You can add a header
+### Finnish regions and its municipalities coat of arms
 
-text example
+This project is about Finland and its regional structure. The 'Land of a Thousand Lakes' is comprised of several regions, each further divided into municipalities. Each municipality has its own coat of arms, reflecting aspects of history, events, or the landscape in their heraldic signatures.
 
 </details>
 
