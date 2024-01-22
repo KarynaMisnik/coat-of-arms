@@ -16,7 +16,7 @@ This project is about Finland and its regional structure. The 'Land of a Thousan
   
 </details>
 
-## TO-DO:
+## 📜 TO-DO:
 
 
 - [ ] Add population info (Tilastokeskus);
