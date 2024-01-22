@@ -33,7 +33,7 @@ const Home = () => {
             >
               <NavLink
                 className="nav-link"
-                to={`/region/${region.name}`}
+                to={`/coat-of-arms/region/${region.name}`}
                 style={{
                   display: "flex",
                   justifyContent: "center",
