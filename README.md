@@ -1,3 +1,5 @@
+## Current status: in process of development
+
 <details>
 
 <summary><h1>About the project</h1></summary>
