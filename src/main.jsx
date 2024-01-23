@@ -5,7 +5,7 @@ import App from "./App.jsx";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <Router>
+  <Router basename="/coat-of-arms/">
     <App />
   </Router>
 );
