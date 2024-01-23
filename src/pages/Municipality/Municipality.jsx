@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Paper from "@mui/material/Paper";
 import { useParams } from "react-router-dom";
-import RegionsData from "/coat-of-arms/src/data/regions.json";
 
 const Municipality = () => {
   const { regionName, municipalityName } = useParams();
