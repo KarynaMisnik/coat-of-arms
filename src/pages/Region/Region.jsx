@@ -13,7 +13,7 @@ const Region = () => {
 
   useEffect(() => {
     // Dynamic import using import()
-    import("/coat-of-arms/src/data/regions.json")
+    import("/src/data/regions.json")
       .then((module) => module.default)
       .then((jsonData) => {
         // Find the selected region in the imported data
