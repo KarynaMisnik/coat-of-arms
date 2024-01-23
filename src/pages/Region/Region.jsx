@@ -12,6 +12,28 @@ const Region = () => {
   const [regionData, setRegionData] = useState(null);
 
   useEffect(() => {
+    // Dynamic import using import()
+    import("/coat-of-arms/src/data/regions.json")
+      .then((module) => module.default)
+      .then((jsonData) => {
+        // Find the selected region in the imported data
+        const selectedRegion = jsonData.regions.find(
+          (region) => region.name === regionName
+        );
+        setRegionData(selectedRegion);
+      })
+      .catch((error) => {
+        console.error("Error importing region data:", error);
+      });
+  }, [regionName]);
+
+  if (!regionData) {
+    return <div>Loading...</div>;
+  }
+
+  {
+    /*
+  useEffect(() => {
     // Fetch data from your JSON file
     fetch("/coat-of-arms/src/data/regions.json")
       .then((response) => response.json())
@@ -29,6 +51,8 @@ const Region = () => {
 
   if (!regionData) {
     return <div>Loading...</div>;
+  }
+*/
   }
 
   return (
