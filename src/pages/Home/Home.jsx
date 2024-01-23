@@ -8,7 +8,7 @@ const Home = () => {
 
   useEffect(() => {
     // Fetch data from your JSON file
-    fetch("/src/data/regions.json")
+    fetch("/coat-of-arms/src/data/regions.json")
       .then((response) => response.json())
       .then((jsonData) => setData(jsonData));
   }, []);

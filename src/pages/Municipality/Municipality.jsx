@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Paper from "@mui/material/Paper";
 import { useParams } from "react-router-dom";
+import RegionsData from "/coat-of-arms/src/data/regions.json";
 
 const Municipality = () => {
   const { regionName, municipalityName } = useParams();
@@ -8,7 +9,7 @@ const Municipality = () => {
 
   useEffect(() => {
     // Fetch data for the specific municipality based on regionName and municipalityName
-    fetch(`/src/data/regions.json`)
+    fetch(`/coat-of-arms/src/data/regions.json`)
       .then((response) => response.json())
       .then((jsonData) => {
         // Find the selected region in the data
