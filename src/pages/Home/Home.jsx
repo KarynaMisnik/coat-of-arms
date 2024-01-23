@@ -8,7 +8,7 @@ const Home = () => {
 
   useEffect(() => {
     // Dynamic import using import()
-    import("data/regions.json")
+    import("/src/data/regions.json")
       .then((module) => module.default)
       .then((jsonData) => setData(jsonData))
       .catch((error) => {
