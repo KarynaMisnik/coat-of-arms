@@ -8,8 +8,8 @@ const Municipality = () => {
 
   useEffect(() => {
     // Fetch data for the specific municipality based on regionName and municipalityName
-    fetch(`/coat-of-arms/src/data/regions.json`)
-      .then((response) => response.json())
+    import("/src/data/regions.json")
+      .then((module) => module.default)
       .then((jsonData) => {
         // Find the selected region in the data
         const selectedRegion = jsonData.regions.find(
