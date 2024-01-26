@@ -4,9 +4,9 @@
 
 <summary><h1>About the project</h1></summary>
 
-### Finnish regions and its municipalities coat of arms
+### Finnish regions and municipalities coat of arms
 
-This project is about Finland and its regional structure. The 'Land of a Thousand Lakes' is comprised of several regions, each further divided into municipalities. Each municipality has its own coat of arms, reflecting aspects of history, events, or the landscape in their heraldic signatures.
+This project is about Finland and its regional structure. The 'Land of a Thousand Lakes' is comprised of several regions, each further divided into municipalities. Each region and municipality has its own coat of arms, reflecting aspects of history, events, or the landscape in their heraldic signatures.
 
 </details>
 
@@ -14,7 +14,10 @@ This project is about Finland and its regional structure. The 'Land of a Thousan
   <summary><h1>Purpose</h1></summary>
   
   ### Idea behind the project
+  
+As an enthusiastic hiker, I traveled around Finland, exploring its diverse landscape, visiting national parks, small towns, and even smaller villages. Every time I entered a new place, I noticed road signs adorned with local coats of arms. Each time, I found myself wondering about the significance behind those emblems and what stories they held.
 
+I experienced only a small part of Finland's vast and diverse landscape, a landscape as expansive as my imagination could fathom. While I dream of traveling and visiting as many countries as possible, my current focus is on exploring and becoming familiar with the unique cultural and natural traits of Finland.
   
 </details>
 
