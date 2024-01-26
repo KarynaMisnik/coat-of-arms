@@ -1,5 +1,14 @@
 ## Current status: in process of development
 
+## 📜 TO-DO:
+
+
+- [ ] Add population info (Tilastokeskus);
+- [ ] Update layout;
+- [ ] Build a quiz;
+- [ ] Add weather info (opt);
+- [ ] Add location (opt);
+
 <details>
 
 <summary><h1>About the project</h1></summary>
@@ -35,21 +44,31 @@ I experienced only a small part of Finland's vast and diverse landscape, a lands
 
 </details>
 
+## Demo
 
-## 📜 TO-DO:
+Go to: <a href="https://karynamisnik.github.io/coat-of-arms/">:octocat:</a>  
 
+## Getting Started with React.js and Vite
 
-- [ ] Add population info (Tilastokeskus);
-- [ ] Update layout;
-- [ ] Build a quiz;
-- [ ] Add weather info (opt);
-- [ ] Add location (opt);
+This project uses [Vite](https://vitejs.dev/) to set up a fast and optimized development environment for React.js.  
 
-# React + Vite
+## Prerequisites
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.  
 
-Currently, two official plugins are available:
+#### Clone the Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<code>git clone https://github.com/KarynaMisnik/coat-of-arms.git</code>
+
+#### Open folder 
+
+<code>cd coat-of-arms</code>
+
+#### Install all dependencies
+
+<code>npm install</code>
+
+#### Run locally
+
+<code>npm run dev</code>
+
