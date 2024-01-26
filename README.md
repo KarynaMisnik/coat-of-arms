@@ -18,6 +18,16 @@ This project is about Finland and its regional structure. The 'Land of a Thousan
   
 </details>
 
+
+<details>
+  <summary><h1>Mockup</h1></summary>
+  
+  ### <a href="https://www.figma.com/file/kZHAoLtH91CSo38202p4fR/Finnish-coats-of-arms?type=design&node-id=0%3A1&mode=design&t=rcQRYoBJVXBPdUvi-1">Figma Link</a>
+
+  
+</details>
+
+
 ## 📜 TO-DO:
 
 
