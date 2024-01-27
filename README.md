@@ -30,6 +30,12 @@ I experienced only a small part of Finland's vast and diverse landscape, a lands
   
 </details>
 
+<details>
+  <summary><h1>Language</h1></summary>
+  English - app interface;  
+  
+  Finnish - geographic name;
+</details>
 
 <details>
   <summary><h1>Mockup</h1></summary>
