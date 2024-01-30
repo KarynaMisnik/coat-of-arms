@@ -4,7 +4,7 @@
 
 
 - [ ] Add population info (Tilastokeskus);
-- [ ] Update layout;
+- [ ] Update layout(Figma update);
 - [ ] Build a quiz;
 - [ ] Add weather info (opt);
 - [ ] Add location (opt);
