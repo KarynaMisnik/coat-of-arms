@@ -31,78 +31,65 @@ const Region = () => {
     return <div>Loading...</div>;
   }
 
-  {
-    /*
-  useEffect(() => {
-    // Fetch data from your JSON file
-    fetch("/coat-of-arms/src/data/regions.json")
-      .then((response) => response.json())
-      .then((jsonData) => {
-        // Find the selected region in the data
-        const selectedRegion = jsonData.regions.find(
-          (region) => region.name === regionName
-        );
-        setRegionData(selectedRegion);
-      })
-      .catch((error) => {
-        console.error("Error fetching region data:", error);
-      });
-  }, [regionName]);
-
-  if (!regionData) {
-    return <div>Loading...</div>;
-  }
-*/
-  }
-
   return (
     <div style={{ padding: "1rem" }}>
-      <Paper
-        elevation={3}
-        style={{
-          marginBottom: "1rem",
-          padding: "1rem",
-          display: "flex",
-        }}
-      >
-        <div
+      <div className="region-map-wrapper">
+        <Paper
+          elevation={3}
           style={{
+            padding: "1rem",
             display: "flex",
-            flexDirection: "column",
-
-            paddingRight: ".5rem",
+            flex: 1,
           }}
         >
-          <div style={{ display: "flex", paddingBottom: "1rem" }}>
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+
+              paddingRight: ".5rem",
+            }}
+          >
+            <div style={{ display: "flex", paddingBottom: "1rem" }}>
+              <img
+                src={regionData.src}
+                alt={regionData.alt}
+                style={{
+                  maxWidth: "35px",
+                  maxHeight: "auto",
+                  marginRight: ".5rem",
+                }}
+              />
+              <h1 style={{ fontSize: "var(--h1)" }}>{regionData.name}</h1>
+            </div>
+            <h3 style={{ fontSize: "var(--h3)" }}>
+              {regionData.regionDescription}
+            </h3>
+          </div>
+        </Paper>
+
+        <Paper sx={{ flex: 1 }}>
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+              padding: "1rem",
+            }}
+          >
             <img
-              src={regionData.src}
-              alt={regionData.alt}
+              className="location-img"
+              src={regionData.location}
+              alt={regionData.locationAlt}
               style={{
-                maxWidth: "35px",
+                maxWidth: "100%",
                 maxHeight: "auto",
-                marginRight: ".5rem",
+                objectFit: "cover",
               }}
             />
-            <h1 style={{ fontSize: "var(--h1)" }}>{regionData.name}</h1>
           </div>
-          <h3 style={{ fontSize: "var(--h3)" }}>
-            {regionData.regionDescription}
-          </h3>
-        </div>
-        <div>
-          <img
-            className="location-img"
-            src={regionData.location}
-            alt={regionData.locationAlt}
-            style={{
-              maxWidth: "100%",
-              maxHeight: "auto",
-              objectFit: "cover",
-            }}
-          />
-        </div>
-      </Paper>
-
+        </Paper>
+      </div>
       <Grid container spacing={2}>
         {regionData.images.map((image) => (
           <Grid

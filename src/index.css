@@ -63,3 +63,15 @@
     height: auto;
   }
 }
+
+.region-map-wrapper {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .region-map-wrapper {
+    flex-direction: column;
+  }
+}
