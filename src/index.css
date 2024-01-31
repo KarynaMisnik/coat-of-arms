@@ -6,7 +6,7 @@
   --white: #fff;
   --gray: rgb(164, 160, 160);
   --black: #08111f;
-  --gray-bg: rgb(0, 0, 0, 37%);
+  --dark-gray: rgb(0, 0, 0, 37%);
 
   /* FONT-FAMILY */
   --main-text: "Montserrat", sans-serif;
@@ -48,10 +48,6 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-}
-
-body {
-  background: var(--gray-bg);
 }
 
 .nav-link {

@@ -11,7 +11,7 @@ const pages = ["Home", "About", "Quiz"];
 
 function App() {
   return (
-    <div style={{ background: "var(--gray-bg)" }}>
+    <div style={{ background: "var(--black)" }}>
       <Navbar pages={pages} />
       <Routes>
         <Route exact path="/" element={<Home />} />

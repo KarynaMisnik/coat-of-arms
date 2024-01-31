@@ -73,7 +73,7 @@ export default function Navbar(props) {
         component="nav"
         sx={{
           background: "var(--blue)",
-          borderBottom: "5px solid var( --black)",
+          borderBottom: "3px solid var( --white)",
         }}
       >
         <Toolbar>
