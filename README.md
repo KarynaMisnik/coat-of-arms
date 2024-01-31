@@ -40,7 +40,12 @@ I experienced only a small part of Finland's vast and diverse landscape, a lands
 <details>
   <summary><h1>Mockup</h1></summary>
   
-  ### <a href="https://www.figma.com/file/kZHAoLtH91CSo38202p4fR/Finnish-coats-of-arms?type=design&node-id=0%3A1&mode=design&t=rcQRYoBJVXBPdUvi-1">Figma Link</a>
+  ### <a href="https://www.figma.com/file/kZHAoLtH91CSo38202p4fR/Finnish-coats-of-arms?type=design&node-id=0%3A1&mode=design&t=rcQRYoBJVXBPdUvi-1">Figma Link</a>  
+  
+
+> **Note**
+> 
+> Layout may undergo minor changes.
 
 
 | Home page  | Municipality Page | Regional Page   |  About Page  |  Quiz Menu  |  Quiz Page  |
