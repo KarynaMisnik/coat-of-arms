@@ -34,7 +34,7 @@ I experienced only a small part of Finland's vast and diverse landscape, a lands
   <summary><h1>Language</h1></summary>
  <h3>English - app interface;</h3>
   
-  <h3>Finnish - geographical name;</h3>
+  <h3>Finnish - geographical names;</h3>
 </details>
 
 <details>
