@@ -1,6 +1,6 @@
 <h1>🇫🇮 Finnish Emblem</h1>
 
-## Current status: in process of development
+#### Current status: in process of development
 
 ## 📜 TO-DO:
 
