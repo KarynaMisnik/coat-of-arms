@@ -1,7 +1,7 @@
 const Quiz = () => {
   return (
     <>
-      <h1 style={{ color: "white" }}>This is Quiz page</h1>
+      <h1 style={{ color: "white" }}>There will be a Quiz page</h1>
     </>
   );
 };
