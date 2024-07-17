@@ -644,109 +644,114 @@
     {
       "name": "Lapi",
       "img": "Lapi",
-      "src": "/coat-of-arms/img/Lapland/Lapi.png",
+      "src": "/coat-of-arms/img/Lapi/Lapi.png",
       "alt": "",
       "location": "/coat-of-arms/img/Lapi/lapi-location.png",
       "locationAlt": "",
       "images": [
         {
           "municipality": "Enontekiö",
-          "url": "/coat-of-arms/img/Lapland/Enontekiö.png",
+          "url": "/coat-of-arms/img/Lapi/Enontekiö.png",
           "alt": ""
         },
         {
           "municipality": "Inari",
-          "url": "/coat-of-arms/img/Lapland/Inari.png",
+          "url": "/coat-of-arms/img/Lapi/Inari.png",
           "alt": ""
         },
         {
           "municipality": "Kemi",
-          "url": "/coat-of-arms/img/Lapland/Kemi.png",
+          "url": "/coat-of-arms/img/Lapi/Kemi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kemijärvi",
+          "url": "/coat-of-arms/img/Lapi/Kemijärvi.png",
           "alt": ""
         },
         {
           "municipality": "Keminmaa",
-          "url": "/coat-of-arms/img/Lapland/Keminmaa.png",
+          "url": "/coat-of-arms/img/Lapi/Keminmaa.png",
           "alt": ""
         },
         {
           "municipality": "Kittilä",
-          "url": "/coat-of-arms/img/Lapland/Kittilä.png",
+          "url": "/coat-of-arms/img/Lapi/Kittilä.png",
           "alt": ""
         },
         {
           "municipality": "Kolari",
-          "url": "/coat-of-arms/img/Lapland/Kolari.png",
+          "url": "/coat-of-arms/img/Lapi/Kolari.png",
           "alt": ""
         },
         {
           "municipality": "Muonio",
-          "url": "/coat-of-arms/img/Lapland/Muonio.png",
+          "url": "/coat-of-arms/img/Lapi/Muonio.png",
           "alt": ""
         },
         {
           "municipality": "Pelkosenniemi",
-          "url": "/coat-of-arms/img/Lapland/Pelkosenniemi.png",
+          "url": "/coat-of-arms/img/Lapi/Pelkosenniemi.png",
           "alt": ""
         },
         {
           "municipality": "Pellon",
-          "url": "/coat-of-arms/img/Lapland/Pellon.png",
+          "url": "/coat-of-arms/img/Lapi/Pellon.png",
           "alt": ""
         },
         {
           "municipality": "Posio",
-          "url": "/coat-of-arms/img/Lapland/Posio.png",
+          "url": "/coat-of-arms/img/Lapi/Posio.png",
           "alt": ""
         },
         {
           "municipality": "Ranua",
-          "url": "/coat-of-arms/img/Lapland/Ranua.png",
+          "url": "/coat-of-arms/img/Lapi/Ranua.png",
           "alt": ""
         },
         {
           "municipality": "Rovaniemi",
-          "url": "/coat-of-arms/img/Lapland/Rovaniemi.png",
+          "url": "/coat-of-arms/img/Lapi/Rovaniemi.png",
           "alt": ""
         },
         {
           "municipality": "Salla",
-          "url": "/coat-of-arms/img/Lapland/Salla.png",
+          "url": "/coat-of-arms/img/Lapi/Salla.png",
           "alt": ""
         },
         {
           "municipality": "Savukoski",
-          "url": "/coat-of-arms/img/Lapland/Savukoski.png",
+          "url": "/coat-of-arms/img/Lapi/Savukoski.png",
           "alt": ""
         },
         {
           "municipality": "Simo",
-          "url": "/coat-of-arms/img/Lapland/Simo.png",
+          "url": "/coat-of-arms/img/Lapi/Simo.png",
           "alt": ""
         },
         {
           "municipality": "Sodankyla",
-          "url": "/coat-of-arms/img/Lapland/Sodankyla.png",
+          "url": "/coat-of-arms/img/Lapi/Sodankyla.png",
           "alt": ""
         },
         {
           "municipality": "Tervola",
-          "url": "/coat-of-arms/img/Lapland/Tervola.png",
+          "url": "/coat-of-arms/img/Lapi/Tervola.png",
           "alt": ""
         },
         {
           "municipality": "Tornio",
-          "url": "/coat-of-arms/img/Lapland/Tornio.png",
+          "url": "/coat-of-arms/img/Lapi/Tornio.png",
           "alt": ""
         },
         {
           "municipality": "Utsjoki",
-          "url": "/coat-of-arms/img/Lapland/Utsjoki.png",
+          "url": "/coat-of-arms/img/Lapi/Utsjoki.png",
           "alt": ""
         },
         {
           "municipality": "Ylitornio",
-          "url": "/coat-of-arms/img/Lapland/Ylitornio.png",
+          "url": "/coat-of-arms/img/Lapi/Ylitornio.png",
           "alt": ""
         }
       ]

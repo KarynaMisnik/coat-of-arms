@@ -486,7 +486,7 @@
       ]
     },
     {
-      "region": "Lapland",
+      "region": "Lapi",
       "images": [
         {
           "name": "Enontekiö",
@@ -498,6 +498,10 @@
         },
         {
           "name": "Kemi",
+          "alt": ""
+        },
+        {
+          "name": "Kemijärvi",
           "alt": ""
         },
         {
