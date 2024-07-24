@@ -3,17 +3,25 @@ import Paper from "@mui/material/Paper";
 const About = () => {
   return (
     <div style={{ padding: "1rem", height: "100vh" }}>
-      <Paper elevation={3}>
+      <div>
         <h1
           style={{
             textAlign: "center",
             padding: "1rem",
             fontSize: "var(--h1)",
+            color: "white",
           }}
         >
           Finnish Emblem
         </h1>
-        <p style={{ padding: "1.2rem", fontSize: "1.5rem" }}>
+        <p
+          style={{
+            padding: "1.2rem",
+            fontSize: "2rem",
+            color: "white",
+            textAlign: "justify",
+          }}
+        >
           This project is dedicated to exploring the rich regional tapestry of
           Finland! Immerse yourself in the fascinating details of Finland's 19
           regions, each adorned with its unique coat of arms. The country has
@@ -26,7 +34,7 @@ const About = () => {
           knowledge with the interactive quiz, challenging you to match regions
           and municipalities with their distinctive coat of arms.
         </p>
-      </Paper>
+      </div>
     </div>
   );
 };
