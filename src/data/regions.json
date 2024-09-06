@@ -1,12 +1,12 @@
 {
   "regions": [
     {
-      "name": "Ahvenmaa",
+      "name": "Ahvenanmaa",
       "regionDescription": "The coat of arms of Åland was originally to be granted to the Swedish island province of Öland in 1560. ",
-      "img": "Ahvenmaa",
+      "img": "Ahvenanmaa",
       "src": "/coat-of-arms/img/Ahvenanmaa/Ahvenanmaa.png",
       "alt": "white crown on top, a yellow elk on blue background",
-      "location": "/coat-of-arms/img/Ahvenanmaa/ahvenmaa-location.png",
+      "location": "/coat-of-arms/img/Ahvenanmaa/ahvenanmaa-location.png",
       "locationAlt": "",
       "images": [
         {
