@@ -123,7 +123,9 @@ export default function Navbar(props) {
           borderBottom: "3px solid var( --white)",
         }}
       >
-        {/*
+        {/* Add filter method or smth: go through data to show result munisipalities and regions 
+
+
           <Search>
             <SearchIconWrapper>
               <SearchIcon />
