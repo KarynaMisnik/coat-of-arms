@@ -15,7 +15,7 @@ import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
 import { NavLink } from "react-router-dom";
 
-import { styled, alpha } from "@mui/material/styles";
+import { styled } from "@mui/material/styles";
 import InputBase from "@mui/material/InputBase";
 
 const navText = {
@@ -38,23 +38,13 @@ export default function Navbar(props) {
 
   const Search = styled("div")(({ theme }) => ({
     borderRadius: "50px",
-    padding: 0,
-    backgroundColor: "blue",
+    margin: "0  10px",
+    padding: 3,
+    backgroundColor: "var(--black)",
+    transition: "transform .3s ease-in-out",
     "&:hover": {
-      backgroundColor: "yellow",
+      transform: "scale(1.1)",
     },
-    margin: 0,
-    width: "100%",
-    [theme.breakpoints.up("sm")]: {
-      width: "auto",
-    },
-  }));
-
-  const SearchIconWrapper = styled("div")(({ theme }) => ({
-    height: "100%",
-    position: "absolute",
-    pointerEvents: "none",
-    display: "flex",
   }));
 
   const StyledInputBase = styled(InputBase)(({ theme }) => ({
@@ -62,14 +52,18 @@ export default function Navbar(props) {
     width: "100%",
     "& .MuiInputBase-input": {
       margin: "0 10px",
+
       // vertical padding + font size from searchIcon
 
       transition: theme.transitions.create("width"),
       [theme.breakpoints.up("sm")]: {
-        width: "12ch",
+        width: "10ch",
         "&:focus": {
-          width: "20ch",
+          width: "15ch",
         },
+      },
+      [theme.breakpoints.up("xs")]: {
+        width: "17ch",
       },
     },
   }));
@@ -100,6 +94,7 @@ export default function Navbar(props) {
           </ListItem>
         ))}
       </List>
+      {/* Possible to add other elemnts in menu drawer */}
     </Box>
   );
 
@@ -143,14 +138,6 @@ export default function Navbar(props) {
           >
             Finnish Emblem
           </Typography>
-          {/* SEARCH BAR HERE */}
-          <Search>
-            <StyledInputBase
-              placeholder="Search…"
-              inputProps={{ "aria-label": "search" }}
-            />
-          </Search>
-          {/* SEARCH BAR ENDS HERE */}
 
           <Box sx={{ display: { xs: "none", sm: "block" } }}>
             {navItems.map((item) => (
@@ -168,6 +155,14 @@ export default function Navbar(props) {
               </NavLink>
             ))}
           </Box>
+          {/* SEARCH BAR HERE */}
+          <Search>
+            <StyledInputBase
+              placeholder="Search…"
+              inputProps={{ "aria-label": "search" }}
+            />
+          </Search>
+          {/* SEARCH BAR ENDS HERE */}
         </Toolbar>
       </AppBar>
       <nav>
