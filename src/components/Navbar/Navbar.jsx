@@ -38,12 +38,13 @@ export default function Navbar(props) {
 
   const Search = styled("div")(({ theme }) => ({
     borderRadius: "50px",
+    border: "1px solid var(--white)",
     margin: "0  10px",
-    padding: 3,
+    padding: 1,
     backgroundColor: "var(--black)",
     transition: "transform .3s ease-in-out",
     "&:hover": {
-      transform: "scale(1.1)",
+      transform: "scale(1.05)",
     },
   }));
 
