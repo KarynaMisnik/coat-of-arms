@@ -42,10 +42,8 @@ export default function Navbar(props) {
     margin: "0  10px",
     padding: 1,
     backgroundColor: "var(--black)",
-    transition: "transform .3s ease-in-out",
-    "&:hover": {
-      transform: "scale(1.05)",
-    },
+
+    "&:hover": {},
   }));
 
   const StyledInputBase = styled(InputBase)(({ theme }) => ({
@@ -53,8 +51,6 @@ export default function Navbar(props) {
     width: "100%",
     "& .MuiInputBase-input": {
       margin: "0 10px",
-
-      // vertical padding + font size from searchIcon
 
       transition: theme.transitions.create("width"),
       [theme.breakpoints.up("sm")]: {
