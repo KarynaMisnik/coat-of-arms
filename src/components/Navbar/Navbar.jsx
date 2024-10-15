@@ -17,7 +17,6 @@ import { NavLink } from "react-router-dom";
 
 import { styled } from "@mui/material/styles";
 import InputBase from "@mui/material/InputBase";
-import { Scale } from "@mui/icons-material";
 
 const navText = {
   color: "var(--white)",

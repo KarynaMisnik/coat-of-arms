@@ -20,6 +20,13 @@
   --h2: 2rem;
 }
 
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
 @media (min-width: 300px) {
   :root {
     --h1: 1.25rem;
