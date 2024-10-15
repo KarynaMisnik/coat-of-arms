@@ -17,6 +17,7 @@ import { NavLink } from "react-router-dom";
 
 import { styled } from "@mui/material/styles";
 import InputBase from "@mui/material/InputBase";
+import { Scale } from "@mui/icons-material";
 
 const navText = {
   color: "var(--white)",
@@ -42,8 +43,11 @@ export default function Navbar(props) {
     margin: "0  10px",
     padding: 1,
     backgroundColor: "var(--black)",
+    transition: "transform .3s linear",
 
-    "&:hover": {},
+    "&:hover": {
+      transform: "scale(1.03)",
+    },
   }));
 
   const StyledInputBase = styled(InputBase)(({ theme }) => ({
@@ -55,12 +59,9 @@ export default function Navbar(props) {
       transition: theme.transitions.create("width"),
       [theme.breakpoints.up("sm")]: {
         width: "10ch",
-        "&:focus": {
-          width: "15ch",
-        },
       },
       [theme.breakpoints.up("xs")]: {
-        width: "17ch",
+        width: "15ch",
       },
     },
   }));
