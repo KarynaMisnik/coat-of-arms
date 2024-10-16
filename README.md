@@ -4,9 +4,8 @@
 
 ## 📜 TO-DO:
 
-
+- [ ] Add old coat of arms, before consolidation;
 - [ ] Add population info (Tilastokeskus);
-- [x] Add old coat of arms, before consolidation;
 - [ ] Add English translation of geographic names; 
 - [ ] Update layout(Figma update);
 - [ ] Build a quiz;
