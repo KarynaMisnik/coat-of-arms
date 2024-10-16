@@ -18,6 +18,8 @@ import { NavLink } from "react-router-dom";
 import { styled } from "@mui/material/styles";
 import InputBase from "@mui/material/InputBase";
 
+import Searchbar from "./Searchbar";
+
 const navText = {
   color: "var(--white)",
   fontSize: "1.2rem",
@@ -119,14 +121,12 @@ export default function Navbar(props) {
           >
             <MenuIcon />
           </IconButton>
-
           <Typography
             sx={{ display: { xs: "flex", sm: "none", md: "none", xl: "none" } }}
             {...navText}
           >
             Finnish Emblem
           </Typography>
-
           <Typography
             variant="h6"
             component="div"
@@ -135,7 +135,6 @@ export default function Navbar(props) {
           >
             Finnish Emblem
           </Typography>
-
           <Box sx={{ display: { xs: "none", sm: "block" } }}>
             {navItems.map((item) => (
               <NavLink className="nav-link" to={`/${item.toLowerCase()}`}>
@@ -152,14 +151,15 @@ export default function Navbar(props) {
               </NavLink>
             ))}
           </Box>
-          {/* SEARCH BAR HERE */}
+          <Searchbar />
+          {/* SEARCH BAR HERE 
           <Search>
             <StyledInputBase
               placeholder="Search…"
               inputProps={{ "aria-label": "search" }}
             />
           </Search>
-          {/* SEARCH BAR ENDS HERE */}
+          */}
         </Toolbar>
       </AppBar>
       <nav>
