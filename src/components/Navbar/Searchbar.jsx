@@ -1,11 +1,9 @@
-// src/components/SearchBar.jsx
-
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { styled } from "@mui/material/styles";
 import InputBase from "@mui/material/InputBase";
 import { Box, Typography } from "@mui/material";
-import regionsData from "../../data/regions.json"; // Assuming the JSON is imported
+import regionsData from "../../data/regions.json";
 
 const Search = styled("div")(({ theme }) => ({
   borderRadius: "50px",
@@ -38,13 +36,11 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 
 const Searchbar = () => {
   const [searchQuery, setSearchQuery] = useState("");
-  const [errorMessage, setErrorMessage] = useState("");
   const navigate = useNavigate();
 
   const handleSearch = (event) => {
     if (event.key === "Enter") {
       const searchTerm = searchQuery.toLowerCase();
-      setErrorMessage(""); // Reset error message before searching
 
       // Search for matching region or municipality
       const matchedRegion = regionsData.regions.find(
@@ -74,9 +70,7 @@ const Searchbar = () => {
           );
           setSearchQuery("");
         } else {
-          setErrorMessage(
-            `No region or municipality found for "${searchQuery}".`
-          );
+          navigate("/search-error");
         }
       }
     }
@@ -93,17 +87,6 @@ const Searchbar = () => {
           onKeyDown={handleSearch} // Handles Enter key press
         />
       </Search>
-
-      {errorMessage && (
-        <Typography
-          color="error"
-          variant="body1"
-          align="center"
-          style={{ marginTop: "1rem" }}
-        >
-          {errorMessage}
-        </Typography>
-      )}
     </Box>
   );
 };

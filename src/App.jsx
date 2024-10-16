@@ -4,6 +4,7 @@ import Home from "./pages/Home/Home";
 import About from "./pages/About/About";
 import Quiz from "./pages/Quiz/Quiz";
 import Region from "./pages/Region/Region";
+import SearchError from "./pages/Errors/SearchError";
 import Municipality from "./pages/Municipality/Municipality";
 import "./data/municipalities.json";
 import "./index.css";
@@ -18,6 +19,7 @@ function App() {
         <Route path="/home" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/quiz" element={<Quiz />} />
+        <Route path="/search-error" element={<SearchError />} />
         <Route path="/region/:regionName" element={<Region />} />
         <Route
           path="/municipality/:regionName/:municipalityName"
