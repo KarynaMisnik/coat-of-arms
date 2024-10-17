@@ -133,6 +133,51 @@ const Region = () => {
           </Grid>
         ))}
       </Grid>
+      {/* ATTENTION: HERE WILL BE OLD MUNICIPALITIES GRID */}
+      <Grid container spacing={2}>
+        {regionData.consolidated.map((consolidatedImg) => (
+          <Grid
+            item
+            xs={6}
+            sm={4}
+            md={4}
+            lg={3}
+            xl={2}
+            key={consolidatedImg.oldMunicipality}
+            style={{
+              display: "flex",
+              flexDirection: "row",
+              justifyContent: "center",
+              alignItems: "center",
+            }}
+          >
+            <NavLink
+              className="nav-link"
+              to={`/municipality/${regionName}/${consolidatedImg.oldMunicipality}`}
+              style={{
+                display: "flex",
+                justifyContent: "center",
+              }}
+            >
+              <Paper elevation={3} style={{ padding: "1rem", flex: 1 }}>
+                <img
+                  src={consolidatedImg.url}
+                  alt={consolidatedImg.alt}
+                  style={{
+                    maxWidth: "100%",
+                    height: "auto",
+                    alignItems: "center",
+                  }}
+                />
+                <h3 style={{ textAlign: "center", fontSize: "var(--h3)" }}>
+                  {consolidatedImg.oldMunicipality}
+                </h3>
+              </Paper>
+            </NavLink>
+          </Grid>
+        ))}
+      </Grid>
+      <h1 style={{ color: "white" }}>END OF GRID ADD OLD MUNIS</h1>
     </div>
   );
 };
