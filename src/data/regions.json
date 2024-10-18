@@ -308,6 +308,92 @@
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Vimpeli.png",
           "alt": ""
         }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Alajärvi",
+          "oldName": "Lehtimäki",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Alajärvi/Lehtimäki.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Alavus",
+          "oldName": "Alavus",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Alavus/Alavus.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Alavus",
+          "oldName": "Töysä",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Alavus/Töysä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kauhava",
+          "oldName": "Alahärmä",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Kauhava/Alahärmä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kauhava",
+          "oldName": "Kauhava",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Kauhava/Kauhava-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kauhava",
+          "oldName": "Kortesjarvi",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Kauhava/Kortesjarvi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kauhava",
+          "oldName": "Ylihärmä",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Kauhava/Ylihärmä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kurikka",
+          "oldName": "Jalasjärvi",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Kurikka/Jalasjärvi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kurikka",
+          "oldName": "Jurva",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Kurikka/Jurva.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kurikka",
+          "oldName": "Kurikka",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Kurikka/Kurikka-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Seinäjoki",
+          "oldName": "Nurmo",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Seinäjoki/Nurmo.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Seinäjoki",
+          "oldName": "Peräseinäjoki",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Seinäjoki/Peräseinäjoki.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Seinäjoki",
+          "oldName": "Seinäjoen-maalaiskunta",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Seinäjoki/Seinäjoen-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Seinäjoki",
+          "oldName": "Ylistaro",
+          "url": "/img/old-coats/old-coats-Etelä-Pohjanmaa/Seinäjoki/Ylistaro.png",
+          "alt": ""
+        }
       ]
     },
     {
@@ -376,6 +462,86 @@
         {
           "municipality": "Sulkava",
           "url": "/coat-of-arms/img/Etelä-Savo/Sulkava.png",
+          "alt": ""
+        }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Mikkeli",
+          "oldName": "Anttola",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Mikkeli/Anttola.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mikkeli",
+          "oldName": "Haukivuori",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Mikkeli/Haukivuori.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mikkeli",
+          "oldName": "Mikkelin-maalaiskunta",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Mikkeli/Mikkelin-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mikkeli",
+          "oldName": "Ristiina",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Mikkeli/Ristiina.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mikkeli",
+          "oldName": "Suomenniemi",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Mikkeli/Suomenniemi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Pieksämäki",
+          "oldName": "Jäppilä",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Pieksämäki/Jäppilä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Pieksämäki",
+          "oldName": "Pieksämäen-maalaiskunta",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Pieksämäki/Pieksämäen-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Pieksämäki",
+          "oldName": "Pieksämäki",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Pieksämäki/Pieksämäki.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Pieksämäki",
+          "oldName": "Virtasalmi",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Pieksämäki/Virtasalmi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Savonlinna",
+          "oldName": "Kerimäki",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Savonlinna/Kerimäki.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Savonlinna",
+          "oldName": "Punkaharju",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Savonlinna/Punkaharju.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Savonlinna",
+          "oldName": "Sääminki",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Savonlinna/Sääminki.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Savonlinna",
+          "oldName": "Savonranta",
+          "url": "/img/old-coats/old-coats-Etela-Savo/Savonlinna/Savonranta.png",
           "alt": ""
         }
       ]
