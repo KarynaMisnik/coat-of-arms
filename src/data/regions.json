@@ -93,7 +93,8 @@
       "consolidated": [
         {
           "oldMunicipality": "Maarianhamina",
-          "url": "/coat-of-arms/img/old-coats/old-coats-Ahvenanmaa/Maarianhamina.png",
+          "oldName": "Maarianhamina",
+          "url": "/img/old-coats/old-coats-Ahvenanmaa/Maarianhamina/Maarianhamina.png",
           "alt": ""
         }
       ]
@@ -149,6 +150,62 @@
         {
           "municipality": "Taipalsaari",
           "url": "/coat-of-arms/img/Etelä-Karjala/Taipalsaari.png",
+          "alt": ""
+        }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Lappeenranta",
+          "oldName": "Joutseno",
+          "url": "/img/old-coats/old-coats-Etela-Karjala/Lappeenranta/Joutseno.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Lappeenranta",
+          "oldName": "Lappee",
+          "url": "/img/old-coats/old-coats-Etela-Karjala/Lappeenranta/Lappee.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Lappeenranta",
+          "oldName": "Lauritsala",
+          "url": "/img/old-coats/old-coats-Etela-Karjala/Lappeenranta/Lauritsala.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Lappeenranta",
+          "oldName": "Nuijamaa",
+          "url": "/img/old-coats/old-coats-Etela-Karjala/Lappeenranta/Nuijamaa.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Lappeenranta",
+          "oldName": "Ylämaa",
+          "url": "/img/old-coats/old-coats-Etela-Karjala/Lappeenranta/Ylämaa.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Parikkala",
+          "oldName": "Parikkala",
+          "url": "/img/old-coats/old-coats-Etela-Karjala/Parikkala/Parikkala-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Parikkala",
+          "oldName": "Saari",
+          "url": "/img/old-coats/old-coats-Etela-Karjala/Parikkala/Saari.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Parikkala",
+          "oldName": "Uukuniemi",
+          "url": "/img/old-coats/old-coats-Etela-Karjala/Parikkala/Uukuniemi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Rautjärvi",
+          "oldName": "Simpele",
+          "url": "/img/old-coats/old-coats-Etela-Karjala/Rautjärvi/Simpele.png",
           "alt": ""
         }
       ]

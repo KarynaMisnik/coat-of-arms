@@ -6,6 +6,7 @@ import React, { useState, useEffect } from "react";
 import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Grid";
 import { useParams, NavLink } from "react-router-dom";
+import { color, display } from "@mui/system";
 
 const Region = () => {
   const { regionName } = useParams();
@@ -133,51 +134,64 @@ const Region = () => {
           </Grid>
         ))}
       </Grid>
-      {/* ATTENTION: HERE WILL BE OLD MUNICIPALITIES GRID */}
-      <Grid container spacing={2}>
-        {regionData.consolidated.map((consolidatedImg) => (
-          <Grid
-            item
-            xs={6}
-            sm={4}
-            md={4}
-            lg={3}
-            xl={2}
-            key={consolidatedImg.oldMunicipality}
-            style={{
-              display: "flex",
-              flexDirection: "row",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
-          >
-            <NavLink
-              className="nav-link"
-              to={`/municipality/${regionName}/${consolidatedImg.oldMunicipality}`}
+      <div
+        className="oldMunicipalities-container"
+        style={{
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center",
+        }}
+      >
+        <h1 style={{ color: "var(--white)" }}>Old municipalities</h1>
+        {/* ATTENTION: HERE WILL BE OLD MUNICIPALITIES GRID */}
+        <Grid container spacing={2}>
+          {regionData.consolidated.map((consolidatedImg) => (
+            <Grid
+              item
+              xs={6}
+              sm={4}
+              md={4}
+              lg={3}
+              xl={2}
+              key={consolidatedImg.oldMunicipality}
               style={{
                 display: "flex",
+                flexDirection: "row",
                 justifyContent: "center",
+                alignItems: "center",
               }}
             >
-              <Paper elevation={3} style={{ padding: "1rem", flex: 1 }}>
-                <img
-                  src={consolidatedImg.url}
-                  alt={consolidatedImg.alt}
-                  style={{
-                    maxWidth: "100%",
-                    height: "auto",
-                    alignItems: "center",
-                  }}
-                />
-                <h3 style={{ textAlign: "center", fontSize: "var(--h3)" }}>
-                  {consolidatedImg.oldMunicipality}
-                </h3>
-              </Paper>
-            </NavLink>
-          </Grid>
-        ))}
-      </Grid>
-      <h1 style={{ color: "white" }}>END OF GRID ADD OLD MUNIS</h1>
+              <NavLink
+                className="nav-link"
+                to={`/municipality/${regionName}/${consolidatedImg.oldMunicipality}`}
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                }}
+              >
+                <Paper elevation={3} style={{ padding: "1rem", flex: 1 }}>
+                  <h3 style={{ textAlign: "center", fontSize: "var(--h3)" }}>
+                    {consolidatedImg.oldName}
+                  </h3>
+                  <img
+                    src={consolidatedImg.url}
+                    alt={consolidatedImg.alt}
+                    style={{
+                      maxWidth: "100%",
+                      height: "auto",
+                      alignItems: "center",
+                    }}
+                  />
+                  <h4 style={{ textAlign: "center" }}>
+                    {consolidatedImg.oldMunicipality}
+                  </h4>
+                </Paper>
+              </NavLink>
+            </Grid>
+          ))}
+        </Grid>
+      </div>
     </div>
   );
 };
