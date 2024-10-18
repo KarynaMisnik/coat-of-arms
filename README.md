@@ -18,6 +18,10 @@
 
 ##  <a href='https://fi.wikipedia.org/wiki/Suomen_kunnanvaakunat'>Info</a>
 
+<br>
+
+## <a href='https://fi.wikipedia.org/wiki/Suomen_kunnanvaakunat#K%C3%A4yt%C3%B6st%C3%A4_poistuneet_tai_lakkautettujen_kuntien_vaakunat'>Info(old coat of arms)</a>
+
 </ul></summary>
 </div>
 
