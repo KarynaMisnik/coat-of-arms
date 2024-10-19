@@ -145,6 +145,8 @@ const Region = () => {
       >
         <h1 style={{ color: "var(--white)" }}>Old municipalities</h1>
         {/* ATTENTION: HERE WILL BE OLD MUNICIPALITIES GRID */}
+
+        {/* 
         <Grid container spacing={2}>
           {regionData.consolidated.map((consolidatedImg) => (
             <Grid
@@ -191,6 +193,7 @@ const Region = () => {
             </Grid>
           ))}
         </Grid>
+*/}
       </div>
     </div>
   );
