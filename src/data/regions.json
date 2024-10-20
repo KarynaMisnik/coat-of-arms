@@ -594,6 +594,26 @@
           "url": "/coat-of-arms/img/Kainuu/Suomussalmi.png",
           "alt": ""
         }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Kajaanin-maalaiskunta",
+          "oldName": "Kajaanin-maalaiskunta",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kainu/Kajaani/Kajaanin-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kajaani",
+          "oldName": "Paltamo",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kainu/Kajaani/Paltamo.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kajaani",
+          "oldName": "Vuolijoki",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kainu/Kajaani/Vuolijoki.png",
+          "alt": ""
+        }
       ]
     },
     {
