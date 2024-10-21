@@ -679,6 +679,68 @@
           "url": "/coat-of-arms/img/Kanta-Häme/Ypäjä.png",
           "alt": ""
         }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Forssa",
+          "oldName": "Forssa",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Forssa/Forssa.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Hämeenlinna",
+          "oldName": "Hämeenlinnan-maalaiskunta",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hämeenlinna/Hämeenlinnan-maalaiskunta-unofficial.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Hämeenlinna",
+          "oldName": "Hauho",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hämeenlinna/Hauho.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Hämeenlinna",
+          "oldName": "Kalvola",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hämeenlinna/Kalvola.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Hämeenlinna",
+          "oldName": "Lammi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hämeenlinna/Lammi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Hämeenlinna",
+          "oldName": "Renko",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hämeenlinna/Renko.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Hämeenlinna",
+          "oldName": "Tuulos",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hämeenlinna/Tuulos.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Hämeenlinna",
+          "oldName": "Vanaja",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hämeenlinna/Vanaja.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Hattula",
+          "oldName": "Tyrväntö",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hattula/Tyrväntö.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Hattula",
+          "oldName": "Vanaja",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hattula/Vanaja-osa.png",
+          "alt": ""
+        }
       ]
     },
     {
