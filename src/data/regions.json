@@ -1099,6 +1099,68 @@
           "url": "/coat-of-arms/img/Kymenlaakso/Virolahti.png",
           "alt": ""
         }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Hamina",
+          "oldName": "Vehkalahti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Hamina/Vehkalahti.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kotka",
+          "oldName": "Haapasaari",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kotka/Haapasaari.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kotka",
+          "oldName": "Karhula",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kotka/Karhula.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kotka",
+          "oldName": "Kymi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kotka/Kymi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kouvala",
+          "oldName": "Anjalankoski",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Anjalankoski.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kouvala",
+          "oldName": "Elimäki",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Elimäki.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kouvala",
+          "oldName": "Jaala",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Jaala.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kouvala",
+          "oldName": "Kouvola",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Kouvola-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kouvala",
+          "oldName": "Kuusankoski",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Kuusankoski.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kouvala",
+          "oldName": "Valkeala",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Valkeala.png",
+          "alt": ""
+        }
       ]
     },
     {
