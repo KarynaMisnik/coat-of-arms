@@ -943,6 +943,122 @@
           "url": "/coat-of-arms/img/Keski-Suomi/Viitasaari.png",
           "alt": ""
         }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Äänekoski",
+          "oldName": "Äänekoski",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Äänekoski/Äänekosken-maaliskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Äänekoski",
+          "oldName": "Äänekoski",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Äänekoski/Äänekoski-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Äänekoski",
+          "oldName": "Konginkangas",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Äänekoski/Konginkangas.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Äänekoski",
+          "oldName": "Sumiainen",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Äänekoski/Sumiainen.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Äänekoski",
+          "oldName": "Suolahti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Äänekoski/Suolahti.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jämsä",
+          "oldName": "Jämsä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jämsä/Jämsä-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jämsä",
+          "oldName": "Jämsänkoski",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jämsä/Jämsänkoski.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jämsä",
+          "oldName": "Koskenpää",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jämsä/Koskenpää.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jämsä",
+          "oldName": "Kuorevesi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jämsä/Kuorevesi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jämsä",
+          "oldName": "Längelmäki",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jämsä/Längelmäki-osa.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Joutsa",
+          "oldName": "Leivonmäki",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Joutsa/Leivonmäki.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jyväskylä",
+          "oldName": "Jyväskylä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jyväskylä/Jyväskylä-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jyväskylä",
+          "oldName": "Jyväskylän-maalaiskunta",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jyväskylä/Jyväskylän-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jyväskylä",
+          "oldName": "Jyväskylän mlk.",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jyväskylä/Jyväskylän-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jyväskylä",
+          "oldName": "Korpilahti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jyväskylä/Korpilahti.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jyväskylä",
+          "oldName": "Muurame",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jyväskylä/Muurame.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Jyväskylä",
+          "oldName": "Säynätsalo",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jyväskylä/Säynätsalo.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Keuruu",
+          "oldName": "Pihlajavesi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Keuruu/Pihlajavesi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Saarijärvi",
+          "oldName": "Pylkönmäki",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Saarijärvi/Pylkönmäki.png",
+          "alt": ""
+        }
       ]
     },
     {
