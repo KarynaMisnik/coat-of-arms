@@ -1374,6 +1374,32 @@
           "url": "/coat-of-arms/img/Päijät-Häme/Sysmä.png",
           "alt": ""
         }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Heinola",
+          "oldName": "Heinolan mlk.",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Päijät-Häme/Heinola/Heinolan-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Hollola",
+          "oldName": "Hämeenkoski",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Päijät-Häme/Hollola/Hämeenkoski.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Lahti",
+          "oldName": "Nastola",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Päijät-Häme/Lahti/Nastola.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Lahti",
+          "oldName": "Artjärvi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Päijät-Häme/Orimattila/Artjärvi.png",
+          "alt": ""
+        }
       ]
     },
     {
