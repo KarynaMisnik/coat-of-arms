@@ -1276,6 +1276,44 @@
           "url": "/coat-of-arms/img/Lappi/Ylitornio.png",
           "alt": ""
         }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Kemijärvi",
+          "oldName": "Kemijärven mlk.",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Lappi/Kemijärvi/Kemijärven-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kemijärvi",
+          "oldName": "Kemijärvi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Lappi/Kemijärvi/Kemijärvi-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Rovaniemi",
+          "oldName": "Rovaniemen mlk.",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Lappi/Rovaniemi/Rovaniemen-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Rovaniemi",
+          "oldName": "Rovaniemi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Lappi/Rovaniemi/Rovaniemi-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Tornio",
+          "oldName": "Alatornio",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Lappi/Tornio/Alatornio.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Tornio",
+          "oldName": "Karunki",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Lappi/Tornio/Karunki.png",
+          "alt": ""
+        }
       ]
     },
     {
