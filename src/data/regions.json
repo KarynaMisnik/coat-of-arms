@@ -1525,6 +1525,206 @@
           "url": "/coat-of-arms/img/Pirkanmaa/Ylöjärvi.png",
           "alt": ""
         }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Akaa",
+          "oldName": "Kylmäkoski",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Akaa/Kylmäkoski.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Akaa",
+          "oldName": "Toijala",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Akaa/Toijala.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Akaa",
+          "oldName": "Viiala",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Akaa/Viiala.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Ikaalinen",
+          "oldName": "Ikaalisten mlk",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Ikaalinen/Ikaalisten-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Ikaalinen",
+          "oldName": "Vanhakauppala",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Ikaalinen/Vanhakauppala.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kangasala",
+          "oldName": "Kuhmalahti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Kangasala/Kuhmalahti.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kangasala",
+          "oldName": "Sahalahti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Kangasala/Sahalahti.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mänttä-Vilppula(Vilppula)",
+          "oldName": "Pohjaslahti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Mänttä-Vilppula/Vilppula/Pohjaslahti-osa.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mänttä-Vilppula(Vilppula)",
+          "oldName": "Ruovesi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Mänttä-Vilppula/Vilppula/Ruovesi-osa.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mänttä-Vilppula",
+          "oldName": "Mänttä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Mänttä-Vilppula/Mänttä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mänttä-Vilppula",
+          "oldName": "Vilppula",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Mänttä-Vilppula/Vilppula.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Nokia",
+          "oldName": "Suoniemi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Nokia/Suoniemi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Nokia",
+          "oldName": "Tottijärvi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Nokia/Tottijärvi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Orivesi",
+          "oldName": "Eräjärvi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Orivesi/Eräjärvi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Orivesi",
+          "oldName": "Kangasala",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Orivesi/Kangasala.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Orivesi",
+          "oldName": "Längelmäki",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Orivesi/Längelmäki.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Pälkäne",
+          "oldName": "Luopioinen",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Pälkäne/Luopioinen.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Pälkäne",
+          "oldName": "Pälkäne",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Pälkäne/Pälkäne-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Sastamala(Äetsä)",
+          "oldName": "Keikyä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Sastamala/Äetsä/Keikyä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Sastamala(Äetsä)",
+          "oldName": "Kiikka",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Sastamala/Äetsä/Kiikka.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Sastamala(Vammala)",
+          "oldName": "Karkku",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Sastamala/Vammala/Karkku.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Sastamala(Vammala)",
+          "oldName": "Suodenniemi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Sastamala/Vammala/Suodenniemi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Sastamala(Vammala)",
+          "oldName": "Tyrvää",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Sastamala/Vammala/Tyrvää.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Sastamala",
+          "oldName": "Äetsä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Sastamala/Äetsä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Sastamala",
+          "oldName": "Kiikoinen",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Sastamala/Kiikoinen.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Sastamala",
+          "oldName": "Mouhijärvi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Sastamala/Mouhijärvi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Sastamala",
+          "oldName": "Vammala",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Sastamala/Vammala.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Tampere",
+          "oldName": "Aitolahti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Tampere/Aitolahti.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Tampere",
+          "oldName": "Messukylä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Tampere/Messukylä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Tampere",
+          "oldName": "Teisko",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Tampere/Teisko.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Valkeakoski",
+          "oldName": "Sääksmäki",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Valkeakoski/Sääksmäki.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Ylöjärvi",
+          "oldName": "Kuru",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Ylöjärvi/Kuru.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Ylöjärvi",
+          "oldName": "Viljakkala",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Ylöjärvi/Viljakkala.png",
+          "alt": ""
+        }
       ]
     },
     {
@@ -1603,6 +1803,182 @@
         {
           "municipality": "Vöyri",
           "url": "/coat-of-arms/img/Pohjanmaa/Vöyri.png",
+          "alt": ""
+        }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Kristiinankaupunki",
+          "oldName": "Lapväärtti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Kristiinankaupunki/Lapväärtti.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kristiinankaupunki",
+          "oldName": "Siipyy",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Kristiinankaupunki/Siipyy.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kristiinankaupunki",
+          "oldName": "Tiukka",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Kristiinankaupunki/Tiukka.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kruunupyy",
+          "oldName": "Alaveteli",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Kruunupyy/Alaveteli.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kruunupyy",
+          "oldName": "Kruunupyy",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Kruunupyy/Kruunupyy-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kruunupyy",
+          "oldName": "Teerijärvi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Kruunupyy/Teerijärvi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Maalahti",
+          "oldName": "Bergö",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Maalahti/Bergö.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Maalahti",
+          "oldName": "Maalahti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Maalahti/Maalahti-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Maalahti",
+          "oldName": "Petolahti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Maalahti/Petolahti.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Maalahti",
+          "oldName": "Pirttikylä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Maalahti/Pirttikylä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mustasaari",
+          "oldName": "Björköby",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Mustasaari/Björköby.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mustasaari",
+          "oldName": "Koivulahti",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Mustasaari/Koivulahti.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mustasaari",
+          "oldName": "Mustasaari",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Mustasaari/Mustasaari-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mustasaari",
+          "oldName": "Raippaluoto",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Mustasaari/Raippaluoto.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Mustasaari",
+          "oldName": "Sulva",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Mustasaari/Sulva.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Närpiö",
+          "oldName": "Pirttikylä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Närpiö/Pirttikylä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Närpiö",
+          "oldName": "Ylimarkku",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Närpiö/Ylimarkku.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Pietarsaari",
+          "oldName": "Ähtävä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Pietarsaari/Ähtävä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Pietarsaari",
+          "oldName": "Pietarsaaren mlk.",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Pietarsaari/Pietarsaaren-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Pietarsaari",
+          "oldName": "Purmo",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Pietarsaari/Purmo.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Uusikaarlepyy",
+          "oldName": "Jepua",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Uusikaarlepyy/Jepua.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Uusikaarlepyy",
+          "oldName": "Munsala",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Uusikaarlepyy/Munsala.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Uusikaarlepyy",
+          "oldName": "Pedersöre",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Uusikaarlepyy/Pedersöre.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Uusikaarlepyy",
+          "oldName": "Uudenkaarlepyyn mlk.",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Uusikaarlepyy/Uudenkaarlepyyn-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Vaasa",
+          "oldName": "Sulva",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Vaasa/Sulva-osa.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Vaasa",
+          "oldName": "Vähäkyrö",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Vaasa/Vähäkyrö.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Vöyri",
+          "oldName": "Maksamaa",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Vöyri/Maksamaa.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Vöyri",
+          "oldName": "Oravainen",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Vöyri/Oravainen.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Vöyri",
+          "oldName": "Vöyri",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Vöyri/Vöyri-old.png",
           "alt": ""
         }
       ]
