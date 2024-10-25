@@ -2056,6 +2056,86 @@
           "url": "/coat-of-arms/img/Pohjois-Karjala/Tohmajärvi.png",
           "alt": ""
         }
+      ],
+      "consolidated": [
+        {
+          "oldMunicipality": "Joensuu",
+          "oldName": "Eno",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Joensuu/Eno.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Joensuu",
+          "oldName": "Joensuu",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Joensuu/Joensuu.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Joensuu",
+          "oldName": "Kiihtelysvaara",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Joensuu/Kiihtelysvaara.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Joensuu",
+          "oldName": "Pielisensuu",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Joensuu/Pielisensuu.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Joensuu",
+          "oldName": "Pyhäselkä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Joensuu/Pyhäselkä.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Joensuu",
+          "oldName": "Tuupovaara",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Joensuu/Tuupovaara.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Kesälahti",
+          "oldName": "Kitee",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Kesälahti/Kitee.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Lieksa",
+          "oldName": "Pielisjärvi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Lieksa/Pielisjärvi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Nurmes",
+          "oldName": "Nurmeksen mlk.",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Nurmes/Nurmeksen-maalaiskunta.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Nurmes",
+          "oldName": "Valtimo",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Nurmes/Valtimo.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Tohmajärvi",
+          "oldName": "Pälkjärvi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Tohmajärvi/Pälkjärvi.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Tohmajärvi",
+          "oldName": "Tohmajärvi",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Tohmajärvi/Tohmajärvi-old.png",
+          "alt": ""
+        },
+        {
+          "oldMunicipality": "Tohmajärvi",
+          "oldName": "Värtsilä",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Tohmajärvi/Värtsilä.png",
+          "alt": ""
+        }
       ]
     },
     {
