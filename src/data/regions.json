@@ -384,7 +384,7 @@
         },
         {
           "oldMunicipality": "Seinäjoki",
-          "oldName": "Seinäjoen-maalaiskunta",
+          "oldName": "Seinäjoen mlk.",
           "url": "/coat-of-arms/img/old-coats/old-coats-Etelä-Pohjanmaa/Seinäjoki/Seinäjoen-maalaiskunta.png",
           "alt": ""
         },
@@ -480,7 +480,7 @@
         },
         {
           "oldMunicipality": "Mikkeli",
-          "oldName": "Mikkelin-maalaiskunta",
+          "oldName": "Mikkelin mlk.",
           "url": "/coat-of-arms/img/old-coats/old-coats-Etela-Savo/Mikkeli/Mikkelin-maalaiskunta.png",
           "alt": ""
         },
@@ -504,7 +504,7 @@
         },
         {
           "oldMunicipality": "Pieksämäki",
-          "oldName": "Pieksämäen-maalaiskunta",
+          "oldName": "Pieksämäen mlk.",
           "url": "/coat-of-arms/img/old-coats/old-coats-Etela-Savo/Pieksämäki/Pieksämäen-maalaiskunta.png",
           "alt": ""
         },
@@ -597,8 +597,8 @@
       ],
       "consolidated": [
         {
-          "oldMunicipality": "Kajaanin-maalaiskunta",
-          "oldName": "Kajaanin-maalaiskunta",
+          "oldMunicipality": "Kajaanin mlk.",
+          "oldName": "Kajaanin mlk.",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kainu/Kajaani/Kajaanin-maalaiskunta.png",
           "alt": ""
         },
@@ -689,7 +689,7 @@
         },
         {
           "oldMunicipality": "Hämeenlinna",
-          "oldName": "Hämeenlinnan-maalaiskunta",
+          "oldName": "Hämeenlinnan mlk.",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hämeenlinna/Hämeenlinnan-maalaiskunta-unofficial.png",
           "alt": ""
         },
@@ -1019,7 +1019,7 @@
         },
         {
           "oldMunicipality": "Jyväskylä",
-          "oldName": "Jyväskylän-maalaiskunta",
+          "oldName": "Jyväskylän mlk.",
           "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jyväskylä/Jyväskylän-maalaiskunta.png",
           "alt": ""
         },
@@ -1395,7 +1395,7 @@
           "alt": ""
         },
         {
-          "oldMunicipality": "Lahti",
+          "oldMunicipality": "Orimattila",
           "oldName": "Artjärvi",
           "url": "/coat-of-arms/img/old-coats/old-coats-Päijät-Häme/Orimattila/Artjärvi.png",
           "alt": ""
@@ -1547,7 +1547,7 @@
         },
         {
           "oldMunicipality": "Ikaalinen",
-          "oldName": "Ikaalisten mlk",
+          "oldName": "Ikaalisten mlk.",
           "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Ikaalinen/Ikaalisten-maalaiskunta.png",
           "alt": ""
         },
@@ -2447,7 +2447,114 @@
           "oldName": "Temmes",
           "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Pohjanmaa/Tyrnävä/Temmes.png",
           "alt": ""
+        }
+      ]
+    },
+    {
+      "name": "Pohjois-Savo",
+      "img": "Pohjois-Savo",
+      "src": "/coat-of-arms/img/Pohjois-Savo/Pohjois-Savo.png",
+      "alt": "",
+      "location": "/coat-of-arms/img/Pohjois-Savo/pohjois-savo-location.png",
+      "locationAlt": "",
+      "images": [
+        {
+          "municipality": "Iisalmi",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Iisalmi.png",
+          "alt": ""
         },
+        {
+          "municipality": "Joroinen",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Joroinen.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kaavi",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Kaavi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Keitele",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Keitele.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kiuruvesi",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Kiuruvesi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kuopio",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Kuopio.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Lapinlahti",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Lapinlahti.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Leppävirta",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Leppävirta.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Pielavesi",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Pielavesi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Rautalampi",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Rautalampi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Rautavaara",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Rautavaara.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Siilinjärvi",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Siilinjärvi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Sonkajärvi",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Sonkajärvi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Suonenjoki",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Suonenjoki.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Tervo",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Tervo.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Tuusniemi",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Tuusniemi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Varkaus",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Varkaus.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Vesanto",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Vesanto.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Vieremä",
+          "url": "/coat-of-arms/img/Pohjois-Savo/Vieremä.png",
+          "alt": ""
+        }
+      ],
+      "consolidated": [
         {
           "oldMunicipality": "Kuopio(Juankoski)",
           "oldName": "Muuruvesi",
@@ -2509,17 +2616,103 @@
           "alt": ""
         },
         {
-          "oldMunicipality": "Varkaus",
-          "oldName": "Kangaslampi",
-          "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Savo/Varkaus/Kangaslampi.png",
-          "alt": ""
-        },
-        {
           "oldMunicipality": "Pohjois-Savo",
           "oldName": "Iisalmen mlk.",
           "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Savo/Iisalmen-maalaiskunta.png",
           "alt": ""
+        }
+      ]
+    },
+    {
+      "name": "Satakunta",
+      "img": "Satakunta",
+      "src": "/coat-of-arms/img/Satakunta/Satakunta.png",
+      "alt": "",
+      "location": "/coat-of-arms/img/Satakunta/satakunta-location.png",
+      "locationAlt": "",
+      "images": [
+        {
+          "municipality": "Eura",
+          "url": "/coat-of-arms/img/Satakunta/Eura.png",
+          "alt": ""
         },
+        {
+          "municipality": "Harjavalta",
+          "url": "/coat-of-arms/img/Satakunta/Harjavalta.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Huittisten",
+          "url": "/coat-of-arms/img/Satakunta/Huittisten.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Jämijärvi",
+          "url": "/coat-of-arms/img/Satakunta/Jämijärvi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kankaanpää",
+          "url": "/coat-of-arms/img/Satakunta/Kankaanpää.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Karvia",
+          "url": "/coat-of-arms/img/Satakunta/Karvia.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kokemäki",
+          "url": "/coat-of-arms/img/Satakunta/Kokemäki.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Säkylä",
+          "url": "/coat-of-arms/img/Satakunta/Säkylä.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Luvia",
+          "url": "/coat-of-arms/img/Satakunta/Luvia.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Merikarvia",
+          "url": "/coat-of-arms/img/Satakunta/Merikarvia.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Nakkila",
+          "url": "/coat-of-arms/img/Satakunta/Nakkila.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Pomarkku",
+          "url": "/coat-of-arms/img/Satakunta/Pomarkku.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Pori",
+          "url": "/coat-of-arms/img/Satakunta/Pori.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Rauma",
+          "url": "/coat-of-arms/img/Satakunta/Rauma.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Siikainen",
+          "url": "/coat-of-arms/img/Satakunta/Siikainen.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Ulvila",
+          "url": "/coat-of-arms/img/Satakunta/Ulvila.png",
+          "alt": ""
+        }
+      ],
+      "consolidated": [
         {
           "oldMunicipality": "Eura",
           "oldName": "Hinnerjoki",
@@ -2615,13 +2808,144 @@
           "oldName": "Kullaa",
           "url": "/coat-of-arms/img/old-coats/old-coats-Satakunta/Ulvila/Kullaa.png",
           "alt": ""
-        },
+        }
+      ]
+    },
+    {
+      "name": "Uusimaa",
+      "img": "Uusimaa",
+      "src": "/coat-of-arms/img/Uusimaa/Uusimaa.png",
+      "alt": "",
+      "location": "/coat-of-arms/img/Uusimaa/uusimaa-location.png",
+      "locationAlt": "",
+      "images": [
         {
-          "oldMunicipality": "Ulvila",
-          "oldName": "Kullaa",
-          "url": "/coat-of-arms/img/old-coats/old-coats-Satakunta/Ulvila/Kullaa.png",
+          "municipality": "Askola",
+          "url": "/coat-of-arms/img/Uusimaa/Askola.png",
           "alt": ""
         },
+        {
+          "municipality": "Espoo",
+          "url": "/coat-of-arms/img/Uusimaa/Espoo.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Hanko",
+          "url": "/coat-of-arms/img/Uusimaa/Hanko.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Helsinki",
+          "url": "/coat-of-arms/img/Uusimaa/Helsinki.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Hyvinkaa",
+          "url": "/coat-of-arms/img/Uusimaa/Hyvinkaa.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Inkoo",
+          "url": "/coat-of-arms/img/Uusimaa/Inkoo.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Jarvenpaa",
+          "url": "/coat-of-arms/img/Uusimaa/Jarvenpaa.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Karkkila",
+          "url": "/coat-of-arms/img/Uusimaa/Karkkila.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kauniainen",
+          "url": "/coat-of-arms/img/Uusimaa/Kauniainen.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kerava",
+          "url": "/coat-of-arms/img/Uusimaa/Kerava.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kirkkonummi",
+          "url": "/coat-of-arms/img/Uusimaa/Kirkkonummi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Lapinjärvi",
+          "url": "/coat-of-arms/img/Uusimaa/Lapinjärvi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Lohja",
+          "url": "/coat-of-arms/img/Uusimaa/Lohja.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Loviisa",
+          "url": "/coat-of-arms/img/Uusimaa/Loviisa.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Mäntsälä",
+          "url": "/coat-of-arms/img/Uusimaa/Mäntsälä.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Nurmijarvi",
+          "url": "/coat-of-arms/img/Uusimaa/Nurmijarvi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Pornainen",
+          "url": "/coat-of-arms/img/Uusimaa/Pornainen.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Porvoo",
+          "url": "/coat-of-arms/img/Uusimaa/Porvoo.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Pukkila",
+          "url": "/coat-of-arms/img/Uusimaa/Pukkila.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Raasepori",
+          "url": "/coat-of-arms/img/Uusimaa/Raasepori.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Sipoo",
+          "url": "/coat-of-arms/img/Uusimaa/Sipoo.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Siuntio",
+          "url": "/coat-of-arms/img/Uusimaa/Siuntio.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Tuusula",
+          "url": "/coat-of-arms/img/Uusimaa/Tuusula.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Vantaa",
+          "url": "/coat-of-arms/img/Uusimaa/Vantaa.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Vihti",
+          "url": "/coat-of-arms/img/Uusimaa/Vihti.png",
+          "alt": ""
+        }
+      ],
+      "consolidated": [
         {
           "oldMunicipality": "Hyvinkää",
           "oldName": "Hyvinkään mlk.",
@@ -2747,7 +3071,154 @@
           "oldName": "Tammisaari",
           "url": "/coat-of-arms/img/old-coats/old-coats-Uudenmaa/Raasepori/Tammisaari.png",
           "alt": ""
+        }
+      ]
+    },
+    {
+      "name": "Varsinais-Suomi",
+      "img": "Varsinais-Suomi",
+      "src": "/coat-of-arms/img/Varsinais-Suomi/Varsinais-Suomi.png",
+      "alt": "",
+      "location": "/coat-of-arms/img/Varsinais-Suomi/varsinais-suomi-location.png",
+      "locationAlt": "",
+      "images": [
+        {
+          "municipality": "Masku",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Masku.png",
+          "alt": ""
         },
+        {
+          "municipality": "Aura",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Aura.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kemiönsaari",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Dragsfjärd.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Salo",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Salo.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Koski",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Koski.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kustavi",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Kustavi.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Laitila",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Laitila.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Lieto",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Lieto.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Loimaa",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Loimaa.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Marttila",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Marttila.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Mynämäki",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Mynämäki.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Naantali",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Naantali.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Parainen",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Parainen.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Nousiainen",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Nousiainen.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Oripää",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Oripää.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Paimio",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Paimio.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Kaarina",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Kaarina.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Pöytyä",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Pöytyä.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Pyhäranta",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Pyhäranta.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Raisio",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Raisio.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Sauvo",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Sauvo.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Somero",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Somero.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Taivassalo",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Taivassalo.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Turku",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Turku.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Uusikaupunki",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Uusikaupunki.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Rusko",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Rusko.png",
+          "alt": ""
+        },
+        {
+          "municipality": "Vehmaa",
+          "url": "/coat-of-arms/img/Varsinais-Suomi/Vehmaa.png",
+          "alt": ""
+        }
+      ],
+      "consolidated": [
         {
           "oldMunicipality": "Kaarina",
           "oldName": "Kaarina",
@@ -3070,481 +3541,6 @@
           "oldMunicipality": "Uusikaupunki",
           "oldName": "Uudenkaupungin mlk.",
           "url": "/coat-of-arms/img/old-coats/old-coats-Varsinais-Suomessa/Uusikaupunki/Uudenkaupungin-maalaiskunta-unofficial.png",
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "name": "Pohjois-Savo",
-      "img": "Pohjois-Savo",
-      "src": "/coat-of-arms/img/Pohjois-Savo/Pohjois-Savo.png",
-      "alt": "",
-      "location": "/coat-of-arms/img/Pohjois-Savo/pohjois-savo-location.png",
-      "locationAlt": "",
-      "images": [
-        {
-          "municipality": "Iisalmi",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Iisalmi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Joroinen",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Joroinen.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kaavi",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Kaavi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Keitele",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Keitele.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kiuruvesi",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Kiuruvesi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kuopio",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Kuopio.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Lapinlahti",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Lapinlahti.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Leppävirta",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Leppävirta.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Pielavesi",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Pielavesi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Rautalampi",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Rautalampi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Rautavaara",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Rautavaara.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Siilinjärvi",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Siilinjärvi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Sonkajärvi",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Sonkajärvi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Suonenjoki",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Suonenjoki.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Tervo",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Tervo.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Tuusniemi",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Tuusniemi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Varkaus",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Varkaus.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Vesanto",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Vesanto.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Vieremä",
-          "url": "/coat-of-arms/img/Pohjois-Savo/Vieremä.png",
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "name": "Satakunta",
-      "img": "Satakunta",
-      "src": "/coat-of-arms/img/Satakunta/Satakunta.png",
-      "alt": "",
-      "location": "/coat-of-arms/img/Satakunta/satakunta-location.png",
-      "locationAlt": "",
-      "images": [
-        {
-          "municipality": "Eura",
-          "url": "/coat-of-arms/img/Satakunta/Eura.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Harjavalta",
-          "url": "/coat-of-arms/img/Satakunta/Harjavalta.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Huittisten",
-          "url": "/coat-of-arms/img/Satakunta/Huittisten.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Jämijärvi",
-          "url": "/coat-of-arms/img/Satakunta/Jämijärvi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kankaanpää",
-          "url": "/coat-of-arms/img/Satakunta/Kankaanpää.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Karvia",
-          "url": "/coat-of-arms/img/Satakunta/Karvia.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kokemäki",
-          "url": "/coat-of-arms/img/Satakunta/Kokemäki.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Säkylä",
-          "url": "/coat-of-arms/img/Satakunta/Säkylä.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Luvia",
-          "url": "/coat-of-arms/img/Satakunta/Luvia.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Merikarvia",
-          "url": "/coat-of-arms/img/Satakunta/Merikarvia.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Nakkila",
-          "url": "/coat-of-arms/img/Satakunta/Nakkila.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Pomarkku",
-          "url": "/coat-of-arms/img/Satakunta/Pomarkku.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Pori",
-          "url": "/coat-of-arms/img/Satakunta/Pori.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Rauma",
-          "url": "/coat-of-arms/img/Satakunta/Rauma.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Siikainen",
-          "url": "/coat-of-arms/img/Satakunta/Siikainen.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Ulvila",
-          "url": "/coat-of-arms/img/Satakunta/Ulvila.png",
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "name": "Uusimaa",
-      "img": "Uusimaa",
-      "src": "/coat-of-arms/img/Uusimaa/Uusimaa.png",
-      "alt": "",
-      "location": "/coat-of-arms/img/Uusimaa/uusimaa-location.png",
-      "locationAlt": "",
-      "images": [
-        {
-          "municipality": "Askola",
-          "url": "/coat-of-arms/img/Uusimaa/Askola.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Espoo",
-          "url": "/coat-of-arms/img/Uusimaa/Espoo.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Hanko",
-          "url": "/coat-of-arms/img/Uusimaa/Hanko.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Helsinki",
-          "url": "/coat-of-arms/img/Uusimaa/Helsinki.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Hyvinkaa",
-          "url": "/coat-of-arms/img/Uusimaa/Hyvinkaa.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Inkoo",
-          "url": "/coat-of-arms/img/Uusimaa/Inkoo.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Jarvenpaa",
-          "url": "/coat-of-arms/img/Uusimaa/Jarvenpaa.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Karkkila",
-          "url": "/coat-of-arms/img/Uusimaa/Karkkila.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kauniainen",
-          "url": "/coat-of-arms/img/Uusimaa/Kauniainen.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kerava",
-          "url": "/coat-of-arms/img/Uusimaa/Kerava.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kirkkonummi",
-          "url": "/coat-of-arms/img/Uusimaa/Kirkkonummi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Lapinjärvi",
-          "url": "/coat-of-arms/img/Uusimaa/Lapinjärvi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Lohja",
-          "url": "/coat-of-arms/img/Uusimaa/Lohja.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Loviisa",
-          "url": "/coat-of-arms/img/Uusimaa/Loviisa.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Mäntsälä",
-          "url": "/coat-of-arms/img/Uusimaa/Mäntsälä.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Nurmijarvi",
-          "url": "/coat-of-arms/img/Uusimaa/Nurmijarvi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Pornainen",
-          "url": "/coat-of-arms/img/Uusimaa/Pornainen.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Porvoo",
-          "url": "/coat-of-arms/img/Uusimaa/Porvoo.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Pukkila",
-          "url": "/coat-of-arms/img/Uusimaa/Pukkila.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Raasepori",
-          "url": "/coat-of-arms/img/Uusimaa/Raasepori.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Sipoo",
-          "url": "/coat-of-arms/img/Uusimaa/Sipoo.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Siuntio",
-          "url": "/coat-of-arms/img/Uusimaa/Siuntio.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Tuusula",
-          "url": "/coat-of-arms/img/Uusimaa/Tuusula.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Vantaa",
-          "url": "/coat-of-arms/img/Uusimaa/Vantaa.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Vihti",
-          "url": "/coat-of-arms/img/Uusimaa/Vihti.png",
-          "alt": ""
-        }
-      ]
-    },
-    {
-      "name": "Varsinais-Suomi",
-      "img": "Varsinais-Suomi",
-      "src": "/coat-of-arms/img/Varsinais-Suomi/Varsinais-Suomi.png",
-      "alt": "",
-      "location": "/coat-of-arms/img/Varsinais-Suomi/varsinais-suomi-location.png",
-      "locationAlt": "",
-      "images": [
-        {
-          "municipality": "Masku",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Masku.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Aura",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Aura.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kemiönsaari",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Dragsfjärd.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Salo",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Salo.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Koski",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Koski.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kustavi",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Kustavi.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Laitila",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Laitila.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Lieto",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Lieto.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Loimaa",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Loimaa.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Marttila",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Marttila.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Mynämäki",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Mynämäki.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Naantali",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Naantali.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Parainen",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Parainen.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Nousiainen",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Nousiainen.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Oripää",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Oripää.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Paimio",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Paimio.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Kaarina",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Kaarina.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Pöytyä",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Pöytyä.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Pyhäranta",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Pyhäranta.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Raisio",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Raisio.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Sauvo",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Sauvo.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Somero",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Somero.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Taivassalo",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Taivassalo.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Turku",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Turku.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Uusikaupunki",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Uusikaupunki.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Rusko",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Rusko.png",
-          "alt": ""
-        },
-        {
-          "municipality": "Vehmaa",
-          "url": "/coat-of-arms/img/Varsinais-Suomi/Vehmaa.png",
           "alt": ""
         }
       ]
