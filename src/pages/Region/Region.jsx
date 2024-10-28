@@ -172,6 +172,7 @@ const Region = () => {
                 }}
               >
                 <Paper elevation={3} style={{ padding: "1rem", flex: 1 }}>
+                  {/* Give them class name, old munis should have small font, look at those which have mlk.  */}
                   <h3 style={{ textAlign: "center", fontSize: "var(--h3)" }}>
                     {consolidatedImg.oldName}
                   </h3>
