@@ -17,7 +17,7 @@ const Home = () => {
   }, []);
 
   return (
-    <div style={{ padding: ".5rem" }}>
+    <div className="home-page-wrapper">
       <Grid container spacing={3}>
         {data &&
           data.regions.map((region) => (
@@ -29,47 +29,21 @@ const Home = () => {
               lg={3}
               xl={2}
               key={region.name}
-              style={{
-                display: "flex",
-                justifyContent: "center",
-              }}
+              id="regions-grid"
             >
               <NavLink
-                className="nav-link"
+                className="nav-link nav-link-regions"
                 to={`/region/${region.name}`}
-                style={{
-                  display: "flex",
-                  justifyContent: "center",
-                }}
+                s
               >
-                <Paper
-                  elevation={3}
-                  style={{
-                    padding: "1rem",
-                    border: "2px 2px 2px 0px solid black",
-                    boxShadow: "6px 8px 15px -1px #000000",
-                  }}
-                >
+                <Paper elevation={3} className="paper-region-img">
                   <img
                     src={region.src}
                     alt={region.alt}
                     loading="lazy"
-                    style={{
-                      width: "100%",
-                      height: "auto",
-                      objectFit: "cover",
-                      borderRadius: "8px",
-                    }}
+                    className="img-region"
                   />
-                  <h2
-                    style={{
-                      textAlign: "center",
-                      fontSize: "var(--h2)",
-                      fontWeight: "var(--boldest)",
-                    }}
-                  >
-                    {region.name}
-                  </h2>
+                  <h2 className="region-name">{region.name}</h2>
                 </Paper>
               </NavLink>
             </Grid>

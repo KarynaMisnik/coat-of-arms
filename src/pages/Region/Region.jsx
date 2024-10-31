@@ -35,58 +35,28 @@ const Region = () => {
   return (
     <div style={{ padding: "1rem" }}>
       <div className="region-map-wrapper">
-        <Paper
-          elevation={3}
-          style={{
-            padding: "1rem",
-            display: "flex",
-            flex: 1,
-          }}
-        >
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "column",
-
-              paddingRight: ".5rem",
-            }}
-          >
-            <div style={{ display: "flex", paddingBottom: "1rem" }}>
+        <Paper elevation={3} className="paper-region-info">
+          <div className="content-paper-region-info">
+            <div className="regionIcon-regionName">
               <img
+                className="regionIcon"
                 src={regionData.src}
                 alt={regionData.alt}
-                style={{
-                  maxWidth: "35px",
-                  maxHeight: "auto",
-                  marginRight: ".5rem",
-                }}
               />
-              <h1 style={{ fontSize: "var(--h1)" }}>{regionData.name}</h1>
+              <h1 className="regionName" style={{ fontSize: "var(--h1)" }}>
+                {regionData.name}
+              </h1>
             </div>
-            <h3 style={{ fontSize: "var(--h3)" }}>
-              {regionData.regionDescription}
-            </h3>
+            <h3>{regionData.regionDescription}</h3>
           </div>
         </Paper>
 
         <Paper sx={{ flex: 1 }}>
-          <div
-            style={{
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-              padding: "1rem",
-            }}
-          >
+          <div className="content-paper-region-location">
             <img
-              className="location-img"
+              className="locationImg"
               src={regionData.location}
               alt={regionData.locationAlt}
-              style={{
-                maxWidth: "100%",
-                maxHeight: "auto",
-                objectFit: "cover",
-              }}
             />
           </div>
         </Paper>
@@ -101,49 +71,26 @@ const Region = () => {
             lg={3}
             xl={2}
             key={image.municipality}
-            style={{
-              display: "flex",
-              flexDirection: "row",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            id="municipalities-grid"
           >
             <NavLink
-              className="nav-link"
+              className="nav-link nav-link-muniipalities"
               to={`/municipality/${regionName}/${image.municipality}`}
-              style={{
-                display: "flex",
-                justifyContent: "center",
-              }}
             >
               <Paper elevation={3} style={{ padding: "1rem", flex: 1 }}>
                 <img
+                  className="imgMunicipality"
                   src={image.url}
                   alt={image.alt}
-                  style={{
-                    maxWidth: "100%",
-                    height: "auto",
-                    alignItems: "center",
-                  }}
                 />
-                <h3 style={{ textAlign: "center", fontSize: "var(--h3)" }}>
-                  {image.municipality}
-                </h3>
+                <h3 className="municipality-name">{image.municipality}</h3>
               </Paper>
             </NavLink>
           </Grid>
         ))}
       </Grid>
-      <div
-        className="oldMunicipalities-container"
-        style={{
-          display: "flex",
-          flexDirection: "column",
-          justifyContent: "center",
-          alignItems: "center",
-        }}
-      >
-        <h1 style={{ color: "var(--white)" }}>Old municipalities</h1>
+      <div className="oldMunicipalities-container">
+        <h1 className="oldMunicipalities-name">Old municipalities</h1>
         {/* ATTENTION: HERE WILL BE OLD MUNICIPALITIES GRID */}
 
         <Grid container spacing={2}>
@@ -156,15 +103,10 @@ const Region = () => {
               lg={3}
               xl={2}
               key={consolidatedImg.oldMunicipality}
-              style={{
-                display: "flex",
-                flexDirection: "row",
-                justifyContent: "center",
-                alignItems: "center",
-              }}
+              id="oldMunicipalities-grid"
             >
               <NavLink
-                className="nav-link"
+                className="nav-link oldMunicipality-nav-lik"
                 to={`/municipality/${regionName}/${consolidatedImg.oldMunicipality}`}
                 style={{
                   display: "flex",
@@ -177,15 +119,11 @@ const Region = () => {
                     {consolidatedImg.oldName}
                   </h3>
                   <img
+                    className="oldMunicipalities-img"
                     src={consolidatedImg.url}
                     alt={consolidatedImg.alt}
-                    style={{
-                      maxWidth: "100%",
-                      height: "auto",
-                      alignItems: "center",
-                    }}
                   />
-                  <h4 style={{ textAlign: "center" }}>
+                  <h4 className="previousMunicipalities-name" s>
                     {consolidatedImg.oldMunicipality}
                   </h4>
                 </Paper>

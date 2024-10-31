@@ -33,27 +33,14 @@ const Municipality = () => {
   }
 
   return (
-    <div style={{ padding: "1rem" }}>
-      <Paper
-        elevation={3}
-        style={{
-          marginBottom: "1rem",
-          padding: "1rem",
-        }}
-      >
-        <div style={{ display: "flex", paddingBottom: "1rem" }}>
-          <img
-            src={municipalityData.url}
-            style={{
-              maxWidth: "35px",
-              maxHeight: "auto",
-              marginRight: ".5rem",
-            }}
-          />
+    <div className="municipality-page-wrapper">
+      <Paper className="paper-municipality-page" elevation={3}>
+        <div className="municipality-card-content">
+          <img className="municipality-img" src={municipalityData.url} />
           <h1>{municipalityData.municipality}</h1>
         </div>
-        <p>Population: 112</p>
-        <p>Weather Info: -3</p>
+        <p className="population-info">Population: 112</p>
+        <p className="weather-info">Weather Info: -3</p>
       </Paper>
     </div>
   );

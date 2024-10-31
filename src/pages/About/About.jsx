@@ -1,32 +1,8 @@
 const About = () => {
   return (
-    <div
-      style={{
-        padding: ".5rem",
-        minHeight: "100vh",
-        display: "flex",
-        flexDirection: "column",
-        alignItems: "center",
-      }}
-    >
-      <h1
-        style={{
-          textAlign: "center",
-          padding: "1rem",
-          fontSize: "var(--h1)",
-          color: "white",
-        }}
-      >
-        Finnish Emblem
-      </h1>
-      <p
-        style={{
-          padding: "1.5rem",
-          fontSize: "1.5rem",
-          color: "white",
-          textAlign: "justify",
-        }}
-      >
+    <div className="about-page-wrapper">
+      <h1 className="about-page-heading">Finnish Emblem</h1>
+      <p className="about-page-text">
         This project is dedicated to exploring the rich regional tapestry of
         Finland! Immerse yourself in the fascinating details of Finland's 19
         regions, each adorned with its unique coat of arms. The country has

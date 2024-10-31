@@ -6,7 +6,7 @@
   --white: #fff;
   --gray: rgb(164, 160, 160);
   --black: #08111f;
-  --dark-gray: rgb(0, 0, 0, 37%);
+  --dark-gray: #0000005e;
 
   /* FONT-FAMILY */
   --main-text: "Montserrat", sans-serif;
@@ -63,10 +63,119 @@ body,
   text-decoration: none;
 }
 
-/* LOCATION IMG OF A REGION ON THE MAP */
+/* === HOME PAGE  === */
+
+.home-page-wrapper {
+  padding: 0.5rem;
+}
+
+#regions-grid {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link-regions {
+  display: flex;
+  justify-content: center;
+}
+
+.paper-region-img {
+  padding: 1rem;
+  border: 2px 2px 2px 0px solid black;
+  box-shadow: 6px 8px 15px -1px #000000;
+}
+
+.img-region {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.region-name {
+  text-align: center;
+  font-size: var(--h2);
+  font-weight: var(--boldest);
+  color: var(--black);
+}
+
+/* === HOME PAGE END === */
+
+/* === ABOUT PAGE  === */
+
+.about-page-wrapper {
+  padding: 0.5rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-page-heading {
+  text-align: center;
+  padding: 1rem;
+  font-size: var(--h1);
+  color: var(--white);
+}
+
+.about-page-text {
+  padding: 1.5rem;
+  font-size: 1.5rem;
+  color: var(--white);
+  text-align: justify;
+}
+
+/* === ABOUT PAGE END === */
+
+/* === QUIZ PAGE === */
+
+/* === QUIZ PAGE END === */
+
+/* === REGION PAGE === */
+
+.paper-region-info {
+  padding: 1rem;
+  display: flex;
+  flex: 1;
+}
+
+.content-paper-region-info {
+  display: flex;
+  flex-direction: column;
+  padding-right: 0.5rem;
+}
+
+.regionIcon-regionName {
+  display: flex;
+  padding-bottom: 1rem;
+}
+
+.regionIcon {
+  max-width: 35px;
+  max-height: auto;
+  margin-right: 0.5rem;
+}
+
+.regionName {
+  font-size: var(--h3);
+}
+
+.ontent-paper-region-location {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+.locationImg {
+  max-width: 100%;
+  max-height: auto;
+  object-fit: cover;
+}
+
+/* location img of a region on the map */
 
 @media screen and (min-width: 768px) {
-  .location-img {
+  .locationImg {
     width: 200px;
     height: auto;
   }
@@ -82,4 +191,85 @@ body,
   .region-map-wrapper {
     flex-direction: column;
   }
+}
+
+#municipalities-grid {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-link-muniipalities {
+  display: flex;
+  justify-content: center;
+}
+
+.imgMunicipality {
+  max-width: 100%;
+  height: auto;
+  align-items: center;
+}
+
+.municipality-name {
+  text-align: center;
+  font-size: var(--h3);
+}
+
+.oldMunicipalities-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.oldMunicipalities-name {
+  color: var(--white);
+}
+
+.oldMunicipalities-grid {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.oldMunicipalities-img {
+  max-width: 100%;
+  height: auto;
+  align-items: center;
+}
+
+.previousMunicipalities-name {
+  text-align: center;
+}
+
+/* === REGION PAGE END === */
+
+/* === MUNICIPALITY PAGE === */
+
+.municipality-page-wrapper {
+  padding: 1rem;
+}
+
+.paper-municipality-page {
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.municipality-card-content {
+  display: flex;
+  padding-bottom: 1rem;
+}
+
+.municipality-img {
+  max-width: 35px;
+  max-height: auto;
+  margin-right: 0.5rem;
+}
+
+.population-info {
+}
+
+.weather-info {
 }
