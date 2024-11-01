@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Paper from "@mui/material/Paper";
 import { useParams } from "react-router-dom";
+import Population from "../../components/Population";
 
 const Municipality = () => {
   const { regionName, municipalityName } = useParams();
@@ -39,7 +40,8 @@ const Municipality = () => {
           <img className="municipality-img" src={municipalityData.url} />
           <h1>{municipalityData.municipality}</h1>
         </div>
-        <p className="population-info">Population: 112</p>
+        <p className="population-info">Population:</p>
+        <Population areaCode="KU020" />
         <p className="weather-info">Weather Info: -3</p>
       </Paper>
     </div>
