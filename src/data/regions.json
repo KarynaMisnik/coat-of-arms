@@ -7,7 +7,7 @@
       "src": "/coat-of-arms/img/Ahvenanmaa/Ahvenanmaa.png",
       "alt": "white crown on top, a yellow elk on blue background",
       "location": "/coat-of-arms/img/Ahvenanmaa/ahvenanmaa-location.png",
-      "locationAlt": "",
+      "locationAlt": "Ahvenanmaa location on the map of Finland",
       "images": [
         {
           "municipality": "Brändö",
@@ -121,7 +121,7 @@
       "src": "/coat-of-arms/img/Etelä-Karjala/Etelä-Karjala.png",
       "alt": "",
       "location": "/coat-of-arms/img/Etelä-Karjala/etelä-karjala-location.png",
-      "locationAlt": "",
+      "locationAlt": "Etelä-Karjala location on the map of Finland",
       "images": [
         {
           "municipality": "Imatra",
@@ -241,7 +241,7 @@
       "src": "/coat-of-arms/img/Etelä-Pohjanmaa/Etelä-Pohjanmaa.png",
       "alt": "",
       "location": "/coat-of-arms/img/Etelä-Pohjanmaa/etelä-pohjanmaa-location.png",
-      "locationAlt": "",
+      "locationAlt": "Etelä-Pohjanmaa location on the map of Finland",
       "images": [
         {
           "municipality": "Ähtäri",
@@ -445,7 +445,7 @@
       "src": "/coat-of-arms/img/Etelä-Savo/Etelä-Savo.png",
       "alt": "",
       "location": "/coat-of-arms/img/Etelä-Savo/etelä-savo-location.png",
-      "locationAlt": "",
+      "locationAlt": "Etelä-Savo location on the map of Finland",
       "images": [
         {
           "municipality": "Enonkoski",
@@ -607,7 +607,7 @@
       "src": "/coat-of-arms/img/Kainuu/Kainuu.png",
       "alt": "",
       "location": "/coat-of-arms/img/Kainuu/kainuu-location.png",
-      "locationAlt": "",
+      "locationAlt": "Kainuu location on the map of Finland",
       "images": [
         {
           "municipality": "Hyrynsalmi",
@@ -685,7 +685,7 @@
       "src": "/coat-of-arms/img/Kanta-Häme/Kanta-Häme.png",
       "alt": "",
       "location": "/coat-of-arms/img/Kanta-Häme/kanta-häme-location.png",
-      "locationAlt": "",
+      "locationAlt": "Kanta-Häme location on the map of Finland",
       "images": [
         {
           "municipality": "Forssa",
@@ -823,7 +823,7 @@
       "src": "/coat-of-arms/img/Keski-Pohjanmaa/Keski-Pohjanmaa.png",
       "alt": "",
       "location": "/coat-of-arms/img/Keski-Pohjanmaa/keski-pohjanmaa-location.png",
-      "locationAlt": "",
+      "locationAlt": "Keski-Pohjanmaa location on the map of Finland",
       "images": [
         {
           "municipality": "Halsua",
@@ -913,7 +913,7 @@
       "src": "/coat-of-arms/img/Keski-Suomi/Keski-Suomi.png",
       "alt": "",
       "location": "/coat-of-arms/img/Keski-Suomi/keski-suomi-location.png",
-      "locationAlt": "",
+      "locationAlt": "Keski-Suomi location on the map of Finland",
       "images": [
         {
           "municipality": "Äänekoski",
@@ -1165,7 +1165,7 @@
       "src": "/coat-of-arms/img/Kymenlaakso/Kymenlaakso.png",
       "alt": "",
       "location": "/coat-of-arms/img/Kymenlaakso/kymenlaakso-location.png",
-      "locationAlt": "",
+      "locationAlt": "Kymenlaakso location on the map of Finland",
       "images": [
         {
           "municipality": "Hamina",
@@ -1273,7 +1273,7 @@
       "src": "/coat-of-arms/img/Lappi/Lappi.png",
       "alt": "",
       "location": "/coat-of-arms/img/Lappi/lappi-location.png",
-      "locationAlt": "",
+      "locationAlt": "Lappi location on the map of Finland",
       "images": [
         {
           "municipality": "Enontekiö",
@@ -1447,7 +1447,7 @@
       "src": "/coat-of-arms/img/Päijät-Häme/Päijät-Häme.png",
       "alt": "",
       "location": "/coat-of-arms/img/Päijät-Häme/päijät-häme-location.png",
-      "locationAlt": "",
+      "locationAlt": "Päijät-Häme location on the map of Finland",
       "images": [
         {
           "municipality": "Asikkala",
@@ -1543,7 +1543,7 @@
       "src": "/coat-of-arms/img/Pirkanmaa/Pirkanmaa.png",
       "alt": "",
       "location": "/coat-of-arms/img/Pirkanmaa/pirkanmaa-location.png",
-      "locationAlt": "",
+      "locationAlt": "Pirkanmaa location on the map of Finland",
       "images": [
         {
           "municipality": "Akaa",
@@ -1891,7 +1891,7 @@
       "src": "/coat-of-arms/img/Pohjanmaa/Pohjanmaa.png",
       "alt": "",
       "location": "/coat-of-arms/img/Pohjanmaa/pohjanmaa-location.png",
-      "locationAlt": "",
+      "locationAlt": "Pohjanmaa location on the map of Finland",
       "images": [
         {
           "municipality": "Kaskinen",
@@ -2161,7 +2161,7 @@
       "src": "/coat-of-arms/img/Pohjois-Karjala/Pohjois-Karjala.png",
       "alt": "",
       "location": "/coat-of-arms/img/Pohjois-Karjala/pohjois-karjala-location.png",
-      "locationAlt": "",
+      "locationAlt": "Pohjois-Karjala location on the map of Finland",
       "images": [
         {
           "municipality": "Heinävesi",
@@ -2329,7 +2329,7 @@
       "src": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pohjois-Pohjanmaa.png",
       "alt": "",
       "location": "/coat-of-arms/img/Pohjois-Pohjanmaa/pohjois-pohjanmaa-location.png",
-      "locationAlt": "",
+      "locationAlt": "Pohjois-Pohjanmaa location on the map of Finland",
       "images": [
         {
           "municipality": "Alavieska",
@@ -2671,7 +2671,7 @@
       "src": "/coat-of-arms/img/Pohjois-Savo/Pohjois-Savo.png",
       "alt": "",
       "location": "/coat-of-arms/img/Pohjois-Savo/pohjois-savo-location.png",
-      "locationAlt": "",
+      "locationAlt": "Pohjois-Savo location on the map of Finland",
       "images": [
         {
           "municipality": "Iisalmi",
@@ -2863,7 +2863,7 @@
       "src": "/coat-of-arms/img/Satakunta/Satakunta.png",
       "alt": "",
       "location": "/coat-of-arms/img/Satakunta/satakunta-location.png",
-      "locationAlt": "",
+      "locationAlt": "Satakunta location on the map of Finland",
       "images": [
         {
           "municipality": "Eura",
@@ -3067,7 +3067,7 @@
       "src": "/coat-of-arms/img/Uusimaa/Uusimaa.png",
       "alt": "",
       "location": "/coat-of-arms/img/Uusimaa/uusimaa-location.png",
-      "locationAlt": "",
+      "locationAlt": "Uusimaa location on the map of Finland",
       "images": [
         {
           "municipality": "Askola",
@@ -3355,7 +3355,7 @@
       "src": "/coat-of-arms/img/Varsinais-Suomi/Varsinais-Suomi.png",
       "alt": "",
       "location": "/coat-of-arms/img/Varsinais-Suomi/varsinais-suomi-location.png",
-      "locationAlt": "",
+      "locationAlt": "Varsinais-Suomi location on the map of Finland",
       "images": [
         {
           "municipality": "Masku",
