@@ -238,6 +238,12 @@ body,
   max-width: 100%;
   height: auto;
   align-items: center;
+  filter: grayscale(100%);
+  transition: filter 0.5s ease;
+}
+
+.oldMunicipalities-img:hover {
+  filter: grayscale(0%);
 }
 
 .previousMunicipalities-name {
