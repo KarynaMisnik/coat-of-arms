@@ -269,6 +269,7 @@ body,
 }
 
 .population-info {
+  display: flex;
 }
 
 .weather-info {

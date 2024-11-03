@@ -40,8 +40,11 @@ const Municipality = () => {
           <img className="municipality-img" src={municipalityData.url} />
           <h1>{municipalityData.municipality}</h1>
         </div>
-        <p className="population-info">Population:</p>
-        <Population areaCode="KU020" />
+        <p className="population-info">
+          Population:
+          <Population areaCode="KU020" />
+        </p>
+
         <p className="weather-info">Weather Info: -3</p>
       </Paper>
     </div>

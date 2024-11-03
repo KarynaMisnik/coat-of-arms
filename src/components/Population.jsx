@@ -61,10 +61,7 @@ const Population = ({ areaCode }) => {
 
   return (
     <div>
-      <h2>Population</h2>
-      <p>
-        Population for area code {areaCode}: {population}
-      </p>
+      <p>{population}</p>
     </div>
   );
 };
