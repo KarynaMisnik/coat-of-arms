@@ -2,6 +2,7 @@
   "regions": [
     {
       "name": "Ahvenanmaa",
+      "regionCode": "MK21",
       "regionDescription": "The coat of arms of Åland was originally to be granted to the Swedish island province of Öland in 1560. ",
       "img": "Ahvenanmaa",
       "src": "/coat-of-arms/img/Ahvenanmaa/Ahvenanmaa.png",
@@ -117,6 +118,7 @@
     },
     {
       "name": "Etelä-Karjala",
+      "regionCode": "MK09",
       "img": "Etelä-Karjala",
       "src": "/coat-of-arms/img/Etelä-Karjala/Etelä-Karjala.png",
       "alt": "Etelä-Karjala region coat of arms",
@@ -237,6 +239,7 @@
     },
     {
       "name": "Etelä-Pohjanmaa",
+      "regionCode": "MK14",
       "img": "Etelä-Pohjanmaa",
       "src": "/coat-of-arms/img/Etelä-Pohjanmaa/Etelä-Pohjanmaa.png",
       "alt": "Etelä-Pohjanmaa region coat of arms",
@@ -441,6 +444,7 @@
     },
     {
       "name": "Etelä-Savo",
+      "regionCode": "MK10",
       "img": "Etelä-Savo",
       "src": "/coat-of-arms/img/Etelä-Savo/Etelä-Savo.png",
       "alt": "Etelä-Savo region coat of arms",
@@ -603,6 +607,7 @@
     },
     {
       "name": "Kainuu",
+      "regionCode": "MK18",
       "img": "Kainuu",
       "src": "/coat-of-arms/img/Kainuu/Kainuu.png",
       "alt": "Kainuu region coat of arms",
@@ -681,6 +686,7 @@
     },
     {
       "name": "Kanta-Häme",
+      "regionCode": "MK05",
       "img": "Kanta-Häme",
       "src": "/coat-of-arms/img/Kanta-Häme/Kanta-Häme.png",
       "alt": "Kanta-Häme region coat of arms",
@@ -819,6 +825,7 @@
     },
     {
       "name": "Keski-Pohjanmaa",
+      "regionCode": "MK16",
       "img": "Keski-Pohjanmaa",
       "src": "/coat-of-arms/img/Keski-Pohjanmaa/Keski-Pohjanmaa.png",
       "alt": "Keski-Pohjanmaa region coat of arms",
@@ -909,6 +916,7 @@
     },
     {
       "name": "Keski-Suomi",
+      "regionCode": "MK13",
       "img": "Keski-Suomi",
       "src": "/coat-of-arms/img/Keski-Suomi/Keski-Suomi.png",
       "alt": "Keski-Suomi region coat of arms",
@@ -1161,6 +1169,7 @@
     },
     {
       "name": "Kymenlaakso",
+      "regionCode": "MK08",
       "img": "Kymenlaakso",
       "src": "/coat-of-arms/img/Kymenlaakso/Kymenlaakso.png",
       "alt": "Kymenlaakso region coat of arms",
@@ -1269,6 +1278,7 @@
     },
     {
       "name": "Lappi",
+      "regionCode": "MK19",
       "img": "Lappi",
       "src": "/coat-of-arms/img/Lappi/Lappi.png",
       "alt": "Lappi region coat of arms",
@@ -1443,6 +1453,7 @@
     },
     {
       "name": "Päijät-Häme",
+      "regionCode": "MK07",
       "img": "Päijät-Häme",
       "src": "/coat-of-arms/img/Päijät-Häme/Päijät-Häme.png",
       "alt": "Päijät-Häme region coat of arms",
@@ -1539,6 +1550,7 @@
     },
     {
       "name": "Pirkanmaa",
+      "regionCode": "MK06",
       "img": "Pirkanmaa",
       "src": "/coat-of-arms/img/Pirkanmaa/Pirkanmaa.png",
       "alt": "Pirkanmaa region coat of arms",
@@ -1887,6 +1899,7 @@
     },
     {
       "name": "Pohjanmaa",
+      "regionCode": "MK15",
       "img": "Pohjanmaa",
       "src": "/coat-of-arms/img/Pohjanmaa/Pohjanmaa.png",
       "alt": "Pohjanmaa region coat of arms",
@@ -2157,6 +2170,7 @@
     },
     {
       "name": "Pohjois-Karjala",
+      "regionCode": "MK12",
       "img": "Pohjois-Karjala",
       "src": "/coat-of-arms/img/Pohjois-Karjala/Pohjois-Karjala.png",
       "alt": "Pohjois-Karjala region coat of arms",
@@ -2325,6 +2339,7 @@
     },
     {
       "name": "Pohjois-Pohjanmaa",
+      "regionCode": "MK17",
       "img": "Pohjois-Pohjanmaa",
       "src": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pohjois-Pohjanmaa.png",
       "alt": "Pohjois-Pohjanmaa region coat of arms",
@@ -2667,6 +2682,7 @@
     },
     {
       "name": "Pohjois-Savo",
+      "regionCode": "MK11",
       "img": "Pohjois-Savo",
       "src": "/coat-of-arms/img/Pohjois-Savo/Pohjois-Savo.png",
       "alt": "Pohjois-Savo region coat of arms",
@@ -2859,6 +2875,7 @@
     },
     {
       "name": "Satakunta",
+      "regionCode": "MK04",
       "img": "Satakunta",
       "src": "/coat-of-arms/img/Satakunta/Satakunta.png",
       "alt": "Satakunta region coat of arms",
@@ -3063,6 +3080,7 @@
     },
     {
       "name": "Uusimaa",
+      "regionCode": "MK01",
       "img": "Uusimaa",
       "src": "/coat-of-arms/img/Uusimaa/Uusimaa.png",
       "alt": "Uusimaa region coat of arms",
@@ -3351,6 +3369,7 @@
     },
     {
       "name": "Varsinais-Suomi",
+      "regionCode": "MK02",
       "img": "Varsinais-Suomi",
       "src": "/coat-of-arms/img/Varsinais-Suomi/Varsinais-Suomi.png",
       "alt": "Varsinais-Suomi region coat of arms",
