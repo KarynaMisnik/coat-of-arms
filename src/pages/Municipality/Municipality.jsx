@@ -58,7 +58,7 @@ const Municipality = () => {
         </div>
         <p className="population-info">
           Population:
-          <Population areaCode={municipalityData.areaCode} />{" "}
+          <Population areaCode={municipalityData.areaCode} />
           {/* Use dynamic areaCode */}
         </p>
 
