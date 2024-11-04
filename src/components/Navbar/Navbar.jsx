@@ -28,7 +28,7 @@ const navText = {
 };
 
 const drawerWidth = 240;
-const navItems = ["Home", "About", "Quiz"];
+const navItems = ["Home", "About"];
 
 export default function Navbar(props) {
   const { window } = props;
