@@ -62,7 +62,11 @@ const Municipality = () => {
           {/* Use dynamic areaCode */}
         </p>
 
-        <p className="weather-info">Weather Info: -3</p>
+        {/* <p className="weather-info">Weather Info: -3</p> */}
+
+        <p className="municipality-description">
+          {municipalityData.municipalityDescription}
+        </p>
       </Paper>
     </div>
   );

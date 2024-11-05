@@ -33,7 +33,7 @@ const Region = () => {
   }
 
   return (
-    <div style={{ padding: "1rem" }}>
+    <div className="region-component-wrapper">
       <div className="region-map-wrapper">
         <Paper elevation={3} className="paper-region-info">
           <div className="content-paper-region-info">

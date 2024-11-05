@@ -133,6 +133,10 @@ body,
 
 /* === REGION PAGE === */
 
+.region-component-wrapper {
+  padding: 1rem;
+}
+
 .paper-region-info {
   padding: 1rem;
   display: flex;
@@ -256,6 +260,7 @@ body,
 
 .municipality-page-wrapper {
   padding: 1rem;
+  min-height: 100vh;
 }
 
 .paper-municipality-page {

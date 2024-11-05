@@ -3,7 +3,7 @@
     {
       "name": "Ahvenanmaa",
       "regionCode": "MK21",
-      "regionDescription": "The coat of arms of Åland was originally to be granted to the Swedish island province of Öland in 1560. ",
+      "regionDescription": "The coat of arms of Åland depicts a golden red deer set against a blue background, topped with a traditional Swedish-style comital coronet. The coat of arms originally designed for Åland (two roe deer with nine roses) was mistakenly used by Öland (Sweden), and Åland instead adopted Öland's red deer design. This mix-up was not discovered until the 1940s, after Åland had been ceded to Finland. Finnish heraldic authorities chose not to correct the mistake, allowing Åland to keep the red deer. To prevent further confusion, Sweden modified Öland's coat of arms by adding a red collar and attire to the deer.",
       "img": "Ahvenanmaa",
       "src": "/coat-of-arms/img/Ahvenanmaa/Ahvenanmaa.png",
       "alt": "Ahvenanmaa region coat of arms",
@@ -14,97 +14,113 @@
           "municipality": "Brändö",
           "areaCode": "KU035",
           "url": "/coat-of-arms/img/Ahvenanmaa/Brändö.png",
-          "alt": "Brändö municipality coat of arms"
+          "alt": "Brändö municipality coat of arms",
+          "municipalityDescription": "A silver seagull soars in the red upper section of the wavy shield, while a fish appears in the silver lower section. These symbols represent the municipality's location in the archipelago and highlight the significance of fishing to the area. It was designed by Matts Dreijer."
         },
         {
           "municipality": "Eckerö",
           "areaCode": "KU043",
           "url": "/coat-of-arms/img/Ahvenanmaa/Eckerö.png",
-          "alt": "Eckerö municipality coat of arms"
+          "alt": "Eckerö municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Finström",
           "areaCode": "KU060",
           "url": "/coat-of-arms/img/Ahvenanmaa/Finström.png",
-          "alt": "Finström municipality coat of arms"
+          "alt": "Finström municipality coat of arms",
+          "municipalityDescription": "The wavy line in Finström's coat of arms symbolizes the Kyrkström stream, a small waterway thought to have inspired the name of parish. The oak tree represents the resilience of the people and the area has rich vegetation. The coat of arms is described as “in a red field, a golden oak above a wave-crowned silver bar.” Designed by Matts Dreijer, it was approved by the Finström municipal council on May 22, 1948. The Åland Provincial Government officially authorized its use on December 19,1951, and a revised description of the blazon was approved on October 8, 1969."
         },
         {
           "municipality": "Föglö",
           "areaCode": "KU062",
           "url": "/coat-of-arms/img/Ahvenanmaa/Föglö.png",
-          "alt": "Föglö municipality coat of arms"
+          "alt": "Föglö municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Geta",
           "areaCode": "KU065",
           "url": "/coat-of-arms/img/Ahvenanmaa/Geta.png",
-          "alt": "Geta municipality coat of arms"
+          "alt": "Geta municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hammarland",
           "areaCode": "KU076",
           "url": "/coat-of-arms/img/Ahvenanmaa/Hammarland.png",
-          "alt": "Hammarland municipality coat of arms"
+          "alt": "Hammarland municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Jomala",
           "areaCode": "KU170",
           "url": "/coat-of-arms/img/Ahvenanmaa/Jomala.png",
-          "alt": "Jomala municipality coat of arms"
+          "alt": "Jomala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kökar",
           "areaCode": "KU318",
           "url": "/coat-of-arms/img/Ahvenanmaa/Kökar.png",
-          "alt": "Kökar municipality coat of arms"
+          "alt": "Kökar municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kumlinge",
           "areaCode": "KU295",
           "url": "/coat-of-arms/img/Ahvenanmaa/Kumlinge.png",
-          "alt": "Kumlinge municipality coat of arms"
+          "alt": "Kumlinge municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lemland",
           "areaCode": "KU417",
           "url": "/coat-of-arms/img/Ahvenanmaa/Lemland.png",
-          "alt": "Lemland municipality coat of arms"
+          "alt": "Lemland municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lumparland",
           "areaCode": "KU438",
           "url": "/coat-of-arms/img/Ahvenanmaa/Lumparland.png",
-          "alt": "Lumparland municipality coat of arms"
+          "alt": "Lumparland municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Maarianhamina",
           "areaCode": "KU478",
           "url": "/coat-of-arms/img/Ahvenanmaa/Maarianhamina.png",
-          "alt": "Maarianhamina municipality coat of arms"
+          "alt": "Maarianhamina municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Saltvik",
           "areaCode": "KU736",
           "url": "/coat-of-arms/img/Ahvenanmaa/Saltvik.png",
-          "alt": "Saltvik municipality coat of arms"
+          "alt": "Saltvik municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sottunga",
           "areaCode": "KU766",
           "url": "/coat-of-arms/img/Ahvenanmaa/Sottunga.png",
-          "alt": "Sottunga municipality coat of arms"
+          "alt": "Sottunga municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sund",
           "areaCode": "KU771",
           "url": "/coat-of-arms/img/Ahvenanmaa/Sund.png",
-          "alt": "Sund municipality coat of arms"
+          "alt": "Sund municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vårdö",
           "areaCode": "KU941",
           "url": "/coat-of-arms/img/Ahvenanmaa/Vårdö.png",
-          "alt": "Vårdö municipality coat of arms"
+          "alt": "Vårdö municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -129,55 +145,64 @@
           "municipality": "Imatra",
           "areaCode": "KU153",
           "url": "/coat-of-arms/img/Etelä-Karjala/Imatra.png",
-          "alt": "Imatra municipality coat of arms"
+          "alt": "Imatra municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lappeenranta",
           "areaCode": "KU405",
           "url": "/coat-of-arms/img/Etelä-Karjala/Lappeenranta.png",
-          "alt": "Lappeenranta municipality coat of arms"
+          "alt": "Lappeenranta municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lemi",
           "areaCode": "KU416",
           "url": "/coat-of-arms/img/Etelä-Karjala/Lemi.png",
-          "alt": "Lemi municipality coat of arms"
+          "alt": "Lemi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Luumäki",
           "areaCode": "KU441",
           "url": "/coat-of-arms/img/Etelä-Karjala/Luumäki.png",
-          "alt": "Luumäki municipality coat of arms"
+          "alt": "Luumäki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Parikkala",
           "areaCode": "KU580",
           "url": "/coat-of-arms/img/Etelä-Karjala/Parikkala.png",
-          "alt": "Parikkala municipality coat of arms"
+          "alt": "Parikkala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Rautjärvi",
           "areaCode": "KU689",
           "url": "/coat-of-arms/img/Etelä-Karjala/Rautijärvi.png",
-          "alt": "Rautjärvi municipality coat of arms"
+          "alt": "Rautjärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ruokolahti",
           "areaCode": "KU700",
           "url": "/coat-of-arms/img/Etelä-Karjala/Ruokolahti.png",
-          "alt": "Ruokolahti municipality coat of arms"
+          "alt": "Ruokolahti municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Savitaipale",
           "areaCode": "KU739",
           "url": "/coat-of-arms/img/Etelä-Karjala/Savitaipale.png",
-          "alt": "Savitaipale municipality coat of arms"
+          "alt": "Savitaipale municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Taipalsaari",
           "areaCode": "KU739",
           "url": "/coat-of-arms/img/Etelä-Karjala/Taipalsaari.png",
-          "alt": "Taipalsaari municipality coat of arms"
+          "alt": "Taipalsaari municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -250,109 +275,127 @@
           "municipality": "Ähtäri",
           "areaCode": "KU989",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Ähtäri.png",
-          "alt": "Ähtäri municipality coat of arms"
+          "alt": "Ähtäri municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Alajärvi",
           "areaCode": "KU005",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Alajärvi.png",
-          "alt": "Alajärvi municipality coat of arms"
+          "alt": "Alajärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Evijärvi",
           "areaCode": "KU052",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Evijärvi.png",
-          "alt": "Evijärvi municipality coat of arms"
+          "alt": "Evijärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ilmajoki",
           "areaCode": "KU145",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Ilmajoki.png",
-          "alt": "Ilmajoki municipality coat of arms"
+          "alt": "Ilmajoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Isojoki",
           "areaCode": "KU151",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Isojoki.png",
-          "alt": "Isojoki municipality coat of arms"
+          "alt": "Isojoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Isokyrö",
           "areaCode": "KU152",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Isokyrö.png",
-          "alt": "Isokyrö municipality coat of arms"
+          "alt": "Isokyrö municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Karijoki",
           "areaCode": "KU218",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Karijoki.png",
-          "alt": "Karijoki municipality coat of arms"
+          "alt": "Karijoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kauhajoki",
           "areaCode": "KU232",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Kauhajoki.png",
-          "alt": "Kauhajoki municipality coat of arms"
+          "alt": "Kauhajoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kauhava",
           "areaCode": "KU233",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Kauhava.png",
-          "alt": "Kauhava municipality coat of arms"
+          "alt": "Kauhava municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kuortane",
           "areaCode": "KU300",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Kuortane.png",
-          "alt": "Kuortane municipality coat of arms"
+          "alt": "Kuortane municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kurikka",
           "areaCode": "KU301",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Kurikka.png",
-          "alt": "Kurikka municipality coat of arms"
+          "alt": "Kurikka municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lappajärvi",
           "areaCode": "KU403",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Lappajärvi.png",
-          "alt": "Lappajärvi municipality coat of arms"
+          "alt": "Lappajärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lapua",
           "areaCode": "KU408",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Lapua.png",
-          "alt": "Lapua municipality coat of arms"
+          "alt": "Lapua municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Seinäjoki",
           "areaCode": "KU743",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Seinäjoki.png",
-          "alt": "Seinäjoki municipality coat of arms"
+          "alt": "Seinäjoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Soini",
           "areaCode": "KU759",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Soini.png",
-          "alt": "Soini municipality coat of arms"
+          "alt": "Soini municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Teuva",
           "areaCode": "KU846",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Teuva.png",
-          "alt": "Teuva municipality coat of arms"
+          "alt": "Teuva municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Alavus",
           "areaCode": "KU010",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Alavus.png",
-          "alt": "Alavus municipality coat of arms"
+          "alt": "Alavus municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vimpeli",
           "areaCode": "KU934",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Vimpeli.png",
-          "alt": "Vimpeli municipality coat of arms"
+          "alt": "Vimpeli municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -455,73 +498,85 @@
           "municipality": "Enonkoski",
           "areaCode": "KU046",
           "url": "/coat-of-arms/img/Etelä-Savo/Enonkoski.png",
-          "alt": "Enonkoski municipality coat of arms"
+          "alt": "Enonkoski municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hirvensalmi",
           "areaCode": "KU097",
           "url": "/coat-of-arms/img/Etelä-Savo/Hirvensalmi.png",
-          "alt": "Hirvensalmi municipality coat of arms"
+          "alt": "Hirvensalmi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Juva",
           "areaCode": "KU178",
           "url": "/coat-of-arms/img/Etelä-Savo/Juva.png",
-          "alt": "Juva municipality coat of arms"
+          "alt": "Juva municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kangasniemi",
           "areaCode": "KU213",
           "url": "/coat-of-arms/img/Etelä-Savo/Kangasniemi.png",
-          "alt": "Kangasniemi municipality coat of arms"
+          "alt": "Kangasniemi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Mäntyharju",
           "areaCode": "KU507",
           "url": "/coat-of-arms/img/Etelä-Savo/Mäntyharju.png",
-          "alt": "Mäntyharju municipality coat of arms"
+          "alt": "Mäntyharju municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Mikkeli",
           "areaCode": "KU491",
           "url": "/coat-of-arms/img/Etelä-Savo/Mikkeli.png",
-          "alt": "Mikkeli municipality coat of arms"
+          "alt": "Mikkeli municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pertunmaa",
           "areaCode": "KU588",
           "url": "/coat-of-arms/img/Etelä-Savo/Pertunmaa.png",
-          "alt": "Pertunmaa municipality coat of arms"
+          "alt": "Pertunmaa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pieksämäki",
           "areaCode": "KU593",
           "url": "/coat-of-arms/img/Etelä-Savo/Pieksämäki.png",
-          "alt": "Pieksämäki municipality coat of arms"
+          "alt": "Pieksämäki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Puumala",
           "areaCode": "KU623",
           "url": "/coat-of-arms/img/Etelä-Savo/Puumala.png",
-          "alt": "Puumala municipality coat of arms"
+          "alt": "Puumala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Rantasalmi",
           "areaCode": "KU681",
           "url": "/coat-of-arms/img/Etelä-Savo/Rantasalmi.png",
-          "alt": "Rantasalmi municipality coat of arms"
+          "alt": "Rantasalmi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Savonlinna",
           "areaCode": "KU740",
           "url": "/coat-of-arms/img/Etelä-Savo/Savonlinna.png",
-          "alt": "Savonlinna municipality coat of arms"
+          "alt": "Savonlinna municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sulkava",
           "areaCode": "KU768",
           "url": "/coat-of-arms/img/Etelä-Savo/Sulkava.png",
-          "alt": "Sulkava municipality coat of arms"
+          "alt": "Sulkava municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -618,49 +673,57 @@
           "municipality": "Hyrynsalmi",
           "areaCode": "KU105",
           "url": "/coat-of-arms/img/Kainuu/Hyrynsalmi.png",
-          "alt": "Hyrynsalmi municipality coat of arms"
+          "alt": "Hyrynsalmi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kajaani",
           "areaCode": "KU205",
           "url": "/coat-of-arms/img/Kainuu/Kajaani.png",
-          "alt": "Kajaani municipality coat of arms"
+          "alt": "Kajaani municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kuhmo",
           "areaCode": "KU290",
           "url": "/coat-of-arms/img/Kainuu/Kuhmo.png",
-          "alt": "Kuhmo municipality coat of arms"
+          "alt": "Kuhmo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Paltamo",
           "areaCode": "KU578",
           "url": "/coat-of-arms/img/Kainuu/Paltamo.png",
-          "alt": "Paltamo municipality coat of arms"
+          "alt": "Paltamo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Puolanka",
           "areaCode": "KU620",
           "url": "/coat-of-arms/img/Kainuu/Puolanka.png",
-          "alt": "Puolanka municipality coat of arms"
+          "alt": "Puolanka municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ristijärvi",
           "areaCode": "KU697",
           "url": "/coat-of-arms/img/Kainuu/Ristijärvi.png",
-          "alt": "Ristijärvi municipality coat of arms"
+          "alt": "Ristijärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sotkamo",
           "areaCode": "KU765",
           "url": "/coat-of-arms/img/Kainuu/Sotkamo.png",
-          "alt": "Sotkamo municipality coat of arms"
+          "alt": "Sotkamo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Suomussalmi",
           "areaCode": "KU777",
           "url": "/coat-of-arms/img/Kainuu/Suomussalmi.png",
-          "alt": "Suomussalmi municipality coat of arms"
+          "alt": "Suomussalmi municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -697,67 +760,78 @@
           "municipality": "Forssa",
           "areaCode": "KU061",
           "url": "/coat-of-arms/img/Kanta-Häme/Forssa.png",
-          "alt": "Forssa municipality coat of arms"
+          "alt": "Forssa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hämeenlinna",
           "areaCode": "KU109",
           "url": "/coat-of-arms/img/Kanta-Häme/Hämeenlinna.png",
-          "alt": "Hämeenlinna municipality coat of arms"
+          "alt": "Hämeenlinna municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hattula",
           "areaCode": "KU082",
           "url": "/coat-of-arms/img/Kanta-Häme/Hattula.png",
-          "alt": "Hattula municipality coat of arms"
+          "alt": "Hattula municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hausjärvi",
           "areaCode": "KU086",
           "url": "/coat-of-arms/img/Kanta-Häme/Hausjärvi.png",
-          "alt": "Hausjärvi municipality coat of arms"
+          "alt": "Hausjärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Humppila",
           "areaCode": "KU103",
           "url": "/coat-of-arms/img/Kanta-Häme/Humppila.png",
-          "alt": "Humppila municipality coat of arms"
+          "alt": "Humppila municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Janakkala",
           "areaCode": "KU165",
           "url": "/coat-of-arms/img/Kanta-Häme/Janakkala.png",
-          "alt": "Janakkala municipality coat of arms"
+          "alt": "Janakkala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Jokioinen",
           "areaCode": "KU169",
           "url": "/coat-of-arms/img/Kanta-Häme/Jokioinen.png",
-          "alt": "Jokioinen municipality coat of arms"
+          "alt": "Jokioinen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Loppi",
           "areaCode": "KU433",
           "url": "/coat-of-arms/img/Kanta-Häme/Loppi.png",
-          "alt": "Loppi municipality coat of arms"
+          "alt": "Loppi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Riihimäki",
           "areaCode": "KU694",
           "url": "/coat-of-arms/img/Kanta-Häme/Riihimäki.png",
-          "alt": "Riihimäki municipality coat of arms"
+          "alt": "Riihimäki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Tammela",
           "areaCode": "KU834",
           "url": "/coat-of-arms/img/Kanta-Häme/Tammela.png",
-          "alt": "Tammela municipality coat of arms"
+          "alt": "Tammela municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ypäjä",
           "areaCode": "KU981",
           "url": "/coat-of-arms/img/Kanta-Häme/Ypäjä.png",
-          "alt": "Ypäjä municipality coat of arms"
+          "alt": "Ypäjä municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -836,49 +910,57 @@
           "municipality": "Halsua",
           "areaCode": "KU074",
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Halsua.png",
-          "alt": "Halsua municipality coat of arms"
+          "alt": "Halsua municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kannus",
           "areaCode": "KU217",
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Kannus.png",
-          "alt": "Kannus municipality coat of arms"
+          "alt": "Kannus municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kaustinen",
           "areaCode": "KU236",
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Kaustinen.png",
-          "alt": "Kaustinen municipality coat of arms"
+          "alt": "Kaustinen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kokkola",
           "areaCode": "KU272",
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Kokkola.png",
-          "alt": "Kokkola municipality coat of arms"
+          "alt": "Kokkola municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lestijärvi",
           "areaCode": "KU421",
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Lestijärvi.png",
-          "alt": "Lestijärvi municipality coat of arms"
+          "alt": "Lestijärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Perho",
           "areaCode": "KU584",
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Perho.png",
-          "alt": "Perho municipality coat of arms"
+          "alt": "Perho municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Toholampi",
           "areaCode": "KU849",
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Toholampi.png",
-          "alt": "Toholampi municipality coat of arms"
+          "alt": "Toholampi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Veteli",
           "areaCode": "KU924",
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Veteli.png",
-          "alt": "Veteli municipality coat of arms"
+          "alt": "Veteli municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -927,133 +1009,155 @@
           "municipality": "Äänekoski",
           "areaCode": "KU992",
           "url": "/coat-of-arms/img/Keski-Suomi/Äänekoski.png",
-          "alt": "Äänekoski municipality coat of arms"
+          "alt": "Äänekoski municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hankasalmi",
           "areaCode": "KU077",
           "url": "/coat-of-arms/img/Keski-Suomi/Hankasalmi.png",
-          "alt": "Hankasalmi municipality coat of arms"
+          "alt": "Hankasalmi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Jämsä",
           "areaCode": "KU182",
           "url": "/coat-of-arms/img/Keski-Suomi/Jämsä.png",
-          "alt": "Jämsä municipality coat of arms"
+          "alt": "Jämsä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Joutsa",
           "areaCode": "KU172",
           "url": "/coat-of-arms/img/Keski-Suomi/Joutsa.png",
-          "alt": "Joutsa municipality coat of arms"
+          "alt": "Joutsa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Jyväskylä",
           "areaCode": "KU179",
           "url": "/coat-of-arms/img/Keski-Suomi/Jyväskylä.png",
-          "alt": "Jyväskylä municipality coat of arms"
+          "alt": "Jyväskylä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kannonkoski",
           "areaCode": "KU216",
           "url": "/coat-of-arms/img/Keski-Suomi/Kannonkoski.png",
-          "alt": "Kannonkoski municipality coat of arms"
+          "alt": "Kannonkoski municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Karstula",
           "areaCode": "KU226",
           "url": "/coat-of-arms/img/Keski-Suomi/Karstula.png",
-          "alt": "Karstula municipality coat of arms"
+          "alt": "Karstula municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Keuruu",
           "areaCode": "KU249",
           "url": "/coat-of-arms/img/Keski-Suomi/Keuruu.png",
-          "alt": "Keuruu municipality coat of arms"
+          "alt": "Keuruu municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kinnula",
           "areaCode": "KU256",
           "url": "/coat-of-arms/img/Keski-Suomi/Kinnula.png",
-          "alt": "Kinnula municipality coat of arms"
+          "alt": "Kinnula municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kivijärvi",
           "areaCode": "KU265",
           "url": "/coat-of-arms/img/Keski-Suomi/Kivijärvi.png",
-          "alt": "Kivijärvi municipality coat of arms"
+          "alt": "Kivijärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Konnevesi",
           "areaCode": "KU275",
           "url": "/coat-of-arms/img/Keski-Suomi/Konnevesi.png",
-          "alt": "Konnevesi municipality coat of arms"
+          "alt": "Konnevesi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kyyjärvi",
           "areaCode": "KU312",
           "url": "/coat-of-arms/img/Keski-Suomi/Kyyjärvi.png",
-          "alt": "Kyyjärvi municipality coat of arms"
+          "alt": "Kyyjärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Laukaa",
           "areaCode": "KU410",
           "url": "/coat-of-arms/img/Keski-Suomi/Laukaa.png",
-          "alt": "Laukaa municipality coat of arms"
+          "alt": "Laukaa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Luhanka",
           "areaCode": "KU435",
           "url": "/coat-of-arms/img/Keski-Suomi/Luhanka.png",
-          "alt": "Luhanka municipality coat of arms"
+          "alt": "Luhanka municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Multia",
           "areaCode": "KU495",
           "url": "/coat-of-arms/img/Keski-Suomi/Multia.png",
-          "alt": "Multia municipality coat of arms"
+          "alt": "Multia municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Muurame",
           "areaCode": "KU500",
           "url": "/coat-of-arms/img/Keski-Suomi/Muurame.png",
-          "alt": "Muurame municipality coat of arms"
+          "alt": "Muurame municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Petäjävesi",
           "areaCode": "KU592",
           "url": "/coat-of-arms/img/Keski-Suomi/Petäjävesi.png",
-          "alt": "Petäjävesi municipality coat of arms"
+          "alt": "Petäjävesi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pihtipudas",
           "areaCode": "KU601",
           "url": "/coat-of-arms/img/Keski-Suomi/Pihtipudas.png",
-          "alt": "Pihtipudas municipality coat of arms"
+          "alt": "Pihtipudas municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Saarijärvi",
           "areaCode": "KU729",
           "url": "/coat-of-arms/img/Keski-Suomi/Saarijärvi.png",
-          "alt": "Saarijärvi municipality coat of arms"
+          "alt": "Saarijärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Toivakka",
           "areaCode": "KU850",
           "url": "/coat-of-arms/img/Keski-Suomi/Toivakka.png",
-          "alt": "Toivakka municipality coat of arms"
+          "alt": "Toivakka municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Uurainen",
           "areaCode": "KU892",
           "url": "/coat-of-arms/img/Keski-Suomi/Uurainen.png",
-          "alt": "Uurainen municipality coat of arms"
+          "alt": "Uurainen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Viitasaari",
           "areaCode": "KU931",
           "url": "/coat-of-arms/img/Keski-Suomi/Viitasaari.png",
-          "alt": "Viitasaari municipality coat of arms"
+          "alt": "Viitasaari municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -1180,37 +1284,43 @@
           "municipality": "Hamina",
           "areaCode": "KU075",
           "url": "/coat-of-arms/img/Kymenlaakso/Hamina.png",
-          "alt": "Hamina municipality coat of arms"
+          "alt": "Hamina municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kotka",
           "areaCode": "KU285",
           "url": "/coat-of-arms/img/Kymenlaakso/Kotka.png",
-          "alt": "Kotka municipality coat of arms"
+          "alt": "Kotka municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kouvola",
           "areaCode": "KU286",
           "url": "/coat-of-arms/img/Kymenlaakso/Kouvola.png",
-          "alt": "Kouvola municipality coat of arms"
+          "alt": "Kouvola municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Miehikkälä",
           "areaCode": "KU489",
           "url": "/coat-of-arms/img/Kymenlaakso/Miehikkälä.png",
-          "alt": "Miehikkälä municipality coat of arms"
+          "alt": "Miehikkälä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pyhtää",
           "areaCode": "KU624",
           "url": "/coat-of-arms/img/Kymenlaakso/Pyhtää.png",
-          "alt": "Pyhtää municipality coat of arms"
+          "alt": "Pyhtää municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Virolahti",
           "areaCode": "KU935",
           "url": "/coat-of-arms/img/Kymenlaakso/Virolahti.png",
-          "alt": "Virolahti municipality coat of arms"
+          "alt": "Virolahti municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -1218,61 +1328,71 @@
           "oldMunicipality": "Hamina",
           "oldName": "Vehkalahti",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Hamina/Vehkalahti.png",
-          "alt": "Vehkalahti old municipality coat of arms"
+          "alt": "Vehkalahti old municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "oldMunicipality": "Kotka",
           "oldName": "Haapasaari",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kotka/Haapasaari.png",
-          "alt": "Haapasaari old municipality coat of arms"
+          "alt": "Haapasaari old municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "oldMunicipality": "Kotka",
           "oldName": "Karhula",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kotka/Karhula.png",
-          "alt": "Karhula old municipality coat of arms"
+          "alt": "Karhula old municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "oldMunicipality": "Kotka",
           "oldName": "Kymi",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kotka/Kymi.png",
-          "alt": "Kymi old municipality coat of arms"
+          "alt": "Kymi old municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "oldMunicipality": "Kouvala",
           "oldName": "Anjalankoski",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Anjalankoski.png",
-          "alt": "Anjalankoski old municipality coat of arms"
+          "alt": "Anjalankoski old municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "oldMunicipality": "Kouvala",
           "oldName": "Elimäki",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Elimäki.png",
-          "alt": "Elimäki old municipality coat of arms"
+          "alt": "Elimäki old municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "oldMunicipality": "Kouvala",
           "oldName": "Jaala",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Jaala.png",
-          "alt": "Jaala old municipality coat of arms"
+          "alt": "Jaala old municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "oldMunicipality": "Kouvala",
           "oldName": "Kouvola",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Kouvola-old.png",
-          "alt": "Kouvola old municipality coat of arms"
+          "alt": "Kouvola old municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "oldMunicipality": "Kouvala",
           "oldName": "Kuusankoski",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Kuusankoski.png",
-          "alt": "Kuusankoski old municipality coat of arms"
+          "alt": "Kuusankoski old municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "oldMunicipality": "Kouvala",
           "oldName": "Valkeala",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kymenlaakso/Kouvala/Valkeala.png",
-          "alt": "Valkeala old municipality coat of arms"
+          "alt": "Valkeala old municipality coat of arms",
+          "municipalityDescription": ""
         }
       ]
     },
@@ -1289,127 +1409,148 @@
           "municipality": "Enontekiö",
           "areaCode": "KU047",
           "url": "/coat-of-arms/img/Lappi/Enontekiö.png",
-          "alt": "Enontekiö municipality coat of arms"
+          "alt": "Enontekiö municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Inari",
           "areaCode": "KU148",
           "url": "/coat-of-arms/img/Lappi/Inari.png",
-          "alt": "Inari municipality coat of arms"
+          "alt": "Inari municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kemi",
           "areaCode": "KU240",
           "url": "/coat-of-arms/img/Lappi/Kemi.png",
-          "alt": "Kemi municipality coat of arms"
+          "alt": "Kemi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kemijärvi",
           "areaCode": "KU320",
           "url": "/coat-of-arms/img/Lappi/Kemijärvi.png",
-          "alt": "Kemijärvi municipality coat of arms"
+          "alt": "Kemijärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Keminmaa",
           "areaCode": "KU241",
           "url": "/coat-of-arms/img/Lappi/Keminmaa.png",
-          "alt": "Keminmaa municipality coat of arms"
+          "alt": "Keminmaa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kittilä",
           "areaCode": "KU261",
           "url": "/coat-of-arms/img/Lappi/Kittilä.png",
-          "alt": "Kittilä municipality coat of arms"
+          "alt": "Kittilä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kolari",
           "areaCode": "KU273",
           "url": "/coat-of-arms/img/Lappi/Kolari.png",
-          "alt": "Kolari municipality coat of arms"
+          "alt": "Kolari municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Muonio",
           "areaCode": "KU498",
           "url": "/coat-of-arms/img/Lappi/Muonio.png",
-          "alt": "Muonio municipality coat of arms"
+          "alt": "Muonio municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pelkosenniemi",
           "areaCode": "KU583",
           "url": "/coat-of-arms/img/Lappi/Pelkosenniemi.png",
-          "alt": "Pelkosenniemi municipality coat of arms"
+          "alt": "Pelkosenniemi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pello",
           "areaCode": "KU854",
           "url": "/coat-of-arms/img/Lappi/Pello.png",
-          "alt": "Pello municipality coat of arms"
+          "alt": "Pello municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Posio",
           "areaCode": "KU614",
           "url": "/coat-of-arms/img/Lappi/Posio.png",
-          "alt": "Posio municipality coat of arms"
+          "alt": "Posio municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ranua",
           "areaCode": "KU683",
           "url": "/coat-of-arms/img/Lappi/Ranua.png",
-          "alt": "Ranua municipality coat of arms"
+          "alt": "Ranua municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Rovaniemi",
           "areaCode": "KU698",
           "url": "/coat-of-arms/img/Lappi/Rovaniemi.png",
-          "alt": "Rovaniemi municipality coat of arms"
+          "alt": "Rovaniemi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Salla",
           "areaCode": "KU732",
           "url": "/coat-of-arms/img/Lappi/Salla.png",
-          "alt": "Salla municipality coat of arms"
+          "alt": "Salla municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Savukoski",
           "areaCode": "KU742",
           "url": "/coat-of-arms/img/Lappi/Savukoski.png",
-          "alt": "Savukoski municipality coat of arms"
+          "alt": "Savukoski municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Simo",
           "areaCode": "KU751",
           "url": "/coat-of-arms/img/Lappi/Simo.png",
-          "alt": "Simo municipality coat of arms"
+          "alt": "Simo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sodankylä",
           "areaCode": "KU758",
           "url": "/coat-of-arms/img/Lappi/Sodankylä.png",
-          "alt": "Sodankylä municipality coat of arms"
+          "alt": "Sodankylä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Tervola",
           "areaCode": "KU845",
           "url": "/coat-of-arms/img/Lappi/Tervola.png",
-          "alt": "Tervola municipality coat of arms"
+          "alt": "Tervola municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Tornio",
           "areaCode": "Tornio",
           "url": "/coat-of-arms/img/Lappi/Tornio.png",
-          "alt": "Tornio municipality coat of arms"
+          "alt": "Tornio municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Utsjoki",
           "areaCode": "KU890",
           "url": "/coat-of-arms/img/Lappi/Utsjoki.png",
-          "alt": "Utsjoki municipality coat of arms"
+          "alt": "Utsjoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ylitornio",
           "areaCode": "KU976",
           "url": "/coat-of-arms/img/Lappi/Ylitornio.png",
-          "alt": "Ylitornio municipality coat of arms"
+          "alt": "Ylitornio municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -1464,61 +1605,71 @@
           "municipality": "Asikkala",
           "areaCode": "KU016",
           "url": "/coat-of-arms/img/Päijät-Häme/Asikkala.png",
-          "alt": "Asikkala municipality coat of arms"
+          "alt": "Asikkala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hartola",
           "areaCode": "KU081",
           "url": "/coat-of-arms/img/Päijät-Häme/Hartola.png",
-          "alt": "Hartola municipality coat of arms"
+          "alt": "Hartola municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Heinola",
           "areaCode": "KU111",
           "url": "/coat-of-arms/img/Päijät-Häme/Heinola.png",
-          "alt": "Heinola municipality coat of arms"
+          "alt": "Heinola municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hollola",
           "areaCode": "KU098",
           "url": "/coat-of-arms/img/Päijät-Häme/Hollola.png",
-          "alt": "Hollola municipality coat of arms"
+          "alt": "Hollola municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Iitti",
           "areaCode": "KU142",
           "url": "/coat-of-arms/img/Päijät-Häme/Iitti.png",
-          "alt": "Iitti municipality coat of arms"
+          "alt": "Iitti municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kärkölä",
           "areaCode": "KU316",
           "url": "/coat-of-arms/img/Päijät-Häme/Kärkölä.png",
-          "alt": "Kärkölä municipality coat of arms"
+          "alt": "Kärkölä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lahti",
           "areaCode": "KU398",
           "url": "/coat-of-arms/img/Päijät-Häme/Lahti.png",
-          "alt": "Lahti municipality coat of arms"
+          "alt": "Lahti municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Orimattila",
           "areaCode": "KU560",
           "url": "/coat-of-arms/img/Päijät-Häme/Orimattila.png",
-          "alt": "Orimattila municipality coat of arms"
+          "alt": "Orimattila municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Padasjoki",
           "areaCode": "KU576",
           "url": "/coat-of-arms/img/Päijät-Häme/Padasjoki.png",
-          "alt": "Padasjoki municipality coat of arms"
+          "alt": "Padasjoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sysmä",
           "areaCode": "KU781",
           "url": "/coat-of-arms/img/Päijät-Häme/Sysmä.png",
-          "alt": "Sysmä municipality coat of arms"
+          "alt": "Sysmä municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -1561,139 +1712,162 @@
           "municipality": "Akaa",
           "areaCode": "KU020",
           "url": "/coat-of-arms/img/Pirkanmaa/Akaa.png",
-          "alt": "Akaa municipality coat of arms"
+          "alt": "Akaa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hämeenkyrö",
           "areaCode": "KU108",
           "url": "/coat-of-arms/img/Pirkanmaa/Hämeenkyrö.png",
-          "alt": "Hämeenkyrö municipality coat of arms"
+          "alt": "Hämeenkyrö municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ikaalinen",
           "areaCode": "KU143",
           "url": "/coat-of-arms/img/Pirkanmaa/Ikaalinen.png",
-          "alt": "Ikaalinen municipality coat of arms"
+          "alt": "Ikaalinen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Juupajoki",
           "areaCode": "KU177",
           "url": "/coat-of-arms/img/Pirkanmaa/Juupajoki.png",
-          "alt": "Juupajoki municipality coat of arms"
+          "alt": "Juupajoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kangasala",
           "areaCode": "KU211",
           "url": "/coat-of-arms/img/Pirkanmaa/Kangasala.png",
-          "alt": "Kangasala municipality coat of arms"
+          "alt": "Kangasala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sastamala",
           "areaCode": "KU790",
           "url": "/coat-of-arms/img/Pirkanmaa/Sastamala.png",
-          "alt": "Sastamala municipality coat of arms"
+          "alt": "Sastamala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kihniö",
           "areaCode": "KU250",
           "url": "/coat-of-arms/img/Pirkanmaa/Kihniö.png",
-          "alt": "Kihniö municipality coat of arms"
+          "alt": "Kihniö municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kuhmoinen",
           "areaCode": "KU291",
           "url": "/coat-of-arms/img/Pirkanmaa/Kuhmoinen.png",
-          "alt": "Kuhmoinen municipality coat of arms"
+          "alt": "Kuhmoinen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lempäälä",
           "areaCode": "KU418",
           "url": "/coat-of-arms/img/Pirkanmaa/Lempäälä.png",
-          "alt": "Lempäälä municipality coat of arms"
+          "alt": "Lempäälä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pälkäne",
           "areaCode": "KU635",
           "url": "/coat-of-arms/img/Pirkanmaa/Pälkäne.png",
-          "alt": "Pälkäne municipality coat of arms"
+          "alt": "Pälkäne municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Nokia",
           "areaCode": "KU536",
           "url": "/coat-of-arms/img/Pirkanmaa/Nokia.png",
-          "alt": "Nokia municipality coat of arms"
+          "alt": "Nokia municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Orivesi",
           "areaCode": "KU562",
           "url": "/coat-of-arms/img/Pirkanmaa/Orivesi.png",
-          "alt": "Orivesi municipality coat of arms"
+          "alt": "Orivesi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Parkano",
           "areaCode": "KU581",
           "url": "/coat-of-arms/img/Pirkanmaa/Parkano.png",
-          "alt": "Parkano municipality coat of arms"
+          "alt": "Parkano municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pirkkala",
           "areaCode": "KU604",
           "url": "/coat-of-arms/img/Pirkanmaa/Pirkkala.png",
-          "alt": "Pirkkala municipality coat of arms"
+          "alt": "Pirkkala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Punkalaidun",
           "areaCode": "KU619",
           "url": "/coat-of-arms/img/Pirkanmaa/Punkalaidun.png",
-          "alt": "Punkalaidun municipality coat of arms"
+          "alt": "Punkalaidun municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ruovesi",
           "areaCode": "KU702",
           "url": "/coat-of-arms/img/Pirkanmaa/Ruovesi.png",
-          "alt": "Ruovesi municipality coat of arms"
+          "alt": "Ruovesi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Tampere",
           "areaCode": "KU837",
           "url": "/coat-of-arms/img/Pirkanmaa/Tampere.png",
-          "alt": "Tampere municipality coat of arms"
+          "alt": "Tampere municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Urjala",
           "areaCode": "KU887",
           "url": "/coat-of-arms/img/Pirkanmaa/Urjala.png",
-          "alt": "Urjala municipality coat of arms"
+          "alt": "Urjala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Valkeakoski",
           "areaCode": "KU908",
           "url": "/coat-of-arms/img/Pirkanmaa/Valkeakoski.png",
-          "alt": "Valkeakoski municipality coat of arms"
+          "alt": "Valkeakoski municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vesilahti",
           "areaCode": "KU922",
           "url": "/coat-of-arms/img/Pirkanmaa/Vesilahti.png",
-          "alt": "Vesilahti municipality coat of arms"
+          "alt": "Vesilahti municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Mänttä-Vilppula",
           "areaCode": "KU508",
           "url": "/coat-of-arms/img/Pirkanmaa/Vilppula.png",
-          "alt": "Mänttä-Vilppula municipality coat of arms"
+          "alt": "Mänttä-Vilppula municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Virrat",
           "areaCode": "KU936",
           "url": "/coat-of-arms/img/Pirkanmaa/Virrat.png",
-          "alt": "Virrat municipality coat of arms"
+          "alt": "Virrat municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ylöjärvi",
           "areaCode": "KU980",
           "url": "/coat-of-arms/img/Pirkanmaa/Ylöjärvi.png",
-          "alt": "Ylöjärvi municipality coat of arms"
+          "alt": "Ylöjärvi municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -1910,85 +2084,99 @@
           "municipality": "Kaskinen",
           "areaCode": "KU231",
           "url": "/coat-of-arms/img/Pohjanmaa/Kaskinen.png",
-          "alt": "Kaskinen municipality coat of arms"
+          "alt": "Kaskinen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Korsnäs",
           "areaCode": "KU280",
           "url": "/coat-of-arms/img/Pohjanmaa/Korsnäs.png",
-          "alt": "Korsnäs municipality coat of arms"
+          "alt": "Korsnäs municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kristiinankaupunki",
           "areaCode": "KU287",
           "url": "/coat-of-arms/img/Pohjanmaa/Kristiinankaupunki.png",
-          "alt": "Kristiinankaupunki municipality coat of arms"
+          "alt": "Kristiinankaupunki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kruunupyy",
           "areaCode": "KU288",
           "url": "/coat-of-arms/img/Pohjanmaa/Kruunupyy.png",
-          "alt": "Kruunupyy municipality coat of arms"
+          "alt": "Kruunupyy municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Laihia",
           "areaCode": "KU399",
           "url": "/coat-of-arms/img/Pohjanmaa/Laihia.png",
-          "alt": "Laihia municipality coat of arms"
+          "alt": "Laihia municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Luoto",
           "areaCode": "KU440",
           "url": "/coat-of-arms/img/Pohjanmaa/Luoto.png",
-          "alt": "Luoto municipality coat of arms"
+          "alt": "Luoto municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Maalahti",
           "areaCode": "KU475",
           "url": "/coat-of-arms/img/Pohjanmaa/Maalahti.png",
-          "alt": "Maalahti municipality coat of arms"
+          "alt": "Maalahti municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Mustasaari",
           "areaCode": "KU499",
           "url": "/coat-of-arms/img/Pohjanmaa/Mustasaari.png",
-          "alt": "Mustasaari municipality coat of arms"
+          "alt": "Mustasaari municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Närpiö",
           "areaCode": "KU545",
           "url": "/coat-of-arms/img/Pohjanmaa/Närpiö.png",
-          "alt": "Närpiö municipality coat of arms"
+          "alt": "Närpiö municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pedersöre",
           "areaCode": "KU599",
           "url": "/coat-of-arms/img/Pohjanmaa/Pedersöre.png",
-          "alt": "Pedersöre municipality coat of arms"
+          "alt": "Pedersöre municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pietarsaari",
           "areaCode": "KU598",
           "url": "/coat-of-arms/img/Pohjanmaa/Pietarsaari.png",
-          "alt": "Pietarsaari municipality coat of arms"
+          "alt": "Pietarsaari municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Uusikaarlepyy",
           "areaCode": "KU893",
           "url": "/coat-of-arms/img/Pohjanmaa/Uusikaarlepyy.png",
-          "alt": "Uusikaarlepyy municipality coat of arms"
+          "alt": "Uusikaarlepyy municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vaasa",
           "areaCode": "KU905",
           "url": "/coat-of-arms/img/Pohjanmaa/Vaasa.png",
-          "alt": "Vaasa municipality coat of arms"
+          "alt": "Vaasa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vöyri",
           "areaCode": "KU946",
           "url": "/coat-of-arms/img/Pohjanmaa/Vöyri.png",
-          "alt": "Vöyri municipality coat of arms"
+          "alt": "Vöyri municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -2181,79 +2369,92 @@
           "municipality": "Heinävesi",
           "areaCode": "KU090",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Heinävesi.png",
-          "alt": "Heinävesi municipality coat of arms"
+          "alt": "Heinävesi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ilomantsi",
           "areaCode": "KU146",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Ilomantsi.png",
-          "alt": "Ilomantsi municipality coat of arms"
+          "alt": "Ilomantsi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Joensuu",
           "areaCode": "KU167",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Joensuu.png",
-          "alt": "Joensuu municipality coat of arms"
+          "alt": "Joensuu municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Juuka",
           "areaCode": "KU176",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Juuka.png",
-          "alt": "Juuka municipality coat of arms"
+          "alt": "Juuka municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kitee",
           "areaCode": "KU260",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Kitee.png",
-          "alt": "Kitee municipality coat of arms"
+          "alt": "Kitee municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kontiolahti",
           "areaCode": "KU276",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Kontiolahti.png",
-          "alt": "Kontiolahti municipality coat of arms"
+          "alt": "Kontiolahti municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lieksa",
           "areaCode": "KU422",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Lieksa.png",
-          "alt": "Lieksa municipality coat of arms"
+          "alt": "Lieksa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Liperi",
           "areaCode": "KU426",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Liperi.png",
-          "alt": "Liperi municipality coat of arms"
+          "alt": "Liperi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Nurmes",
           "areaCode": "KU541",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Nurmes.png",
-          "alt": "Nurmes municipality coat of arms"
+          "alt": "Nurmes municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Outokumpu",
           "areaCode": "KU309",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Outokumpu.png",
-          "alt": "Outokumpu municipality coat of arms"
+          "alt": "Outokumpu municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Polvijärvi",
           "areaCode": "KU607",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Polvijärvi.png",
-          "alt": "Polvijärvi municipality coat of arms"
+          "alt": "Polvijärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Rääkkylä",
           "areaCode": "KU707",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Rääkkylä.png",
-          "alt": "Rääkkylä municipality coat of arms"
+          "alt": "Rääkkylä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Tohmajärvi",
           "areaCode": "KU848",
           "url": "/coat-of-arms/img/Pohjois-Karjala/Tohmajärvi.png",
-          "alt": "Tohmajärvi municipality coat of arms"
+          "alt": "Tohmajärvi municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -2350,181 +2551,211 @@
           "municipality": "Alavieska",
           "areaCode": "KU009",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Alavieska.png",
-          "alt": "Alavieska municipality coat of arms"
+          "alt": "Alavieska municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Haapajärvi",
           "areaCode": "KU069",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Haapajärvi.png",
-          "alt": "Haapajärvi municipality coat of arms"
+          "alt": "Haapajärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Haapavesi",
           "areaCode": "KU071",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Haapavesi.png",
-          "alt": "Haapavesi municipality coat of arms"
+          "alt": "Haapavesi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hailuoto",
           "areaCode": "KU072",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Hailuoto.png",
-          "alt": "Hailuoto municipality coat of arms"
+          "alt": "Hailuoto municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kalajoki",
           "areaCode": "KU208",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Kalajoki.png",
-          "alt": "Kalajoki municipality coat of arms"
+          "alt": "Kalajoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kärsämäki",
           "areaCode": "KU317",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Kärsämäki.png",
-          "alt": "Kärsämäki municipality coat of arms"
+          "alt": "Kärsämäki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kempele",
           "areaCode": "KU244",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Kempele.png",
-          "alt": "Kempele municipality coat of arms"
+          "alt": "Kempele municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ii",
           "areaCode": "KU139",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Ii.png",
-          "alt": "Ii municipality coat of arms"
+          "alt": "Ii municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kuusamo",
           "areaCode": "KU305",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Kuusamo.png",
-          "alt": "Kuusamo municipality coat of arms"
+          "alt": "Kuusamo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Liminka",
           "areaCode": "KU425",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Liminka.png",
-          "alt": "Liminka municipality coat of arms"
+          "alt": "Liminka municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lumijoki",
           "areaCode": "KU436",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Lumijoki.png",
-          "alt": "Lumijoki municipality coat of arms"
+          "alt": "Lumijoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Merijärvi",
           "areaCode": "KU483",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Merijärvi.png",
-          "alt": "Merijärvi municipality coat of arms"
+          "alt": "Merijärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Muhos",
           "areaCode": "KU494",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Muhos.png",
-          "alt": "Muhos municipality coat of arms"
+          "alt": "Muhos municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Nivala",
           "areaCode": "KU535",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Nivala.png",
-          "alt": "Nivala municipality coat of arms"
+          "alt": "Nivala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Oulainen",
           "areaCode": "KU563",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Oulainen.png",
-          "alt": "Oulainen municipality coat of arms"
+          "alt": "Oulainen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Oulu",
           "areaCode": "KU564",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Oulu.png",
-          "alt": "Oulu municipality coat of arms"
+          "alt": "Oulu municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pudasjärvi",
           "areaCode": "",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pudasjärvi.png",
-          "alt": "Pudasjärvi municipality coat of arms"
+          "alt": "Pudasjärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pyhäjärvi",
           "areaCode": "KU615",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pyhäjärvi.png",
-          "alt": "Pyhäjärvi municipality coat of arms"
+          "alt": "Pyhäjärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pyhäjoki",
           "areaCode": "KU625",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pyhäjoki.png",
-          "alt": "Pyhäjoki municipality coat of arms"
+          "alt": "Pyhäjoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pyhäntä",
           "areaCode": "KU630",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pyhäntä.png",
-          "alt": "Pyhäntä municipality coat of arms"
+          "alt": "Pyhäntä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Raahe",
           "areaCode": "KU678",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Raahe.png",
-          "alt": "Raahe municipality coat of arms"
+          "alt": "Raahe municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Reisjärvi",
           "areaCode": "KU691",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Reisjärvi.png",
-          "alt": "Reisjärvi municipality coat of arms"
+          "alt": "Reisjärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sievi",
           "areaCode": "KU746",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Sievi.png",
-          "alt": "Sievi municipality coat of arms"
+          "alt": "Sievi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Siikajoki",
           "areaCode": "KU748",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Siikajoki.png",
-          "alt": "Siikajoki municipality coat of arms"
+          "alt": "Siikajoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Siikalatva",
           "areaCode": "KU791",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Siikalatva.png",
-          "alt": "Siikalatva municipality coat of arms"
+          "alt": "Siikalatva municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Taivalkoski",
           "areaCode": "KU832",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Taivalkoski.png",
-          "alt": "Taivalkoski municipality coat of arms"
+          "alt": "Taivalkoski municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Tyrnävä",
           "areaCode": "KU859",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Tyrnävä.png",
-          "alt": "Tyrnävä municipality coat of arms"
+          "alt": "Tyrnävä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Utajärvi",
           "areaCode": "KU889",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Utajärvi.png",
-          "alt": "Utajärvi municipality coat of arms"
+          "alt": "Utajärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vaala",
           "areaCode": "KU785",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Vaala.png",
-          "alt": "Vaala municipality coat of arms"
+          "alt": "Vaala municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ylivieska",
           "areaCode": "KU977",
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Ylivieska.png",
-          "alt": "Ylivieska municipality coat of arms"
+          "alt": "Ylivieska municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -2693,115 +2924,134 @@
           "municipality": "Iisalmi",
           "areaCode": "KU140",
           "url": "/coat-of-arms/img/Pohjois-Savo/Iisalmi.png",
-          "alt": "Iisalmi municipality coat of arms"
+          "alt": "Iisalmi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Joroinen",
           "areaCode": "KU171",
           "url": "/coat-of-arms/img/Pohjois-Savo/Joroinen.png",
-          "alt": "Joroinen municipality coat of arms"
+          "alt": "Joroinen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kaavi",
           "areaCode": "KU204",
           "url": "/coat-of-arms/img/Pohjois-Savo/Kaavi.png",
-          "alt": "Kaavi municipality coat of arms"
+          "alt": "Kaavi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Keitele",
           "areaCode": "KU239",
           "url": "/coat-of-arms/img/Pohjois-Savo/Keitele.png",
-          "alt": "Keitele municipality coat of arms"
+          "alt": "Keitele municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kiuruvesi",
           "areaCode": "KU263",
           "url": "/coat-of-arms/img/Pohjois-Savo/Kiuruvesi.png",
-          "alt": "Kiuruvesi municipality coat of arms"
+          "alt": "Kiuruvesi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kuopio",
           "areaCode": "KU297",
           "url": "/coat-of-arms/img/Pohjois-Savo/Kuopio.png",
-          "alt": "Kuopio municipality coat of arms"
+          "alt": "Kuopio municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lapinlahti",
           "areaCode": "KU402",
           "url": "/coat-of-arms/img/Pohjois-Savo/Lapinlahti.png",
-          "alt": "Lapinlahti municipality coat of arms"
+          "alt": "Lapinlahti municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Leppävirta",
           "areaCode": "KU420",
           "url": "/coat-of-arms/img/Pohjois-Savo/Leppävirta.png",
-          "alt": "Leppävirta municipality coat of arms"
+          "alt": "Leppävirta municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pielavesi",
           "areaCode": "KU595",
           "url": "/coat-of-arms/img/Pohjois-Savo/Pielavesi.png",
-          "alt": "Pielavesi municipality coat of arms"
+          "alt": "Pielavesi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Rautalampi",
           "areaCode": "KU686",
           "url": "/coat-of-arms/img/Pohjois-Savo/Rautalampi.png",
-          "alt": "Rautalampi municipality coat of arms"
+          "alt": "Rautalampi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Rautavaara",
           "areaCode": "KU687",
           "url": "/coat-of-arms/img/Pohjois-Savo/Rautavaara.png",
-          "alt": "Rautavaara municipality coat of arms"
+          "alt": "Rautavaara municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Siilinjärvi",
           "areaCode": "KU749",
           "url": "/coat-of-arms/img/Pohjois-Savo/Siilinjärvi.png",
-          "alt": "Siilinjärvi municipality coat of arms"
+          "alt": "Siilinjärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sonkajärvi",
           "areaCode": "KU762",
           "url": "/coat-of-arms/img/Pohjois-Savo/Sonkajärvi.png",
-          "alt": "Sonkajärvi municipality coat of arms"
+          "alt": "Sonkajärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Suonenjoki",
           "areaCode": "KU778",
           "url": "/coat-of-arms/img/Pohjois-Savo/Suonenjoki.png",
-          "alt": "Suonenjoki municipality coat of arms"
+          "alt": "Suonenjoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Tervo",
           "areaCode": "KU844",
           "url": "/coat-of-arms/img/Pohjois-Savo/Tervo.png",
-          "alt": "Tervo municipality coat of arms"
+          "alt": "Tervo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Tuusniemi",
           "areaCode": "KU857",
           "url": "/coat-of-arms/img/Pohjois-Savo/Tuusniemi.png",
-          "alt": "Tuusniemi municipality coat of arms"
+          "alt": "Tuusniemi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Varkaus",
           "areaCode": "KU915",
           "url": "/coat-of-arms/img/Pohjois-Savo/Varkaus.png",
-          "alt": "Varkaus municipality coat of arms"
+          "alt": "Varkaus municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vesanto",
           "areaCode": "KU921",
           "url": "/coat-of-arms/img/Pohjois-Savo/Vesanto.png",
-          "alt": "Vesanto municipality coat of arms"
+          "alt": "Vesanto municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vieremä",
           "areaCode": "KU925",
           "url": "/coat-of-arms/img/Pohjois-Savo/Vieremä.png",
-          "alt": "Vieremä municipality coat of arms"
+          "alt": "Vieremä municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -2886,97 +3136,113 @@
           "municipality": "Eura",
           "areaCode": "KU050",
           "url": "/coat-of-arms/img/Satakunta/Eura.png",
-          "alt": "Eura municipality coat of arms"
+          "alt": "Eura municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Harjavalta",
           "areaCode": "KU079",
           "url": "/coat-of-arms/img/Satakunta/Harjavalta.png",
-          "alt": "Harjavalta municipality coat of arms"
+          "alt": "Harjavalta municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Huittinen",
           "areaCode": "KU102",
           "url": "/coat-of-arms/img/Satakunta/Huittinen.png",
-          "alt": "Huittinen municipality coat of arms"
+          "alt": "Huittinen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Jämijärvi",
           "areaCode": "KU181",
           "url": "/coat-of-arms/img/Satakunta/Jämijärvi.png",
-          "alt": "Jämijärvi municipality coat of arms"
+          "alt": "Jämijärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kankaanpää",
           "areaCode": "KU214",
           "url": "/coat-of-arms/img/Satakunta/Kankaanpää.png",
-          "alt": "Kankaanpää municipality coat of arms"
+          "alt": "Kankaanpää municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Karvia",
           "areaCode": "KU230",
           "url": "/coat-of-arms/img/Satakunta/Karvia.png",
-          "alt": "Karvia municipality coat of arms"
+          "alt": "Karvia municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kokemäki",
           "areaCode": "KU271",
           "url": "/coat-of-arms/img/Satakunta/Kokemäki.png",
-          "alt": "Kokemäki municipality coat of arms"
+          "alt": "Kokemäki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Säkylä",
           "areaCode": "KU783",
           "url": "/coat-of-arms/img/Satakunta/Säkylä.png",
-          "alt": "Säkylä municipality coat of arms"
+          "alt": "Säkylä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Eurajoki",
           "areaCode": "KU051",
           "url": "/coat-of-arms/img/Satakunta/Eurajoki.png",
-          "alt": "Eurajoki municipality coat of arms"
+          "alt": "Eurajoki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Merikarvia",
           "areaCode": "KU484",
           "url": "/coat-of-arms/img/Satakunta/Merikarvia.png",
-          "alt": "Merikarvia municipality coat of arms"
+          "alt": "Merikarvia municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Nakkila",
           "areaCode": "KU531",
           "url": "/coat-of-arms/img/Satakunta/Nakkila.png",
-          "alt": "Nakkila municipality coat of arms"
+          "alt": "Nakkila municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pomarkku",
           "areaCode": "KU608",
           "url": "/coat-of-arms/img/Satakunta/Pomarkku.png",
-          "alt": "Pomarkku municipality coat of arms"
+          "alt": "Pomarkku municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pori",
           "areaCode": "KU609",
           "url": "/coat-of-arms/img/Satakunta/Pori.png",
-          "alt": "Pori municipality coat of arms"
+          "alt": "Pori municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Rauma",
           "areaCode": "KU684",
           "url": "/coat-of-arms/img/Satakunta/Rauma.png",
-          "alt": "Rauma municipality coat of arms"
+          "alt": "Rauma municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Siikainen",
           "areaCode": "KU747",
           "url": "/coat-of-arms/img/Satakunta/Siikainen.png",
-          "alt": "Siikainen municipality coat of arms"
+          "alt": "Siikainen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Ulvila",
           "areaCode": "KU886",
           "url": "/coat-of-arms/img/Satakunta/Ulvila.png",
-          "alt": "Ulvila municipality coat of arms"
+          "alt": "Ulvila municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -3091,151 +3357,176 @@
           "municipality": "Askola",
           "areaCode": "KU018",
           "url": "/coat-of-arms/img/Uusimaa/Askola.png",
-          "alt": "Askola municipality coat of arms"
+          "alt": "Askola municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Espoo",
           "areaCode": "KU049",
           "url": "/coat-of-arms/img/Uusimaa/Espoo.png",
-          "alt": "Espoo municipality coat of arms"
+          "alt": "Espoo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hanko",
           "areaCode": "KU078",
           "url": "/coat-of-arms/img/Uusimaa/Hanko.png",
-          "alt": "Hanko municipality coat of arms"
+          "alt": "Hanko municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Helsinki",
           "areaCode": "KU091",
           "url": "/coat-of-arms/img/Uusimaa/Helsinki.png",
-          "alt": "Helsinki municipality coat of arms"
+          "alt": "Helsinki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Hyvinkää",
           "areaCode": "KU106",
           "url": "/coat-of-arms/img/Uusimaa/Hyvinkää.png",
-          "alt": "Hyvinkää municipality coat of arms"
+          "alt": "Hyvinkää municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Inkoo",
           "areaCode": "KU149",
           "url": "/coat-of-arms/img/Uusimaa/Inkoo.png",
-          "alt": "Inkoo municipality coat of arms"
+          "alt": "Inkoo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Järvenpää",
           "areaCode": "KU186",
           "url": "/coat-of-arms/img/Uusimaa/Järvenpää.png",
-          "alt": "Järvenpää municipality coat of arms"
+          "alt": "Järvenpää municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Karkkila",
           "areaCode": "KU224",
           "url": "/coat-of-arms/img/Uusimaa/Karkkila.png",
-          "alt": "Karkkila municipality coat of arms"
+          "alt": "Karkkila municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kauniainen",
           "areaCode": "KU235",
           "url": "/coat-of-arms/img/Uusimaa/Kauniainen.png",
-          "alt": "Kauniainen municipality coat of arms"
+          "alt": "Kauniainen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kerava",
           "areaCode": "KU245",
           "url": "/coat-of-arms/img/Uusimaa/Kerava.png",
-          "alt": "Kerava municipality coat of arms"
+          "alt": "Kerava municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kirkkonummi",
           "areaCode": "KU257",
           "url": "/coat-of-arms/img/Uusimaa/Kirkkonummi.png",
-          "alt": "Kirkkonummi municipality coat of arms"
+          "alt": "Kirkkonummi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lapinjärvi",
           "areaCode": "KU407",
           "url": "/coat-of-arms/img/Uusimaa/Lapinjärvi.png",
-          "alt": "Lapinjärvi municipality coat of arms"
+          "alt": "Lapinjärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lohja",
           "areaCode": "KU444",
           "url": "/coat-of-arms/img/Uusimaa/Lohja.png",
-          "alt": "Lohja municipality coat of arms"
+          "alt": "Lohja municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Loviisa",
           "areaCode": "KU434",
           "url": "/coat-of-arms/img/Uusimaa/Loviisa.png",
-          "alt": "Loviisa municipality coat of arms"
+          "alt": "Loviisa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Mäntsälä",
           "areaCode": "KU505",
           "url": "/coat-of-arms/img/Uusimaa/Mäntsälä.png",
-          "alt": "Mäntsälä municipality coat of arms"
+          "alt": "Mäntsälä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Nurmijärvi",
           "areaCode": "KU543",
           "url": "/coat-of-arms/img/Uusimaa/Nurmijärvi.png",
-          "alt": "Nurmijärvi municipality coat of arms"
+          "alt": "Nurmijärvi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pornainen",
           "areaCode": "KU611",
           "url": "/coat-of-arms/img/Uusimaa/Pornainen.png",
-          "alt": "Pornainen municipality coat of arms"
+          "alt": "Pornainen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Porvoo",
           "areaCode": "KU638",
           "url": "/coat-of-arms/img/Uusimaa/Porvoo.png",
-          "alt": "Porvoo municipality coat of arms"
+          "alt": "Porvoo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pukkila",
           "areaCode": "KU616",
           "url": "/coat-of-arms/img/Uusimaa/Pukkila.png",
-          "alt": "Pukkila municipality coat of arms"
+          "alt": "Pukkila municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Raasepori",
           "areaCode": "KU710",
           "url": "/coat-of-arms/img/Uusimaa/Raasepori.png",
-          "alt": "Raasepori municipality coat of arms"
+          "alt": "Raasepori municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sipoo",
           "areaCode": "KU753",
           "url": "/coat-of-arms/img/Uusimaa/Sipoo.png",
-          "alt": "Sipoo municipality coat of arms"
+          "alt": "Sipoo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Siuntio",
           "areaCode": "KU755",
           "url": "/coat-of-arms/img/Uusimaa/Siuntio.png",
-          "alt": "Siuntio municipality coat of arms"
+          "alt": "Siuntio municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Tuusula",
           "areaCode": "KU858",
           "url": "/coat-of-arms/img/Uusimaa/Tuusula.png",
-          "alt": "Tuusula municipality coat of arms"
+          "alt": "Tuusula municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vantaa",
           "areaCode": "KU092",
           "url": "/coat-of-arms/img/Uusimaa/Vantaa.png",
-          "alt": "Vantaa municipality coat of arms"
+          "alt": "Vantaa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vihti",
           "areaCode": "KU927",
           "url": "/coat-of-arms/img/Uusimaa/Vihti.png",
-          "alt": "Vihti municipality coat of arms"
+          "alt": "Vihti municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
@@ -3380,163 +3671,190 @@
           "municipality": "Masku",
           "areaCode": "KU481",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Masku.png",
-          "alt": "Masku municipality coat of arms"
+          "alt": "Masku municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Aura",
           "areaCode": "KU019",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Aura.png",
-          "alt": "Aura municipality coat of arms"
+          "alt": "Aura municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kemiönsaari",
           "areaCode": "KU322",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Dragsfjärd.png",
-          "alt": "Kemiönsaari municipality coat of arms"
+          "alt": "Kemiönsaari municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Salo",
           "areaCode": "KU734",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Salo.png",
-          "alt": "Salo municipality coat of arms"
+          "alt": "Salo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Koski Tl",
           "areaCode": "KU284",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Koski-Tl.png",
-          "alt": "Koski Tl municipality coat of arms"
+          "alt": "Koski Tl municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kustavi",
           "areaCode": "KU304",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Kustavi.png",
-          "alt": "Kustavi municipality coat of arms"
+          "alt": "Kustavi municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Laitila",
           "areaCode": "KU400",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Laitila.png",
-          "alt": "Laitila municipality coat of arms"
+          "alt": "Laitila municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Lieto",
           "areaCode": "KU423",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Lieto.png",
-          "alt": "Lieto municipality coat of arms"
+          "alt": "Lieto municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Loimaa",
           "areaCode": "KU430",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Loimaa.png",
-          "alt": "Loimaa municipality coat of arms"
+          "alt": "Loimaa municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Marttila",
           "areaCode": "KU480",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Marttila.png",
-          "alt": "Marttila municipality coat of arms"
+          "alt": "Marttila municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Mynämäki",
           "areaCode": "KU503",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Mynämäki.png",
-          "alt": "Mynämäki municipality coat of arms"
+          "alt": "Mynämäki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Naantali",
           "areaCode": "KU529",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Naantali.png",
-          "alt": "Naantali municipality coat of arms"
+          "alt": "Naantali municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Parainen",
           "areaCode": "KU445",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Parainen.png",
-          "alt": "Parainen municipality coat of arms"
+          "alt": "Parainen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Nousiainen",
           "areaCode": "KU538",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Nousiainen.png",
-          "alt": "Nousiainen municipality coat of arms"
+          "alt": "Nousiainen municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Oripää",
           "areaCode": "KU561",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Oripää.png",
-          "alt": "Oripää municipality coat of arms"
+          "alt": "Oripää municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Paimio",
           "areaCode": "KU577",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Paimio.png",
-          "alt": "Paimio municipality coat of arms"
+          "alt": "Paimio municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Kaarina",
           "areaCode": "KU202",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Kaarina.png",
-          "alt": "Kaarina municipality coat of arms"
+          "alt": "Kaarina municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pöytyä",
           "areaCode": "KU636",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Pöytyä.png",
-          "alt": "Pöytyä municipality coat of arms"
+          "alt": "Pöytyä municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Pyhäranta",
           "areaCode": "KU631",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Pyhäranta.png",
-          "alt": "Pyhäranta municipality coat of arms"
+          "alt": "Pyhäranta municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Raisio",
           "areaCode": "KU680",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Raisio.png",
-          "alt": "Raisio municipality coat of arms"
+          "alt": "Raisio municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Sauvo",
           "areaCode": "KU738",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Sauvo.png",
-          "alt": "Sauvo municipality coat of arms"
+          "alt": "Sauvo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Somero",
           "areaCode": "KU761",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Somero.png",
-          "alt": "Somero municipality coat of arms"
+          "alt": "Somero municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Taivassalo",
           "areaCode": "KU833",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Taivassalo.png",
-          "alt": "Taivassalo municipality coat of arms"
+          "alt": "Taivassalo municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Turku",
           "areaCode": "KU853",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Turku.png",
-          "alt": "Turku municipality coat of arms"
+          "alt": "Turku municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Uusikaupunki",
           "areaCode": "KU895",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Uusikaupunki.png",
-          "alt": "Uusikaupunki municipality coat of arms"
+          "alt": "Uusikaupunki municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Rusko",
           "areaCode": "KU704",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Rusko.png",
-          "alt": "Rusko municipality coat of arms"
+          "alt": "Rusko municipality coat of arms",
+          "municipalityDescription": ""
         },
         {
           "municipality": "Vehmaa",
           "areaCode": "KU918",
           "url": "/coat-of-arms/img/Varsinais-Suomi/Vehmaa.png",
-          "alt": "Vehmaa municipality coat of arms"
+          "alt": "Vehmaa municipality coat of arms",
+          "municipalityDescription": ""
         }
       ],
       "consolidated": [
