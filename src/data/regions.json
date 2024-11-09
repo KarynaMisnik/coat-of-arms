@@ -135,6 +135,7 @@
     {
       "name": "Etelä-Karjala",
       "regionCode": "MK09",
+      "regionDescription": "The revised heraldic description of South Karelia’s coat of arms from 2008 reads: 'On a shield split horizontally in red and black, a wavy silver bar appears with two clashing arms above it. The right arm, armored, wields a sword, while the left, covered in chain mail, holds a curved saber. All elements are silver, except for the golden hilts of the weapons and the joint rings on the armor.'The crossed arms and weapons are inspired by the historical coat of arms of Karelia, with colors traditional to the region. The wavy bar symbolizes Lake Saimaa and other regional waterways. This coat of arms was created by architect Tuula Taskula and approved by the South Karelia Regional Council on April 2, 1997. Before adopting this coat of arms, South Karelia used one designed by heraldist Olof Erikson in the 1980s, though it did not become widely recognized as a regional symbol. The historical coat of arms of Karelia represented South Karelia within the former Kymi and Southern Finland provinces, while the Province of Viipuri used Viipuri’s old city coat of arms. In 1989, heraldist Jukka Suvisaari designed a traditional house flag for South Karelia, featuring white, red, and yellow from the Karelian coat of arms—distinct from Karelia’s black-and-red house flag. On December 10, 2002, the South Karelia Regional Council also adopted a provincial flag that combines the coat of arms’ crossed arms with the black-and-red of the traditional Karelian flag.",
       "img": "Etelä-Karjala",
       "src": "/coat-of-arms/img/Etelä-Karjala/Etelä-Karjala.png",
       "alt": "Etelä-Karjala region coat of arms",
@@ -146,21 +147,21 @@
           "areaCode": "KU153",
           "url": "/coat-of-arms/img/Etelä-Karjala/Imatra.png",
           "alt": "Imatra municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The design of the coat of arms refers to the power plants that began construction in the early 1920s at Tainionkoski and Imatrankoski. The blazon is described as 'in a red field, three upright, double-ended arrow-shaped silver lightning bolts tipped in gold.' The coat of arms was designed by Olof Eriksson and was approved by the Imatra town council on August 9, 1950. The Ministry of the Interior officially sanctioned its use on October 25 of the same year."
         },
         {
           "municipality": "Lappeenranta",
           "areaCode": "KU405",
           "url": "/coat-of-arms/img/Etelä-Karjala/Lappeenranta.png",
           "alt": "Lappeenranta municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Lappeenranta, blazoned as 'In a silver field, a wild man in natural colors with a club resting on the ground, standing on green soil and wearing green wreaths on his forehead and waist,' originates from the city’s 1652 seal. The wild man symbol references Lappeenranta's former name, Lappstrand, later reinterpreted in 1721 as Willmanstrand ('wild man’s shore') due to the old Swedish term lapp, meaning 'wild man'. After Sweden ceded Lappeenranta to Russia in 1743, the city adopted a modified coat of arms in 1788 based on this early seal, initially on a blue field. By 1892, George Granfelt's Finlands städers vapenbok depicted it on a silver field, a version that eventually became standard. Olof Eriksson's 1954 redesign introduced this silver field officially, along with a golden mural crown symbolizing Lappeenranta's fortress. The city’s former Nuijamies movie theater, now a cultural venue, takes its name from the wild man figure on the coat of arms."
         },
         {
           "municipality": "Lemi",
           "areaCode": "KU416",
           "url": "/coat-of-arms/img/Etelä-Karjala/Lemi.png",
           "alt": "Lemi municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The wavy division on the shield symbolizes the municipality’s location on the lake plains, while the potato flower highlights its well-known potato farming heritage. Designed by Gustaf von Numers, the coat of arms was officially adopted on May 16, 1962. The blazon is described as: 'A shield divided wavy in red and silver; in the red field, a silver potato flower with a golden pistil.'"
         },
         {
           "municipality": "Luumäki",
