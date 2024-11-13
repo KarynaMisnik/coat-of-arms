@@ -355,49 +355,49 @@
           "areaCode": "KU403",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Lappajärvi.png",
           "alt": "Lappajärvi municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The boat featured in the coat of arms is adapted from the old parish seal. The radiant golden base, originally interpreted as flames, symbolizes the historical belief that Lake Lappajärvi—after which the municipality is named—was formed by an ancient volcanic crater. The blazon reads: 'In a blue field, a silver boat with a square sail and rudder, above a golden base with a radiant pattern.' Designed by Ahti Hammar, the coat of arms was approved by the Lappajärvi municipal council on September 20, 1957, and officially sanctioned by the Ministry of the Interior on November 27 of that year."
         },
         {
           "municipality": "Lapua",
           "areaCode": "KU408",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Lapua.png",
           "alt": "Lapua municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms is blazoned as follows: 'In a gold field, a black walking bear with red details, ridden by a man dressed in a blue tunic, trousers, and laced shoes, holding a black club raised for striking in his right hand.' The design of Lapua's coat of arms originates from the old parish seal. The earliest seal, dating back to 1599, featured only a forward-facing bear's head. This bear symbol was first used by the parent parish of Isojoki and was later adopted by Lapua and Ilmajoki when they became independent parishes. By the 18th century, after the original seal was lost during the Great Northern War, the image evolved to depict a man riding a bear and holding a club, a motif that became synonymous with Lapua and was also used in the seal of the Lapua district. Heraldic artist Gustaf von Numers designed the current coat of arms. It was approved by the Lapua municipal council on September 25, 1950, and officially sanctioned by the Ministry of the Interior on December 11 of that year."
         },
         {
           "municipality": "Seinäjoki",
           "areaCode": "KU743",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Seinäjoki.png",
           "alt": "Seinäjoki municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms, designed by heraldic artist Olof Eriksson, was officially adopted on May 16, 1951. The blazon describes it as: 'In a silver field, a blue wall with battlements spanning edge to edge, with a wavy base.' During the 2009 municipal mergers, a design competition was organized to create a new coat of arms for the enlarged city of Seinäjoki. However, none of the new designs were approved. Kari Hokkanen proposed retaining the original coat of arms, with the addition of a Cross of Liberty. Ultimately, the city council selected the original design, as proposed by the city board"
         },
         {
           "municipality": "Soini",
           "areaCode": "KU759",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Soini.png",
           "alt": "Soini municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms references the parish’s old name, Kuninkaanjoki (King’s River), which also names a village in Soini. This name is believed to mean “border river,” though a local legend suggests it originated when King Gustav Vasa paused by the river for a drink. The blazon reads: 'In a red field, a wavy golden beam beneath a golden crown.' Designed by Kaj Kajander, the coat of arms was approved by the Soini municipal council on February 14, 1962, and officially sanctioned by the Ministry of the Interior on August 29 of the same year."
         },
         {
           "municipality": "Teuva",
           "areaCode": "KU846",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Teuva.png",
           "alt": "Teuva municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The blazon reads: 'In a blue field, two silver flails crossed.' The coat of arms was designed by Ahti Hammar and approved by the Teuva municipal council on December 30, 1952. It was officially sanctioned by the Ministry of the Interior on April 20, 1953."
         },
         {
           "municipality": "Alavus",
           "areaCode": "KU010",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Alavus.png",
           "alt": "Alavus municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Alavus is the symbol of the city of Alavus. Its design refers to the ancient Tohninmäki cross-shaped ruin site. The coat of arms was originally approved as the seal of the municipality of Töysä on February 18, 1959. The blazon reads: 'In a blue field, a triangular point from which rises a cross with arched arms; both in silver.' The coat of arms was designed by Gustaf von Numers and was approved by the Töysä municipal council on December 23, 1958. It was officially sanctioned by the Ministry of the Interior on February 18, 1959."
         },
         {
           "municipality": "Vimpeli",
           "areaCode": "KU934",
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Vimpeli.png",
           "alt": "Vimpeli municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The ski motif in the coat of arms represents the parish's tradition of ski masters, with the skis arranged to form the initial letter of the town's name. The flame symbolizes the ancient practice of slash-and-burn farming in the wilderness. The blazon reads: 'In a blue field, two silver skis crossed back-to-back like a knee brace, with a golden flame between them.' The coat of arms was designed by Olof Eriksson and approved by the Vimpeli municipal council on June 30, 1960. It was officially granted by the Ministry of the Interior on November 22 of the same year."
         }
       ],
       "consolidated": [
@@ -490,6 +490,7 @@
     {
       "name": "Etelä-Savo",
       "regionCode": "MK10",
+      "regionDescription": "The heraldic blazon reads: 'In a black field, a handbow set in tension, all in gold, except for the bowstring, arrowhead, and fletched tail, which are silver.' The design is a variation of the Savonia region's historical coat of arms, used in its crownless form by North Savonia. Early versions of Savonia's coat of arms showed the bow in the same orientation as South Savonia's, which is considered a heraldic exception. The Savonian bow appears in the coats of arms of Mikkeli and Savonlinna and in the traditional Savonian host banner.",
       "img": "Etelä-Savo",
       "src": "/coat-of-arms/img/Etelä-Savo/Etelä-Savo.png",
       "alt": "Etelä-Savo region coat of arms",
@@ -501,70 +502,70 @@
           "areaCode": "KU046",
           "url": "/coat-of-arms/img/Etelä-Savo/Enonkoski.png",
           "alt": "Enonkoski municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "In 1858, churchgoers from Enonkoski were traveling to Kerimäki by boat for a service. On their way back, the boat capsized in strong winds, tragically drowning eight villagers. As a result, Enonkoski became its own parish, and the first church was built the following year. To honor this tragedy, the coat of arms includes silver oars, representing the boating accident. The four clovers on the shield symbolize agriculture, reflecting the area's farming roots. The coat of arms, designed by Olof Eriksson based on an earlier version, was officially adopted on November 23, 1954. The blazon reads: 'In a black field, two silver oars crossed in saltire, with four golden clovers as supporters.'"
         },
         {
           "municipality": "Hirvensalmi",
           "areaCode": "KU097",
           "url": "/coat-of-arms/img/Etelä-Savo/Hirvensalmi.png",
           "alt": "Hirvensalmi municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Hirvensalmi represents the municipality and is a canting coat of arms, derived from the name 'Hirvensalmi' (meaning 'moose strait'). The blazon reads: 'In a gold field, a black walking moose with red hooves.' The coat of arms was designed by Gustaf von Numers and was approved by the Hirvensalmi municipal council on December 22, 1952. It was officially confirmed by the Ministry of the Interior on April 20, 1953."
         },
         {
           "municipality": "Juva",
           "areaCode": "KU178",
           "url": "/coat-of-arms/img/Etelä-Savo/Juva.png",
           "alt": "Juva municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The cross symbolizes the now-destroyed medieval St. Cross Church, which once stood in the parish. The cloverleaf represents agriculture. The decorative patterns used in the coat of arms are examples of damask work, which was used to fill the empty spaces in the shield, but they are not part of the official heraldic description. The blazon reads: 'In a black field, a cross, with a cloverleaf in the upper right corner, all in gold.' The coat of arms was designed by Tapio Vallioja and was approved by the Juva municipal council on June 19, 1952. The Ministry of the Interior officially confirmed it on August 23 of the same year."
         },
         {
           "municipality": "Kangasniemi",
           "areaCode": "KU213",
           "url": "/coat-of-arms/img/Etelä-Savo/Kangasniemi.png",
           "alt": "Kangasniemi municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms symbolizes the women of the parish, renowned for their expertise in weaving patterned fabrics. It also reflects the municipality’s name, as 'kangas' is a homonym meaning 'fabric' or 'cloth.' The blazon reads: 'In a black field, a golden spinning wheel with a silver thread.' Designed by Olof Eriksson, the coat of arms was approved by the Kangasniemi municipal council on January 29, 1953, and officially confirmed by the Ministry of the Interior on June 12 of the same year."
         },
         {
           "municipality": "Mäntyharju",
           "areaCode": "KU507",
           "url": "/coat-of-arms/img/Etelä-Savo/Mäntyharju.png",
           "alt": "Mäntyharju municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Mäntyharju is a canting coat of arms directly referring to the name of the municipality, which can be translated to English as 'Pine Ridge.' The coat of arms was designed by Ahti Hammar and was officially adopted on April 20, 1953. The blazon reads: 'In a black field, two pine trees growing from golden base arcs; all in gold.'"
         },
         {
           "municipality": "Mikkeli",
           "areaCode": "KU491",
           "url": "/coat-of-arms/img/Etelä-Savo/Mikkeli.png",
           "alt": "Mikkeli municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Mikkeli, featuring the Savonian bow and marshal's batons, is the city's official emblem. It also includes the Cross of Liberty and is topped with a Swedish-style count's crown. Designed by Gunnar Clément and redrawn by Eero Jokilehto, the design was confirmed in 1943. Created to honor Mikkeli's role as the Finnish Army’s General Headquarters during the Winter War, Continuation War, and Lapland War, the coat of arms was initially used without the honor decoration. In December 1944, Mikkeli was awarded the 4th Class Cross of Liberty with swords for its military service, and the city's coat of arms became the emblem of the honor decoration."
         },
         {
           "municipality": "Pertunmaa",
           "areaCode": "KU588",
           "url": "/coat-of-arms/img/Etelä-Savo/Pertunmaa.png",
           "alt": "Pertunmaa municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Pertunmaa is the official emblem of the municipality, and its design is inspired by ancient slash-and-burn farming. The blazon reads: 'In a red field, a golden flame with a black ear of grain.' The coat of arms was designed by Tapio Vallioja, and it was approved by the Pertunmaa municipal council on April 14, 1965. The Ministry of the Interior officially confirmed it on July 1 of the same year."
         },
         {
           "municipality": "Pieksämäki",
           "areaCode": "KU593",
           "url": "/coat-of-arms/img/Etelä-Savo/Pieksämäki.png",
           "alt": "Pieksämäki municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms symbolizes ancient hunting expeditions in the wilderness. The blazon reads: 'In a black field, three golden axes with silver feathers, pointed downward.' Designed by Ahti Hammar, it was first approved as the coat of arms for Pieksämäki Rural Municipality on April 18, 1951, and officially confirmed by the Ministry of the Interior on September 11, 1951. After the 2004 merger of Jäppilä, Virtasalmi, and Pieksämäki Rural Municipality, it became the emblem of Pieksänmaa, and later the coat of arms for Pieksämäki after the 2007 merger with the city. Pieksämäki's earlier coat of arms, also by Hammar, featured 'a golden saltire and a clover cross in a black field' and was approved by the town council on September 20, 1951. The old coat of arms symbolized the area's key role as a railway junction and its spiritual heritage."
         },
         {
           "municipality": "Puumala",
           "areaCode": "KU623",
           "url": "/coat-of-arms/img/Etelä-Savo/Puumala.png",
           "alt": "Puumala municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms refers to the history of the locality: following the Treaty of Turku in 1743, Puumala became a border parish, and due to its strategic location, the narrow Puumalansalmi has been the site of several battles dating back to the 1500s. The blazon reads: 'In a black shield, three silver wolf’s teeth rising from the base of the shield, with black, flame-like grenades.' The coat of arms was designed by Tapio Vallioja, and it was approved by the Puumala municipal council on September 24, 1962. The Ministry of the Interior officially confirmed it on April 18, 1963."
         },
         {
           "municipality": "Rantasalmi",
           "areaCode": "KU681",
           "url": "/coat-of-arms/img/Etelä-Savo/Rantasalmi.png",
           "alt": "Rantasalmi municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Rantasalmi is the emblem of the municipality, inspired by its name, making it a canting coat of arms. The name 'Rantasalmi' can be translated to 'Shore Strait' in English, and the wavy bar symbolizes the strait between two shores. The blazon reads: 'In a gold field, a black wavy bar.' The coat of arms was designed by Ahti Hammar and was approved by the Rantasalmi municipal council on June 16, 1958. The Ministry of the Interior officially confirmed it on October 1 of the same year."
         },
         {
           "municipality": "Savonlinna",
