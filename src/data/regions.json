@@ -666,6 +666,7 @@
     {
       "name": "Kainuu",
       "regionCode": "MK18",
+      "regionDescription": "The coat of arms of Kainuu is described heraldically as: 'In a gold field, a green fess embattled at the top and wavy at the bottom.' Designed by heraldist Olof Eriksson in 1978 for the Kainuu Regional Council, it was officially adopted as the regional coat of arms during the 1997 provincial reform. The design reflects Kainuu's natural features: the embattled line symbolizes the region's extensive forests, while the wavy line represents its waterways, both of which have played a significant role in Kainuu's history.",
       "img": "Kainuu",
       "src": "/coat-of-arms/img/Kainuu/Kainuu.png",
       "alt": "Kainuu region coat of arms",
@@ -677,7 +678,7 @@
           "areaCode": "KU105",
           "url": "/coat-of-arms/img/Kainuu/Hyrynsalmi.png",
           "alt": "Hyrynsalmi municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms highlights the historical significance of tar production, once a vital livelihood in the parish's extensive forests. The wavy pale represents the latter part of the municipality's name, salmi (meaning 'strait'). The blazon states: 'In a silver field, a blue wavy pale charged with a golden tar barrel.' Designed by Aarno Liuksiala, the coat of arms was approved by the Hyrynsalmi municipal council on May 24, 1967, and March 27, 1968, before being officially confirmed by the Ministry of the Interior on June 8, 1968."
         },
         {
           "municipality": "Kajaani",
