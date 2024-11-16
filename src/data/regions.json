@@ -685,49 +685,49 @@
           "areaCode": "KU205",
           "url": "/coat-of-arms/img/Kainuu/Kajaani.png",
           "alt": "Kajaani municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Kajaani, the city's official emblem, is a modernized version of an earlier design rooted in 17th- and 18th-century seals. Its imagery reflects the city's historical origins, centered around Kajaani Castle, a border fortress established in the early 1600s on an island in the Ämmänkoski rapids. The blazon reads: 'In a blue field, a golden two-towered castle with red window and door openings, rising from a silver wavy base.'"
         },
         {
           "municipality": "Kuhmo",
           "areaCode": "KU290",
           "url": "/coat-of-arms/img/Kainuu/Kuhmo.png",
           "alt": "Kuhmo municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Kuhmo, the official emblem of the city, symbolizes the wilderness nature of the region. The blazon reads: 'In a black field, three golden spruce trees arranged 2 + 1.' The coat of arms was designed by Olof Eriksson and was approved by the Kuhmo municipal council on December 21, 1951. The Ministry of the Interior officially confirmed it on March 1, 1952."
         },
         {
           "municipality": "Paltamo",
           "areaCode": "KU578",
           "url": "/coat-of-arms/img/Kainuu/Paltamo.png",
           "alt": "Paltamo municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms is inspired by tar production and trade, which were vital to the region, especially in the 19th century, although tar had been produced in Paltamo as early as the 17th century. The blazon reads: 'In a gold field, three black tar boats with barrels arranged horizontally one above the other.' The coat of arms was designed by Gustaf von Numers and was approved by the Paltamo municipal council on March 20, 1953. The Ministry of the Interior officially confirmed it on September 19 of the same year."
         },
         {
           "municipality": "Puolanka",
           "areaCode": "KU620",
           "url": "/coat-of-arms/img/Kainuu/Puolanka.png",
           "alt": "Puolanka municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Puolanka features a spruce crown symbolizing forestry and cowbells representing cattle herding and the traditional practice of forest grazing. The blazon reads: 'In a black field, three golden cowbells arranged 2:1, beneath a golden chief embattled to resemble spruce treetops.' Designed by Aake Kaarnama, the coat of arms was approved by the Puolanka municipal council on June 8, 1962, and officially confirmed by the Ministry of the Interior on August 29 of the same year."
         },
         {
           "municipality": "Ristijärvi",
           "areaCode": "KU697",
           "url": "/coat-of-arms/img/Kainuu/Ristijärvi.png",
           "alt": "Ristijärvi municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The blazon reads: 'In a blue field, a wavy silver base, above which is a silver coniferous cross.' The coat of arms was designed by Aarno Liuksiala, and was approved by the Ristijärvi municipal council on March 23 and May 25, 1959. The Ministry of the Interior officially confirmed it on November 23 of the same year."
         },
         {
           "municipality": "Sotkamo",
           "areaCode": "KU765",
           "url": "/coat-of-arms/img/Kainuu/Sotkamo.png",
           "alt": "Sotkamo municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms represents Vuokatti, a place in the center of the parish surrounded by waterways. The blazon reads: 'In a silver field, a blue log with an arched top.' Designed by Toivo Vuorela, the coat of arms was approved by the Sotkamo municipal council on January 2, 1962, and officially confirmed by the Ministry of the Interior on June 9 of the same year."
         },
         {
           "municipality": "Suomussalmi",
           "areaCode": "KU777",
           "url": "/coat-of-arms/img/Kainuu/Suomussalmi.png",
           "alt": "Suomussalmi municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The flagpoles on the coat of arms represent the traditional torch fires (pärevalkeat) once used in the area. Their number reflects the four ancestral farms mentioned in 1604, which were located near the eastern border, first defined in the Treaty of Täyssinä. The blazon reads: 'In a black field, four silver flagpoles arranged 1+2+1, with a golden flame rising from each.' The coat of arms was designed by Gustaf von Numers and approved by the Suomussalmi municipal council on July 11, 1966. The Ministry of the Interior officially confirmed it on September 21 of the same year."
         }
       ],
       "consolidated": [
@@ -754,6 +754,7 @@
     {
       "name": "Kanta-Häme",
       "regionCode": "MK05",
+      "regionDescription": "The coat of arms of Häme features a golden lynx, symbolizing the area's abundant lynx population and the historical importance of hunting. The stars and roses were added to fill empty spaces, following heraldic tradition. The design was confirmed by the Ministry of the Interior in 1963, based on a model by heraldist Ahti Hammar. Häme’s first known symbol dates back to 1326, and the province's official arms were granted in 1560 by King Gustav Vasa. The lynx appears in the arms of several municipalities and regional emblems.",
       "img": "Kanta-Häme",
       "src": "/coat-of-arms/img/Kanta-Häme/Kanta-Häme.png",
       "alt": "Kanta-Häme region coat of arms",
@@ -765,77 +766,77 @@
           "areaCode": "KU061",
           "url": "/coat-of-arms/img/Kanta-Häme/Forssa.png",
           "alt": "Forssa municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms is based on an emblem established by a presidential decree in 1947, before the municipal law was enacted. It features a waterwheel, symbolizing the old mills by the rapids, around which the area's industrial development began. The blazon reads: 'In a blue field, a silver waterwheel.' Designed by Olof Eriksson, the coat of arms was approved by the Forssa Town Council on June 18, 1962, and officially confirmed by the Ministry of the Interior on August 29, 1962."
         },
         {
           "municipality": "Hämeenlinna",
           "areaCode": "KU109",
           "url": "/coat-of-arms/img/Kanta-Häme/Hämeenlinna.png",
           "alt": "Hämeenlinna municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms, based on a 17th-century city seal, represents Hämeen Castle near which the city was founded in 1639. It features a silver wall with two towers and a building between them, symbolizing the castle. Above the castle are golden sun faces. The design, created by Gustaf von Numers in 1956, replaced an earlier version. The main change was the color scheme: the castle was originally red, but in the new design, the colors were reversed, with the silver castle on a red shield, and the wavy bottom representing Lake Vanajavesi."
         },
         {
           "municipality": "Hattula",
           "areaCode": "KU082",
           "url": "/coat-of-arms/img/Kanta-Häme/Hattula.png",
           "alt": "Hattula municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Hattula features the medieval Church of the Holy Cross and the Mierola Bridge, built in 1919, located about one and a half kilometers from the church. The design was created by Erkki Karttunen and was confirmed on March 12, 1957. The blazon reads: 'In a red field, a single-arched bridge extending to the edges, with a Greek cross above it; both in gold.'"
         },
         {
           "municipality": "Hausjärvi",
           "areaCode": "KU086",
           "url": "/coat-of-arms/img/Kanta-Häme/Hausjärvi.png",
           "alt": "Hausjärvi municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "he diagonal cross on the coat of arms represents the municipality's historical location at the crossroads of major roads, while the star refers to Finland's first national school, Eskon School, founded in 1856 by General Johan Reinhold Munck. The star is derived from his family's coat of arms. The blazon reads: 'In a red field, a diagonal cross with a star at the point of intersection, all in silver.' The coat of arms was designed by Olof Eriksson and was approved by the Hausjärvi municipal council on December 9, 1952. The Ministry of the Interior officially confirmed it on April 20, 1953."
         },
         {
           "municipality": "Humppila",
           "areaCode": "KU103",
           "url": "/coat-of-arms/img/Kanta-Häme/Humppila.png",
           "alt": "Humppila municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms represents the historical manor houses and their cottagers. The blazon reads: 'In a gold field, a black food bell hanging from a canopy.' The original design was created by Risto Sulonen, with Olof Eriksson later refining it into the final version. The Humppila municipal council approved the coat of arms on June 1, 1957, and the Ministry of the Interior officially confirmed it on September 25 of the same year."
         },
         {
           "municipality": "Janakkala",
           "areaCode": "KU165",
           "url": "/coat-of-arms/img/Kanta-Häme/Janakkala.png",
           "alt": "Janakkala municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms of Janakkala is inspired by the municipality's location. The lynx, the regional animal of Kanta-Häme, represents Janakkala's position in the heart of Häme. The embattled base refers to the Hakoisten hillfort, while the cross surrounded by two arrows above it symbolizes the battles of the Crusades. The coat of arms was designed by Onni Oja and was officially confirmed on February 23, 1952. The blazon reads: 'In a red field, a golden lynx's head facing forward, with a blue tongue and black ear tufts; above, an embattled golden crown with a Mantova cross, with arrows pointing towards it on either side; all in black.'"
         },
         {
           "municipality": "Jokioinen",
           "areaCode": "KU169",
           "url": "/coat-of-arms/img/Kanta-Häme/Jokioinen.png",
           "alt": "Jokioinen municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The ear of grain in the coat of arms symbolizes the role of the Jokioinen estate in the development of Finnish agriculture, while the anvil represents the Jokioinen ironworks. The blazon reads: 'In a red field, a wavy log with two crossed ears of wheat above and an anvil below; all in gold.' The coat of arms was designed by Gustaf von Numers and was approved by the Jokioinen municipal council on July 30, 1951. The Ministry of the Interior officially confirmed it on September 21 of the same year."
         },
         {
           "municipality": "Loppi",
           "areaCode": "KU433",
           "url": "/coat-of-arms/img/Kanta-Häme/Loppi.png",
           "alt": "Loppi municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms, featuring a symbol of iron embedded in a wavy-edged shield, refers to the historical extraction of lake ore. The blazon reads: 'A shield, wavy-cut in red and silver, with an alternating-colored iron mark.' The coat of arms was designed by Olof Eriksson and was approved by the Loppi municipal council on June 27 and September 17, 1952. The Ministry of the Interior officially confirmed it on September 23 of the same year."
         },
         {
           "municipality": "Riihimäki",
           "areaCode": "KU694",
           "url": "/coat-of-arms/img/Kanta-Häme/Riihimäki.png",
           "alt": "Riihimäki municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The motif of the coat of arms, with the sheaf, indirectly refers to the municipality's name, while the flames symbolize industry, particularly the important glass factory at the time. The divided belt on the shield can be interpreted as a reference to the railway, which was essential for the development of the local community. The blazon reads: 'A shield divided by a golden belt, with seven upward-pointing red flames in the silver upper field and a golden sheaf in the red lower field.' The coat of arms was designed by Arttu Brummer, and the emblem for the town of Riihimäki was confirmed by President J. K. Paasikivi through a decree on August 15, 1947."
         },
         {
           "municipality": "Tammela",
           "areaCode": "KU834",
           "url": "/coat-of-arms/img/Kanta-Häme/Tammela.png",
           "alt": "Tammela municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The oak branches with leaves in the coat of arms are a direct reference to the town's name, making the emblem symbolic of the place. The coat of arms was designed by Gustaf von Numers and was officially confirmed on December 29, 1953. The blazon reads: 'In a red field, three oak leaves with stems converging into a forked cross, with an acorn sprouting from the junction of the stems on each side; all in silver.'"
         },
         {
           "municipality": "Ypäjä",
           "areaCode": "KU981",
           "url": "/coat-of-arms/img/Kanta-Häme/Ypäjä.png",
           "alt": "Ypäjä municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The coat of arms depicts the bell tower of the old Perttula chapel, demolished in 1901, with the ear of grain symbolizing local agriculture. Designed by Aukusti Tuhka and confirmed on June 27, 1949, the blazon reads: 'In a split shield, a silver bell tower in the left blue field, and a red ear of grain in the right silver field.' Ypäjä’s coat of arms was one of the first in Finnish-speaking rural municipalities, inspired by professor Esko Aaltonen in the late 1940s. Tuhka also designed unofficial emblems for several other municipalities, but only Ypäjä’s was officially confirmed."
         }
       ],
       "consolidated": [
@@ -904,6 +905,7 @@
     {
       "name": "Keski-Pohjanmaa",
       "regionCode": "MK16",
+      "regionDescription": "",
       "img": "Keski-Pohjanmaa",
       "src": "/coat-of-arms/img/Keski-Pohjanmaa/Keski-Pohjanmaa.png",
       "alt": "Keski-Pohjanmaa region coat of arms",
@@ -1003,6 +1005,7 @@
     {
       "name": "Keski-Suomi",
       "regionCode": "MK13",
+      "regionDescription": "",
       "img": "Keski-Suomi",
       "src": "/coat-of-arms/img/Keski-Suomi/Keski-Suomi.png",
       "alt": "Keski-Suomi region coat of arms",
@@ -1278,6 +1281,7 @@
     {
       "name": "Kymenlaakso",
       "regionCode": "MK08",
+      "regionDescription": "",
       "img": "Kymenlaakso",
       "src": "/coat-of-arms/img/Kymenlaakso/Kymenlaakso.png",
       "alt": "Kymenlaakso region coat of arms",
@@ -1403,6 +1407,7 @@
     {
       "name": "Lappi",
       "regionCode": "MK19",
+      "regionDescription": "",
       "img": "Lappi",
       "src": "/coat-of-arms/img/Lappi/Lappi.png",
       "alt": "Lappi region coat of arms",
@@ -1599,6 +1604,7 @@
     {
       "name": "Päijät-Häme",
       "regionCode": "MK07",
+      "regionDescription": "",
       "img": "Päijät-Häme",
       "src": "/coat-of-arms/img/Päijät-Häme/Päijät-Häme.png",
       "alt": "Päijät-Häme region coat of arms",
@@ -1706,6 +1712,7 @@
     {
       "name": "Pirkanmaa",
       "regionCode": "MK06",
+      "regionDescription": "",
       "img": "Pirkanmaa",
       "src": "/coat-of-arms/img/Pirkanmaa/Pirkanmaa.png",
       "alt": "Pirkanmaa region coat of arms",
@@ -2078,6 +2085,7 @@
     {
       "name": "Pohjanmaa",
       "regionCode": "MK15",
+      "regionDescription": "",
       "img": "Pohjanmaa",
       "src": "/coat-of-arms/img/Pohjanmaa/Pohjanmaa.png",
       "alt": "Pohjanmaa region coat of arms",
@@ -2363,6 +2371,7 @@
     {
       "name": "Pohjois-Karjala",
       "regionCode": "MK12",
+      "regionDescription": "",
       "img": "Pohjois-Karjala",
       "src": "/coat-of-arms/img/Pohjois-Karjala/Pohjois-Karjala.png",
       "alt": "Pohjois-Karjala region coat of arms",
@@ -2545,6 +2554,7 @@
     {
       "name": "Pohjois-Pohjanmaa",
       "regionCode": "MK17",
+      "regionDescription": "",
       "img": "Pohjois-Pohjanmaa",
       "src": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pohjois-Pohjanmaa.png",
       "alt": "Pohjois-Pohjanmaa region coat of arms",
@@ -2918,6 +2928,7 @@
     {
       "name": "Pohjois-Savo",
       "regionCode": "MK11",
+      "regionDescription": "",
       "img": "Pohjois-Savo",
       "src": "/coat-of-arms/img/Pohjois-Savo/Pohjois-Savo.png",
       "alt": "Pohjois-Savo region coat of arms",
@@ -3130,6 +3141,7 @@
     {
       "name": "Satakunta",
       "regionCode": "MK04",
+      "regionDescription": "",
       "img": "Satakunta",
       "src": "/coat-of-arms/img/Satakunta/Satakunta.png",
       "alt": "Satakunta region coat of arms",
@@ -3351,6 +3363,7 @@
     {
       "name": "Uusimaa",
       "regionCode": "MK01",
+      "regionDescription": "",
       "img": "Uusimaa",
       "src": "/coat-of-arms/img/Uusimaa/Uusimaa.png",
       "alt": "Uusimaa region coat of arms",
@@ -3665,6 +3678,7 @@
     {
       "name": "Varsinais-Suomi",
       "regionCode": "MK02",
+      "regionDescription": "",
       "img": "Varsinais-Suomi",
       "src": "/coat-of-arms/img/Varsinais-Suomi/Varsinais-Suomi.png",
       "alt": "Varsinais-Suomi region coat of arms",
