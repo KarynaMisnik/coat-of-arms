@@ -1281,7 +1281,7 @@
     {
       "name": "Kymenlaakso",
       "regionCode": "MK08",
-      "regionDescription": "",
+      "regionDescription": "The coat of arms of Kymenlaakso represents the region and features a rising silver salmon with gold fins and tail on a divided shield. The lower section of the shield depicts a blue net. Designed by herald Gustaf von Numers in 1951 for the Kymenlaakso Regional Council, the design references the Kymijoki River, a historic and vital salmon river. The colors of blue and silver were chosen to highlight the region’s natural heritage and its connection to the coastal municipalities historically considered part of Uusimaa. The coat of arms was adopted in 1997 after the regional administrative reform and had previously been part of the Kymen Province's heraldry from 1962 to 1997.",
       "img": "Kymenlaakso",
       "src": "/coat-of-arms/img/Kymenlaakso/Kymenlaakso.png",
       "alt": "Kymenlaakso region coat of arms",
@@ -1293,42 +1293,42 @@
           "areaCode": "KU075",
           "url": "/coat-of-arms/img/Kymenlaakso/Hamina.png",
           "alt": "Hamina municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The original coat of arms was based on a seal granted to the town of Vehkalahti in 1660. The royal crown represents King Frederick I of Sweden. After the town of Vehkalahti was destroyed during the Great Northern War, Hamina was established as a royal town (Fredrikshamn) in its place, under the king's name. Hamina’s coat of arms is the only municipal coat of arms in Finland that incorporates purple. The blazon reads: ‘In a blue field, a silver, wavy timber log with a golden boat floating on it, above which is a golden royal crown with purple lining.’ The coat of arms of Hamina was designed by Gustaf von Numers, drawing inspiration from the city's original arms."
         },
         {
           "municipality": "Kotka",
           "areaCode": "KU285",
           "url": "/coat-of-arms/img/Kymenlaakso/Kotka.png",
           "alt": "Kotka municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The city of Kotka was founded in 1879, and its first coat of arms was confirmed in 1881. However, in 1954, the city council had to redesign the old coat of arms because it no longer met heraldic standards. Blazon: ‘In a blue field, a golden natural eagle with wings raised, standing on a crossed anchor and caduceus, both in silver.’ The new coat of arms was designed by Olof Eriksson in 1957, and he retained the city's main emblem, the eagle, which references the city's name. In the current coat of arms, the anchor symbolizes Kotka’s significance as a port city, and the caduceus (Mercury's staff) represents trade, industry, and transportation."
         },
         {
           "municipality": "Kouvola",
           "areaCode": "KU286",
           "url": "/coat-of-arms/img/Kymenlaakso/Kouvola.png",
           "alt": "Kouvola municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The blazon reads: ‘On a black shield, a silver wavy base and a golden, lily-tipped, six-part rosette.’ The six segments of the rosette symbolize the union of the six municipalities(Anjalankoski, Elimäki, Jaalan, Kuusankoski, Valkeala and Kotka), while the lilies at the ends of each part represent the yellow iris, the emblematic plant of the Kymenlaakso region. The colors black and silver are the traditional heraldic colors of the region. The wavy base represents the Kymi River that flows through the city. The coat of arms was designed by Tapani Talari and was officially adopted on January 1, 2009."
         },
         {
           "municipality": "Miehikkälä",
           "areaCode": "KU489",
           "url": "/coat-of-arms/img/Kymenlaakso/Miehikkälä.png",
           "alt": "Miehikkälä municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "Miehikkälä's coat of arms is the only one in the Kymenlaakso region to feature a letter-based design. The double-bent scythe forms the letter ‘M,’ symbolizing the municipality's name. The colors of the coat of arms are distinct from those of other Kymenlaakso coats of arms (which typically use silver, black, and blue) as well as from those of Virolahde and the former Kuusankoski. These colors are derived from the Coat of Arms of Karelia, highlighting Miehikkälä's historical connection to the province of Karelia. The heraldic description is: ‘In a red field, a silver double-bent scythe.’ It was designed by Tapio Vallioja in 1956."
         },
         {
           "municipality": "Pyhtää",
           "areaCode": "KU624",
           "url": "/coat-of-arms/img/Kymenlaakso/Pyhtää.png",
           "alt": "Pyhtää municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The design incorporates elements from the coat of arms of the Creutz family, who historically owned large estates and several manors in the region. The silver crosses represent Pyhtää's role as the parent parish of four surrounding districts, and may also reference its ecclesiastical heritage. The salmon symbolize fishing and maritime activities. Crossed salmon also appeared in the seals of the Kymin district, which included the Pyhtää area during the Russian period. Earlier Swedish-era seals depicted a single leaping salmon, which was later adopted in the coats of arms of both Kymenlaakso and the Kymin municipality. The heraldic description is: ‘In a black field, two silver salmon with red fins, arranged crosswise, each accompanied by a silver Greek cross in the corners.’ It was designed by herald Ahti Hammar in 1951. "
         },
         {
           "municipality": "Virolahti",
           "areaCode": "KU935",
           "url": "/coat-of-arms/img/Kymenlaakso/Virolahti.png",
           "alt": "Virolahti municipality coat of arms",
-          "municipalityDescription": ""
+          "municipalityDescription": "The elements of the coat of arms symbolize Virolahti's historic port, its fishing and maritime activities, trade, agriculture, and its status as home to one of the oldest parishes in the Kymenlaakso region. The color scheme, based on the Coat of Arms of Karelia, reflects the municipality's location within the historical province of Karelia. The Virolahti coat of arms closely resembles that of Paimio, a municipality in southwestern Finland. The blazon reads: ‘In a red field with a golden clover sowing, a silver anchor on a pole.’ It was designed by herald Olof Eriksson in 1951."
         }
       ],
       "consolidated": [
