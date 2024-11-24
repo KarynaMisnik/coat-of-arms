@@ -6,9 +6,15 @@ const SearchError = () => {
         minHeight: "100vh",
         display: "flex",
         flexDirection: "column",
+        justifyContent: "center",
         alignItems: "center",
+        backgroundColor: "var(--white)",
       }}
     >
+      <img
+        src="src/pages/Errors/errorPg-stoat-detective.png"
+        alt="Error image"
+      />
       <h1
         style={{
           textAlign: "center",

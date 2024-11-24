@@ -105,29 +105,29 @@ const Region = () => {
               key={consolidatedImg.oldMunicipality}
               id="oldMunicipalities-grid"
             >
-              <NavLink
+              {/* <NavLink
                 className="nav-link oldMunicipality-nav-lik"
                 to={`/municipality/${regionName}/${consolidatedImg.oldMunicipality}`}
                 style={{
                   display: "flex",
                   justifyContent: "center",
                 }}
-              >
-                <Paper elevation={3} style={{ padding: "1rem", flex: 1 }}>
-                  {/* Give them class name, old munis should have small font, look at those which have mlk.  */}
-                  <h3 style={{ textAlign: "center", fontSize: "var(--h3)" }}>
-                    {consolidatedImg.oldName}
-                  </h3>
-                  <img
-                    className="oldMunicipalities-img"
-                    src={consolidatedImg.url}
-                    alt={consolidatedImg.alt}
-                  />
-                  <h4 className="previousMunicipalities-name" s>
-                    {consolidatedImg.oldMunicipality}
-                  </h4>
-                </Paper>
-              </NavLink>
+              > */}
+              <Paper elevation={3} style={{ padding: "1rem", flex: 1 }}>
+                {/* Give them class name, old munis should have small font, look at those which have mlk.  */}
+                <h3 style={{ textAlign: "center", fontSize: "var(--h3)" }}>
+                  {consolidatedImg.oldName}
+                </h3>
+                <img
+                  className="oldMunicipalities-img"
+                  src={consolidatedImg.url}
+                  alt={consolidatedImg.alt}
+                />
+                <h4 className="previousMunicipalities-name" s>
+                  {consolidatedImg.oldMunicipality}
+                </h4>
+              </Paper>
+              {/*</NavLink>*/}
             </Grid>
           ))}
         </Grid>
