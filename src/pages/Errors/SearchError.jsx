@@ -8,23 +8,39 @@ const SearchError = () => {
         flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
-        backgroundColor: "var(--white)",
       }}
     >
       <img
-        src="src/pages/Errors/errorPg-stoat-detective.png"
+        src="src/pages/Errors/stoat-artist-errorPage.png"
         alt="Error image"
       />
-      <h1
+      <div
         style={{
-          textAlign: "center",
-          padding: "1rem",
-          fontSize: "var(--h1)",
-          color: "white",
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center",
         }}
       >
-        ERRORs
-      </h1>
+        <p
+          style={{
+            textAlign: "center",
+
+            fontSize: "var(--h1)",
+            color: "white",
+          }}
+        >
+          No blazon, no crest — just an empty field.
+        </p>
+        <p>
+          <span className="error-pg-redirectHome">
+            <a href="/coat-of-arms/#/home" style={{ textDecoration: "none" }}>
+              Head back
+            </a>
+          </span>
+          and try another coat of arms.
+        </p>
+      </div>
     </div>
   );
 };

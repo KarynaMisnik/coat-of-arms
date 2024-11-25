@@ -293,3 +293,15 @@ body,
 }
 
 /* POPULATION COMPONENT ENDS*/
+
+/* ERROR PAGE */
+.error-pg-redirectHome {
+  padding: 0 0.5rem;
+  background-color: var(--white);
+}
+
+.error-pg-redirectHome a {
+  color: var(--blue);
+  text-align: center;
+}
+/* ERROR PAGE ENDS*/
