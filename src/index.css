@@ -286,6 +286,19 @@ body,
 .weather-info {
 }
 
+.municipality-img-description-wrapper {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.municipality-img-content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 /* POPULATION COMPONENT */
 
 .population-value-statFi {

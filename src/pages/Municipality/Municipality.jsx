@@ -63,11 +63,36 @@ const Municipality = () => {
         </p>
 
         {/* <p className="weather-info">Weather Info: -3</p> */}
-
-        <p className="municipality-description">
-          {municipalityData.municipalityDescription}
-        </p>
       </Paper>
+      <div className="municipality-img-description-wrapper">
+        <Paper className="paper-municipality-page-fullImg" elevation={3}>
+          <div className="municipality-img-content-container">
+            <p className="municipality-description">
+              {municipalityData.blazon}
+            </p>
+            <img
+              className="municipality-full-img"
+              src={municipalityData.url}
+              alt={municipalityData.municipality}
+            />
+            <p className="municipality-description">
+              {municipalityData.designer}
+            </p>
+          </div>
+        </Paper>
+
+        <Paper
+          className="paper-municipality-page-description"
+          sx={{ flex: 1 }}
+          elevation={3}
+        >
+          <div>
+            <p className="municipality-description">
+              {municipalityData.municipalityDescription}
+            </p>
+          </div>
+        </Paper>
+      </div>
     </div>
   );
 };
