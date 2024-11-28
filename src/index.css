@@ -250,6 +250,17 @@ body,
   filter: grayscale(0%);
 }
 
+/* switch off filter for mobile devices */
+@media (max-width: 768px) {
+  .oldMunicipalities-img {
+    filter: none;
+  }
+
+  .oldMunicipalities-img:hover {
+    filter: none;
+  }
+}
+
 .previousMunicipalities-name {
   text-align: center;
 }
