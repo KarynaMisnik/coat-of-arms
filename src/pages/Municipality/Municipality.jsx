@@ -65,15 +65,22 @@ const Municipality = () => {
         {/* <p className="weather-info">Weather Info: -3</p> */}
       </Paper>
       <div className="municipality-img-description-wrapper">
-        <Paper className="paper-municipality-page-fullImg" elevation={3}>
+        <Paper
+          className="paper-municipality-page-fullImg"
+          elevation={3}
+          sx={{ flex: "1" }}
+        >
           <div className="municipality-img-content-container">
             <p className="municipality-description">
+              {" "}
+              The plazon reads:
               {municipalityData.blazon}
             </p>
             <img
               className="municipality-full-img"
               src={municipalityData.url}
               alt={municipalityData.municipality}
+              loading="lazy"
             />
             <p className="municipality-description">
               {municipalityData.designer}
@@ -83,8 +90,8 @@ const Municipality = () => {
 
         <Paper
           className="paper-municipality-page-description"
-          sx={{ flex: 1 }}
           elevation={3}
+          sx={{ flex: "1" }}
         >
           <div>
             <p className="municipality-description">

@@ -26,6 +26,11 @@ body,
   height: 100%;
   margin: 0;
   padding: 0;
+  font-family: var(--main-text);
+}
+
+a {
+  text-decoration: none;
 }
 
 @media (min-width: 300px) {
@@ -303,6 +308,19 @@ body,
   margin-bottom: 1rem;
 }
 
+@media (max-width: 768px) {
+  .municipality-img-description-wrapper {
+    flex-direction: column;
+  }
+}
+
+.municipality-full-img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  object-fit: cover;
+}
+
 .municipality-img-content-container {
   display: flex;
   flex-direction: column;
@@ -319,13 +337,42 @@ body,
 /* POPULATION COMPONENT ENDS*/
 
 /* ERROR PAGE */
-.error-pg-redirectHome {
-  padding: 0 0.5rem;
-  background-color: var(--white);
+#searchError-page-wrpper {
+  padding: 0.5rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.error-pg-redirectHome a {
-  color: var(--blue);
-  text-align: center;
+.searchError-img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
 }
+
+.searchError-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchError-error-text {
+  text-align: center;
+  font-size: var(--h1);
+  color: white;
+}
+
+.searchError-redirectHome {
+  padding: 0 0.5rem;
+  background-color: var(--white);
+  margin: 0 1rem;
+}
+
+.searchError-redirectHome-link {
+  color: var(--blue);
+}
+
 /* ERROR PAGE ENDS*/

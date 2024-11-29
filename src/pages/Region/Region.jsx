@@ -82,6 +82,7 @@ const Region = () => {
                   className="imgMunicipality"
                   src={image.url}
                   alt={image.alt}
+                  loading="lazy"
                 />
                 <h3 className="municipality-name">{image.municipality}</h3>
               </Paper>

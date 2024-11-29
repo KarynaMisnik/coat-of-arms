@@ -1,40 +1,22 @@
 const SearchError = () => {
   return (
-    <div
-      style={{
-        padding: ".5rem",
-        minHeight: "100vh",
-        display: "flex",
-        flexDirection: "column",
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-    >
+    <div id="searchError-page-wrpper">
       <img
+        className="searchError-img"
         src="src/pages/Errors/stoat-artist-errorPage.png"
         alt="Error image"
+        loading="lazy"
       />
-      <div
-        style={{
-          display: "flex",
-          flexDirection: "column",
-          justifyContent: "center",
-          alignItems: "center",
-        }}
-      >
-        <p
-          style={{
-            textAlign: "center",
-
-            fontSize: "var(--h1)",
-            color: "white",
-          }}
-        >
+      <div className="searchError-text-container">
+        <p className="searchError-error-text firstPart">
           No blazon, no crest — just an empty field.
         </p>
-        <p>
-          <span className="error-pg-redirectHome">
-            <a href="/coat-of-arms/#/home" style={{ textDecoration: "none" }}>
+        <p className="searchError-error-text secondPart">
+          <span className="searchError-redirectHome">
+            <a
+              className="searchError-redirectHome-link"
+              href="/coat-of-arms/#/home"
+            >
               Head back
             </a>
           </span>
