@@ -56,6 +56,7 @@ const Municipality = () => {
           />
           <h1>{municipalityData.municipality}</h1>
         </div>
+        <p>Region: {regionName}</p>
         <p className="population-info">
           Population:
           <Population areaCode={municipalityData.areaCode} />
@@ -72,7 +73,6 @@ const Municipality = () => {
         >
           <div className="municipality-img-content-container">
             <p className="municipality-description">
-              {" "}
               The plazon reads:
               {municipalityData.blazon}
             </p>
