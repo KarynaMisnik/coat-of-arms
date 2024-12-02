@@ -72,9 +72,8 @@ const Municipality = () => {
           sx={{ flex: "1" }}
         >
           <div className="municipality-img-content-container">
-            <p className="municipality-description">
-              The plazon reads:
-              {municipalityData.blazon}
+            <p className="municipality-description blazon">
+              The blazon reads: {municipalityData.blazon}
             </p>
             <img
               className="municipality-full-img"
@@ -82,8 +81,8 @@ const Municipality = () => {
               alt={municipalityData.municipality}
               loading="lazy"
             />
-            <p className="municipality-description">
-              {municipalityData.designer}
+            <p className="municipality-description designer">
+              Designed by: {municipalityData.designer}
             </p>
           </div>
         </Paper>
@@ -94,7 +93,7 @@ const Municipality = () => {
           sx={{ flex: "1" }}
         >
           <div>
-            <p className="municipality-description">
+            <p className="municipality-description details">
               {municipalityData.municipalityDescription}
             </p>
           </div>

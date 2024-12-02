@@ -315,17 +315,22 @@ a {
 }
 
 .municipality-full-img {
-  width: 100%;
-  height: auto;
   max-width: 100%;
-  object-fit: cover;
+  height: auto;
+  align-items: center;
+  margin: 2rem 0;
 }
 
 .municipality-img-content-container {
+  margin: 2rem 2rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.details {
+  margin: 2rem;
 }
 
 /* POPULATION COMPONENT */
