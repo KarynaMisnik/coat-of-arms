@@ -109,24 +109,24 @@ a {
 /* === ABOUT PAGE  === */
 
 .about-page-wrapper {
-  padding: 0.5rem;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+}
+
+.about-page-content-container {
+  margin: 2rem;
 }
 
 .about-page-heading {
   text-align: center;
   padding: 1rem;
   font-size: var(--h1);
-  color: var(--white);
+  color: var(--blue);
 }
 
 .about-page-text {
   padding: 1.5rem;
   font-size: 1.5rem;
-  color: var(--white);
+  color: var(--blue);
   text-align: justify;
 }
 
