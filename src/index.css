@@ -381,3 +381,18 @@ a {
 }
 
 /* ERROR PAGE ENDS*/
+
+/* FOOTER */
+.component-footer-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.component-footer-version-details {
+  font-size: var(--h4);
+  color: var(--gray);
+  margin: 2rem 0 1rem 0;
+}
+/* FOOTER ENDS */

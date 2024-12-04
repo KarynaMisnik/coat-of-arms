@@ -6,6 +6,7 @@ import Quiz from "./pages/Quiz/Quiz";
 import Region from "./pages/Region/Region";
 import SearchError from "./pages/Errors/SearchError";
 import Municipality from "./pages/Municipality/Municipality";
+import Footer from "./components/Footer";
 import "./data/municipalities.json";
 import "./index.css";
 const pages = ["Home", "About", "Quiz"];
@@ -26,6 +27,7 @@ function App() {
           element={<Municipality />}
         />
       </Routes>
+      <Footer pages={pages} />
     </div>
   );
 }
