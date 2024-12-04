@@ -96,6 +96,7 @@ const Municipality = () => {
             <p className="municipality-description details">
               {municipalityData.municipalityDescription}
             </p>
+            <div id="map"></div>
           </div>
         </Paper>
       </div>

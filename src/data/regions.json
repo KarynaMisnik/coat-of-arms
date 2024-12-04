@@ -15,6 +15,8 @@
         {
           "municipality": "Brändö",
           "areaCode": "KU035",
+          "lat": 60.5002876,
+          "lon": 20.6765691,
           "url": "/coat-of-arms/img/Ahvenanmaa/Brändö.png",
           "alt": "Brändö municipality coat of arms",
           "blazon": "In the red upper field of a wavy shield, a flying silver seagull, and in the silver lower field, a fish.",
@@ -24,6 +26,8 @@
         {
           "municipality": "Eckerö",
           "areaCode": "KU043",
+          "lat": 60.3174583,
+          "lon": 19.4177171,
           "url": "/coat-of-arms/img/Ahvenanmaa/Eckerö.png",
           "alt": "Eckerö municipality coat of arms",
           "blazon": "In a silver field, a red cargo boat with a red square sail.",
@@ -33,6 +37,8 @@
         {
           "municipality": "Finström",
           "areaCode": "KU060",
+          "lat": 60.3157216,
+          "lon": 19.8842619,
           "url": "/coat-of-arms/img/Ahvenanmaa/Finström.png",
           "alt": "Finström municipality coat of arms",
           "blazon": "In a red field, a golden oak above a wave-crowned silver bar.",
@@ -42,6 +48,8 @@
         {
           "municipality": "Föglö",
           "areaCode": "KU062",
+          "lat": 59.8085758,
+          "lon": 20.3561355,
           "url": "/coat-of-arms/img/Ahvenanmaa/Föglö.png",
           "alt": "Föglö municipality coat of arms",
           "blazon": "In a blue field, three golden ducks flying diagonally upward, arranged in a 2 + 1 pattern.",
@@ -51,6 +59,8 @@
         {
           "municipality": "Geta",
           "areaCode": "KU065",
+          "lat": 60.5084062,
+          "lon": 19.7337422,
           "url": "/coat-of-arms/img/Ahvenanmaa/Geta.png",
           "alt": "Geta municipality coat of arms",
           "blazon": "In a blue field, a golden goat rearing.",
@@ -60,6 +70,8 @@
         {
           "municipality": "Hammarland",
           "areaCode": "KU076",
+          "lat": 60.3111293,
+          "lon": 19.4662609,
           "url": "/coat-of-arms/img/Ahvenanmaa/Hammarland.png",
           "alt": "Hammarland municipality coat of arms",
           "blazon": "In a blue field, a golden Viking ship facing forward; below, in a golden base, a red triple-peaked mountain.",
@@ -69,6 +81,8 @@
         {
           "municipality": "Jomala",
           "areaCode": "KU170",
+          "lat": 60.0012172,
+          "lon": 19.7784952,
           "url": "/coat-of-arms/img/Ahvenanmaa/Jomala.png",
           "alt": "Jomala municipality coat of arms",
           "blazon": "In a blue field, Saint Olaf seated on a throne, holding an orb and a battle-axe, all in gold.",
@@ -78,6 +92,8 @@
         {
           "municipality": "Kökar",
           "areaCode": "KU318",
+          "lat": 59.7790584,
+          "lon": 20.8149908,
           "url": "/coat-of-arms/img/Ahvenanmaa/Kökar.png",
           "alt": "Kökar municipality coat of arms",
           "blazon": "In a blue field, a silver fish leaping, with red fins.",
@@ -87,6 +103,8 @@
         {
           "municipality": "Kumlinge",
           "areaCode": "KU295",
+          "lat": 60.4550588,
+          "lon": 20.5468995,
           "url": "/coat-of-arms/img/Ahvenanmaa/Kumlinge.png",
           "alt": "Kumlinge municipality coat of arms",
           "blazon": "In a red field, a golden eagle with wings spread, standing on a maritime cairn formed of silver stones.",
@@ -96,6 +114,8 @@
         {
           "municipality": "Lemland",
           "areaCode": "KU417",
+          "lat": 59.8691501,
+          "lon": 19.9582833,
           "url": "/coat-of-arms/img/Ahvenanmaa/Lemland.png",
           "alt": "Lemland municipality coat of arms",
           "blazon": "In a black field, a golden chapel with two red windows; on the roof ridge, two golden crosses with arms ending in red triangles.",
@@ -105,6 +125,8 @@
         {
           "municipality": "Lumparland",
           "areaCode": "KU438",
+          "lat": 60.1091502,
+          "lon": 20.2370045,
           "url": "/coat-of-arms/img/Ahvenanmaa/Lumparland.png",
           "alt": "Lumparland municipality coat of arms",
           "blazon": "A golden sheaf in a blue field, with a silver fish on each side, both having red fins.",
@@ -114,6 +136,8 @@
         {
           "municipality": "Maarianhamina",
           "areaCode": "KU478",
+          "lat": 60.0878291,
+          "lon": 19.9431962,
           "url": "/coat-of-arms/img/Ahvenanmaa/Maarianhamina.png",
           "alt": "Maarianhamina municipality coat of arms",
           "blazon": "A blue shield with a gold anchor standing upright, and above it, three green lime tree leaves.",
@@ -123,6 +147,8 @@
         {
           "municipality": "Saltvik",
           "areaCode": "KU736",
+          "lat": 60.495953,
+          "lon": 20.1809266,
           "url": "/coat-of-arms/img/Ahvenanmaa/Saltvik.png",
           "alt": "Saltvik municipality coat of arms",
           "blazon": "A shield split by a lower ridge into red and gold; in the red field, two gold lilies side by side.",
@@ -132,6 +158,8 @@
         {
           "municipality": "Sottunga",
           "areaCode": "KU766",
+          "lat": 60.0680218,
+          "lon": 20.7723712,
           "url": "/coat-of-arms/img/Ahvenanmaa/Sottunga.png",
           "alt": "Sottunga municipality coat of arms",
           "blazon": "In a blue field, a boat above two wavy lines; all in gold, except for a red, triple-tongued flag at the top of the mast.",
@@ -141,6 +169,8 @@
         {
           "municipality": "Sund",
           "areaCode": "KU771",
+          "lat": 60.2421396,
+          "lon": 20.1737312,
           "url": "/coat-of-arms/img/Ahvenanmaa/Sund.png",
           "alt": "Sund municipality coat of arms",
           "blazon": "In a red field, a golden crenelated wall with a tower, topped by a golden pennant.",
@@ -150,6 +180,8 @@
         {
           "municipality": "Vårdö",
           "areaCode": "KU941",
+          "lat": 60.283688,
+          "lon": 20.4278551,
           "url": "/coat-of-arms/img/Ahvenanmaa/Vårdö.png",
           "alt": "Vårdö municipality coat of arms",
           "blazon": "In a blue field, a silver cone with a gold-and-red flame.",
@@ -181,6 +213,8 @@
         {
           "municipality": "Imatra",
           "areaCode": "KU153",
+          "lat": 61.1819561,
+          "lon": 28.8458309,
           "url": "/coat-of-arms/img/Etelä-Karjala/Imatra.png",
           "alt": "Imatra municipality coat of arms",
           "blazon": "In a red field, three upright, double-ended arrow-shaped silver lightning bolts tipped in gold.",
@@ -190,6 +224,8 @@
         {
           "municipality": "Lappeenranta",
           "areaCode": "KU405",
+          "lat": 60.9756854,
+          "lon": 28.2438105,
           "url": "/coat-of-arms/img/Etelä-Karjala/Lappeenranta.png",
           "alt": "Lappeenranta municipality coat of arms",
           "blazon": "In a silver field, a wild man in natural colors with a club resting on the ground, standing on green soil and wearing green wreaths on his forehead and waist.",
@@ -199,6 +235,8 @@
         {
           "municipality": "Lemi",
           "areaCode": "KU416",
+          "lat": 61.0817083,
+          "lon": 27.7819694,
           "url": "/coat-of-arms/img/Etelä-Karjala/Lemi.png",
           "alt": "Lemi municipality coat of arms",
           "blazon": "A shield divided wavy in red and silver; in the red field, a silver potato flower with a golden pistil.",
@@ -208,6 +246,8 @@
         {
           "municipality": "Luumäki",
           "areaCode": "KU441",
+          "lat": 60.9509097,
+          "lon": 27.5271725,
           "url": "/coat-of-arms/img/Etelä-Karjala/Luumäki.png",
           "alt": "Luumäki municipality coat of arms",
           "blazon": "In a field of gold, a black pine tree with a boar's head featuring red details to the right of the trunk and a five-pointed fortification to the left, all in black.",
@@ -217,6 +257,8 @@
         {
           "municipality": "Parikkala",
           "areaCode": "KU580",
+          "lat": 61.6443684,
+          "lon": 29.6903449,
           "url": "/coat-of-arms/img/Etelä-Karjala/Parikkala.png",
           "alt": "Parikkala municipality coat of arms",
           "blazon": "On a silver shield, a black embattled border on the left side and three red stepped crosses arranged vertically.",
@@ -226,6 +268,8 @@
         {
           "municipality": "Rautjärvi",
           "areaCode": "KU689",
+          "lat": 61.3653215,
+          "lon": 29.2340353,
           "url": "/coat-of-arms/img/Etelä-Karjala/Rautijärvi.png",
           "alt": "Rautjärvi municipality coat of arms",
           "blazon": "In a blue field, a silver iron symbol with a silver chief topped with spruces.",
@@ -235,6 +279,8 @@
         {
           "municipality": "Ruokolahti",
           "areaCode": "KU700",
+          "lat": 61.3743229,
+          "lon": 28.7568976,
           "url": "/coat-of-arms/img/Etelä-Karjala/Ruokolahti.png",
           "alt": "Ruokolahti municipality coat of arms",
           "blazon": "In a blue field, a wavy silver base from which rise three common reeds, all in silver.",
@@ -244,6 +290,8 @@
         {
           "municipality": "Savitaipale",
           "areaCode": "KU739",
+          "lat": 61.1898826,
+          "lon": 27.5539239,
           "url": "/coat-of-arms/img/Etelä-Karjala/Savitaipale.png",
           "alt": "Savitaipale municipality coat of arms",
           "blazon": "On a black field, a gold hoof plow with an embattled gold chief above.",
@@ -253,6 +301,8 @@
         {
           "municipality": "Taipalsaari",
           "areaCode": "KU739",
+          "lat": 61.2206417,
+          "lon": 28.0783441,
           "url": "/coat-of-arms/img/Etelä-Karjala/Taipalsaari.png",
           "alt": "Taipalsaari municipality coat of arms",
           "blazon": "In a red field, above a wavy silver base, a silver tar steamer.",
@@ -332,6 +382,8 @@
         {
           "municipality": "Ähtäri",
           "areaCode": "KU989",
+          "lat": 62.5636858,
+          "lon": 24.209773,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Ähtäri.png",
           "alt": "Ähtäri municipality coat of arms",
           "blazon": "In a blue field, two crossed silver arrows with a third arrow placed vertically above; in each upper corner, a golden five-petaled flower.",
@@ -341,6 +393,8 @@
         {
           "municipality": "Alajärvi",
           "areaCode": "KU005",
+          "lat": 62.9442821,
+          "lon": 23.9076215,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Alajärvi.png",
           "alt": "Alajärvi municipality coat of arms",
           "blazon": "In a blue field, a silver wavy base.",
@@ -350,6 +404,8 @@
         {
           "municipality": "Evijärvi",
           "areaCode": "KU052",
+          "lat": 63.3808399,
+          "lon": 23.4624927,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Evijärvi.png",
           "alt": "Evijärvi municipality coat of arms",
           "blazon": "In a blue field, two silver fish, back-to-back with red fins, rising from a silver wavy base.",
@@ -359,6 +415,8 @@
         {
           "municipality": "Ilmajoki",
           "areaCode": "KU145",
+          "lat": 62.7365115,
+          "lon": 22.513851,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Ilmajoki.png",
           "alt": "Ilmajoki municipality coat of arms",
           "blazon": "In the silver upper field, a black bear's head facing forward. In the blue lower field, two crossed silver maces with a silver foot cross in the lower corners; a double-arched bowstring against a log, tied at the top.",
@@ -368,6 +426,8 @@
         {
           "municipality": "Isojoki",
           "areaCode": "KU151",
+          "lat": 62.1387061,
+          "lon": 21.9122964,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Isojoki.png",
           "alt": "Isojoki municipality coat of arms",
           "blazon": "In a black field, a silver pole with a red ear of grain.",
@@ -377,6 +437,8 @@
         {
           "municipality": "Isokyrö",
           "areaCode": "KU152",
+          "lat": 62.9470582,
+          "lon": 22.416039,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Isokyrö.png",
           "alt": "Isokyrö municipality coat of arms",
           "blazon": "On a gold shield, a black bear standing, with red tongue, teeth, and claws, holding a green fir root in its paws.",
@@ -386,6 +448,8 @@
         {
           "municipality": "Karijoki",
           "areaCode": "KU218",
+          "lat": 62.3225991,
+          "lon": 21.7312462,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Karijoki.png",
           "alt": "Karijoki municipality coat of arms",
           "blazon": "A shield of blue and silver divided by a jagged line.",
@@ -395,6 +459,8 @@
         {
           "municipality": "Kauhajoki",
           "areaCode": "KU232",
+          "lat": 62.3264683,
+          "lon": 22.2661588,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Kauhajoki.png",
           "alt": "Kauhajoki municipality coat of arms",
           "blazon": "In a shield divided by a wavy line, in the blue upper field, two crossed silver speaker’s gavels; in the silver lower field, a black bear’s head facing forward with a red tongue.",
@@ -404,6 +470,8 @@
         {
           "municipality": "Kauhava",
           "areaCode": "KU233",
+          "lat": 63.2104342,
+          "lon": 23.0123189,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Kauhava.png",
           "alt": "Kauhava municipality coat of arms",
           "blazon": "In a blue field, a golden detached cross of Mantua, beneath which is a red belt with four lobes extending from edge to edge; the lobes and hearts in gold.",
@@ -413,6 +481,8 @@
         {
           "municipality": "Kuortane",
           "areaCode": "KU300",
+          "lat": 62.7839923,
+          "lon": 23.5591265,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Kuortane.png",
           "alt": "Kuortane municipality coat of arms",
           "blazon": "A silver-blue shield divided by a wavy line, with three red flames rising in the upper field and a silver pike swimming in the lower field.",
@@ -422,6 +492,8 @@
         {
           "municipality": "Kurikka",
           "areaCode": "KU301",
+          "lat": 62.5672579,
+          "lon": 22.4006707,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Kurikka.png",
           "alt": "Kurikka municipality coat of arms",
           "blazon": "A shield divided by salmon-tail lines into blue and silver fields.",
@@ -431,6 +503,8 @@
         {
           "municipality": "Lappajärvi",
           "areaCode": "KU403",
+          "lat": 63.1789936,
+          "lon": 23.5714239,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Lappajärvi.png",
           "alt": "Lappajärvi municipality coat of arms",
           "blazon": "In a blue field, a silver boat with a square sail and rudder, above a golden base with a radiant pattern.",
@@ -440,6 +514,8 @@
         {
           "municipality": "Lapua",
           "areaCode": "KU408",
+          "lat": 62.9264693,
+          "lon": 23.1623242,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Lapua.png",
           "alt": "Lapua municipality coat of arms",
           "blazon": "In a gold field, a black walking bear with red details, ridden by a man dressed in a blue tunic, trousers, and laced shoes, holding a black club raised for striking in his right hand.",
@@ -449,6 +525,8 @@
         {
           "municipality": "Seinäjoki",
           "areaCode": "KU743",
+          "lat": 62.7022779,
+          "lon": 22.8352394,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Seinäjoki.png",
           "alt": "Seinäjoki municipality coat of arms",
           "blazon": "In a silver field, a blue wall with battlements spanning edge to edge, with a wavy base.",
@@ -467,6 +545,8 @@
         {
           "municipality": "Teuva",
           "areaCode": "KU846",
+          "lat": 62.5025809,
+          "lon": 21.8114904,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Teuva.png",
           "alt": "Teuva municipality coat of arms",
           "blazon": "In a blue field, two silver flails crossed.",
@@ -476,6 +556,8 @@
         {
           "municipality": "Alavus",
           "areaCode": "KU010",
+          "lat": 62.5883451,
+          "lon": 23.5803675,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Alavus.png",
           "alt": "Alavus municipality coat of arms",
           "blazon": "In a blue field, a triangular point from which rises a cross with arched arms; both in silver.",
@@ -485,6 +567,8 @@
         {
           "municipality": "Vimpeli",
           "areaCode": "KU934",
+          "lat": 63.1765582,
+          "lon": 23.9661917,
           "url": "/coat-of-arms/img/Etelä-Pohjanmaa/Vimpeli.png",
           "alt": "Vimpeli municipality coat of arms",
           "blazon": "In a blue field, two silver skis crossed back-to-back like a knee brace, with a golden flame between them.",
@@ -594,6 +678,8 @@
         {
           "municipality": "Enonkoski",
           "areaCode": "KU046",
+          "lat": 62.1353427,
+          "lon": 28.8844698,
           "url": "/coat-of-arms/img/Etelä-Savo/Enonkoski.png",
           "alt": "Enonkoski municipality coat of arms",
           "blazon": "In a black field, two silver oars crossed in saltire, with four golden clovers as supporters.",
@@ -603,6 +689,8 @@
         {
           "municipality": "Hirvensalmi",
           "areaCode": "KU097",
+          "lat": 61.6846723,
+          "lon": 26.6959523,
           "url": "/coat-of-arms/img/Etelä-Savo/Hirvensalmi.png",
           "alt": "Hirvensalmi municipality coat of arms",
           "blazon": "In a gold field, a black walking moose with red hooves.",
@@ -612,6 +700,8 @@
         {
           "municipality": "Juva",
           "areaCode": "KU178",
+          "lat": 61.8054317,
+          "lon": 27.799549,
           "url": "/coat-of-arms/img/Etelä-Savo/Juva.png",
           "alt": "Juva municipality coat of arms",
           "blazon": "In a black field, a cross, with a cloverleaf in the upper right corner, all in gold.",
@@ -621,6 +711,8 @@
         {
           "municipality": "Kangasniemi",
           "areaCode": "KU213",
+          "lat": 62.0481932,
+          "lon": 26.6749493,
           "url": "/coat-of-arms/img/Etelä-Savo/Kangasniemi.png",
           "alt": "Kangasniemi municipality coat of arms",
           "blazon": "In a black field, a golden spinning wheel with a silver thread.",
@@ -630,6 +722,8 @@
         {
           "municipality": "Mäntyharju",
           "areaCode": "KU507",
+          "lat": 61.3772729,
+          "lon": 26.8518252,
           "url": "/coat-of-arms/img/Etelä-Savo/Mäntyharju.png",
           "alt": "Mäntyharju municipality coat of arms",
           "blazon": "In a black field, two pine trees growing from golden base arcs; all in gold.",
@@ -639,6 +733,8 @@
         {
           "municipality": "Mikkeli",
           "areaCode": "KU491",
+          "lat": 61.7040237,
+          "lon": 27.3635019,
           "url": "/coat-of-arms/img/Etelä-Savo/Mikkeli.png",
           "alt": "Mikkeli municipality coat of arms",
           "blazon": "A cross-divided shield, depicting in the upper field on a golden background the marshal's baton of the Marshal of Finland, Baron C.G.E. Mannerheim, in two pieces diagonally, and in the lower field on a black background the golden baton of the province of Savo, directed upwards.",
@@ -648,6 +744,8 @@
         {
           "municipality": "Pertunmaa",
           "areaCode": "KU588",
+          "lat": 61.4987975,
+          "lon": 26.4452876,
           "url": "/coat-of-arms/img/Etelä-Savo/Pertunmaa.png",
           "alt": "Pertunmaa municipality coat of arms",
           "blazon": "In a red field, a golden flame with a black ear of grain.",
@@ -657,6 +755,8 @@
         {
           "municipality": "Pieksämäki",
           "areaCode": "KU593",
+          "lat": 62.2682315,
+          "lon": 27.1775324,
           "url": "/coat-of-arms/img/Etelä-Savo/Pieksämäki.png",
           "alt": "Pieksämäki municipality coat of arms",
           "blazon": "In a black field, three golden axes with silver feathers, pointed downward.",
@@ -666,6 +766,8 @@
         {
           "municipality": "Puumala",
           "areaCode": "KU623",
+          "lat": 61.5336619,
+          "lon": 28.2468882,
           "url": "/coat-of-arms/img/Etelä-Savo/Puumala.png",
           "alt": "Puumala municipality coat of arms",
           "blazon": "In a black shield, three silver wolf’s teeth rising from the base of the shield, with black, flame-like grenades.",
@@ -675,6 +777,8 @@
         {
           "municipality": "Rantasalmi",
           "areaCode": "KU681",
+          "lat": 62.0774347,
+          "lon": 28.3000719,
           "url": "/coat-of-arms/img/Etelä-Savo/Rantasalmi.png",
           "alt": "Rantasalmi municipality coat of arms",
           "blazon": "In a gold field, a black wavy bar.",
@@ -684,6 +788,8 @@
         {
           "municipality": "Savonlinna",
           "areaCode": "KU740",
+          "lat": 61.9757292,
+          "lon": 29.0335047,
           "url": "/coat-of-arms/img/Etelä-Savo/Savonlinna.png",
           "alt": "Savonlinna municipality coat of arms",
           "blazon": "In a blue field, a golden three-towered castle above a silver wavy bar; below, in a black base, an upright golden bow with silver bowstring, arrowhead, and fletching.",
@@ -693,6 +799,8 @@
         {
           "municipality": "Sulkava",
           "areaCode": "KU768",
+          "lat": 61.7346329,
+          "lon": 28.5224386,
           "url": "/coat-of-arms/img/Etelä-Savo/Sulkava.png",
           "alt": "Sulkava municipality coat of arms",
           "blazon": "In a black field, a silver single-arched stone bridge extending from edge to edge, accompanied by golden pine cones, three above and one below, with stems pointing upward.",
@@ -796,6 +904,8 @@
         {
           "municipality": "Hyrynsalmi",
           "areaCode": "KU105",
+          "lat": 64.6741181,
+          "lon": 28.753535,
           "url": "/coat-of-arms/img/Kainuu/Hyrynsalmi.png",
           "alt": "Hyrynsalmi municipality coat of arms",
           "blazon": "In a silver field, a blue wavy pale charged with a golden tar barrel.",
@@ -805,6 +915,8 @@
         {
           "municipality": "Kajaani",
           "areaCode": "KU205",
+          "lat": 64.1049464,
+          "lon": 27.4532084,
           "url": "/coat-of-arms/img/Kainuu/Kajaani.png",
           "alt": "Kajaani municipality coat of arms",
           "blazon": "In a blue field, a golden two-towered castle with red window and door openings, rising from a silver wavy base.",
@@ -814,6 +926,8 @@
         {
           "municipality": "Kuhmo",
           "areaCode": "KU290",
+          "lat": 64.1693665,
+          "lon": 29.6527703,
           "url": "/coat-of-arms/img/Kainuu/Kuhmo.png",
           "alt": "Kuhmo municipality coat of arms",
           "blazon": "In a black field, three golden spruce trees arranged 2 + 1.",
@@ -823,6 +937,8 @@
         {
           "municipality": "Paltamo",
           "areaCode": "KU578",
+          "lat": 64.4374095,
+          "lon": 27.8215214,
           "url": "/coat-of-arms/img/Kainuu/Paltamo.png",
           "alt": "Paltamo municipality coat of arms",
           "blazon": "In a gold field, three black tar boats with barrels arranged horizontally one above the other.",
@@ -832,6 +948,8 @@
         {
           "municipality": "Puolanka",
           "areaCode": "KU620",
+          "lat": 64.8626859,
+          "lon": 27.7063609,
           "url": "/coat-of-arms/img/Kainuu/Puolanka.png",
           "alt": "Puolanka municipality coat of arms",
           "blazon": "In a black field, three golden cowbells arranged 2:1, beneath a golden chief embattled to resemble spruce treetops.",
@@ -841,6 +959,8 @@
         {
           "municipality": "Ristijärvi",
           "areaCode": "KU697",
+          "lat": 64.4816947,
+          "lon": 28.3651389,
           "url": "/coat-of-arms/img/Kainuu/Ristijärvi.png",
           "alt": "Ristijärvi municipality coat of arms",
           "blazon": "In a blue field, a wavy silver base, above which is a silver coniferous cross.",
@@ -850,6 +970,8 @@
         {
           "municipality": "Sotkamo",
           "areaCode": "KU765",
+          "lat": 64.022019,
+          "lon": 28.5038338,
           "url": "/coat-of-arms/img/Kainuu/Sotkamo.png",
           "alt": "Sotkamo municipality coat of arms",
           "blazon": "In a silver field, a blue log with an arched top.",
@@ -859,6 +981,8 @@
         {
           "municipality": "Suomussalmi",
           "areaCode": "KU777",
+          "lat": 65.043581,
+          "lon": 29.0657188,
           "url": "/coat-of-arms/img/Kainuu/Suomussalmi.png",
           "alt": "Suomussalmi municipality coat of arms",
           "blazon": "In a black field, four silver flagpoles arranged 1+2+1, with a golden flame rising from each.",
@@ -902,6 +1026,8 @@
         {
           "municipality": "Forssa",
           "areaCode": "KU061",
+          "lat": 60.8942759,
+          "lon": 23.6462209,
           "url": "/coat-of-arms/img/Kanta-Häme/Forssa.png",
           "alt": "Forssa municipality coat of arms",
           "blazon": "In a blue field, a silver waterwheel.",
@@ -911,6 +1037,8 @@
         {
           "municipality": "Hämeenlinna",
           "areaCode": "KU109",
+          "lat": 61.0393975,
+          "lon": 24.5129335,
           "url": "/coat-of-arms/img/Kanta-Häme/Hämeenlinna.png",
           "alt": "Hämeenlinna municipality coat of arms",
           "blazon": "on a red field, a wall with a wavy bottom edge, extending from one edge of the shield to the other, from which rise two steep-roofed towers and a building between them; all silver, the window openings are black and above the castle are golden sun faces.",
@@ -920,6 +1048,8 @@
         {
           "municipality": "Hattula",
           "areaCode": "KU082",
+          "lat": 61.0487723,
+          "lon": 24.3151943,
           "url": "/coat-of-arms/img/Kanta-Häme/Hattula.png",
           "alt": "Hattula municipality coat of arms",
           "blazon": "In a red field, a single-arched bridge extending to the edges, with a Greek cross above it; both in gold.",
@@ -929,6 +1059,8 @@
         {
           "municipality": "Hausjärvi",
           "areaCode": "KU086",
+          "lat": 60.7935594,
+          "lon": 24.953196,
           "url": "/coat-of-arms/img/Kanta-Häme/Hausjärvi.png",
           "alt": "Hausjärvi municipality coat of arms",
           "blazon": "In a red field, a diagonal cross with a star at the point of intersection, all in silver.",
@@ -938,6 +1070,8 @@
         {
           "municipality": "Humppila",
           "areaCode": "KU103",
+          "lat": 60.9455544,
+          "lon": 23.3483667,
           "url": "/coat-of-arms/img/Kanta-Häme/Humppila.png",
           "alt": "Humppila municipality coat of arms",
           "blazon": "In a gold field, a black food bell hanging from a canopy.",
@@ -947,6 +1081,8 @@
         {
           "municipality": "Janakkala",
           "areaCode": "KU165",
+          "lat": 60.8882906,
+          "lon": 24.6958049,
           "url": "/coat-of-arms/img/Kanta-Häme/Janakkala.png",
           "alt": "Janakkala municipality coat of arms",
           "blazon": "In a red field, a golden lynx's head facing forward, with a blue tongue and black ear tufts; above, an embattled golden crown with a Mantova cross, with arrows pointing towards it on either side; all in black.",
@@ -956,6 +1092,8 @@
         {
           "municipality": "Jokioinen",
           "areaCode": "KU169",
+          "lat": 60.8435664,
+          "lon": 23.4208488,
           "url": "/coat-of-arms/img/Kanta-Häme/Jokioinen.png",
           "alt": "Jokioinen municipality coat of arms",
           "blazon": "In a red field, a wavy log with two crossed ears of wheat above and an anvil below; all in gold.",
@@ -965,6 +1103,8 @@
         {
           "municipality": "Loppi",
           "areaCode": "KU433",
+          "lat": 60.6864276,
+          "lon": 24.3688499,
           "url": "/coat-of-arms/img/Kanta-Häme/Loppi.png",
           "alt": "Loppi municipality coat of arms",
           "blazon": "A shield, wavy-cut in red and silver, with an alternating-colored iron mark.",
@@ -974,6 +1114,8 @@
         {
           "municipality": "Riihimäki",
           "areaCode": "KU694",
+          "lat": 60.7240233,
+          "lon": 24.7251752,
           "url": "/coat-of-arms/img/Kanta-Häme/Riihimäki.png",
           "alt": "Riihimäki municipality coat of arms",
           "blazon": "A shield divided by a golden belt, with seven upward-pointing red flames in the silver upper field and a golden sheaf in the red lower field.",
@@ -983,6 +1125,8 @@
         {
           "municipality": "Tammela",
           "areaCode": "KU834",
+          "lat": 60.8061267,
+          "lon": 23.7807635,
           "url": "/coat-of-arms/img/Kanta-Häme/Tammela.png",
           "alt": "Tammela municipality coat of arms",
           "blazon": "In a red field, three oak leaves with stems converging into a forked cross, with an acorn sprouting from the junction of the stems on each side; all in silver.",
@@ -992,6 +1136,8 @@
         {
           "municipality": "Ypäjä",
           "areaCode": "KU981",
+          "lat": 60.8018784,
+          "lon": 23.2719623,
           "url": "/coat-of-arms/img/Kanta-Häme/Ypäjä.png",
           "alt": "Ypäjä municipality coat of arms",
           "blazon": "In a split shield, a silver bell tower in the left blue field, and a red ear of grain in the right silver field.",
@@ -1077,6 +1223,8 @@
         {
           "municipality": "Halsua",
           "areaCode": "KU074",
+          "lat": 63.454471,
+          "lon": 24.2972518,
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Halsua.png",
           "alt": "Halsua municipality coat of arms",
           "blazon": "In a red field, two silver round-based kanteles placed opposite each other, with blue strings.",
@@ -1086,6 +1234,8 @@
         {
           "municipality": "Kannus",
           "areaCode": "KU217",
+          "lat": 63.9240939,
+          "lon": 23.9519873,
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Kannus.png",
           "alt": "Kannus municipality coat of arms",
           "blazon": "In a blue field, a vertical silver shaman's drum hammer (kannus), flanked on either side by a six-pointed silver spur star.",
@@ -1095,6 +1245,8 @@
         {
           "municipality": "Kaustinen",
           "areaCode": "KU236",
+          "lat": 63.5792035,
+          "lon": 23.7606919,
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Kaustinen.png",
           "alt": "Kaustinen municipality coat of arms",
           "blazon": "In a blue field scattered with golden nail crosses, a golden violin set crosswise.",
@@ -1104,6 +1256,8 @@
         {
           "municipality": "Kokkola",
           "areaCode": "KU272",
+          "lat": 63.8390443,
+          "lon": 23.3903011,
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Kokkola.png",
           "alt": "Kokkola municipality coat of arms",
           "blazon": "In a gold field, a black tar barrel lying on its side, with red flames emerging from the bung hole and both ends.",
@@ -1113,6 +1267,8 @@
         {
           "municipality": "Lestijärvi",
           "areaCode": "KU421",
+          "lat": 63.5059428,
+          "lon": 24.7224334,
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Lestijärvi.png",
           "alt": "Lestijärvi municipality coat of arms",
           "blazon": "In a silver field, a blue capercaillie tail.",
@@ -1122,6 +1278,8 @@
         {
           "municipality": "Perho",
           "areaCode": "KU584",
+          "lat": 63.2543274,
+          "lon": 24.4278144,
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Perho.png",
           "alt": "Perho municipality coat of arms",
           "blazon": "In a black field, a golden butterfly, with a silver nail cross above it.",
@@ -1131,6 +1289,8 @@
         {
           "municipality": "Toholampi",
           "areaCode": "KU849",
+          "lat": 63.2543274,
+          "lon": 24.4278144,
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Toholampi.png",
           "alt": "Toholampi municipality coat of arms",
           "blazon": "In a silver field, a black bow with a branch-like upper part; from each branch rises a red flame.",
@@ -1140,6 +1300,8 @@
         {
           "municipality": "Veteli",
           "areaCode": "KU924",
+          "lat": 63.3977943,
+          "lon": 23.9276402,
           "url": "/coat-of-arms/img/Keski-Pohjanmaa/Veteli.png",
           "alt": "Veteli municipality coat of arms",
           "blazon": "In a silver field, a blue pole with a seven-string golden kantele; the strings are red.",
@@ -1195,6 +1357,8 @@
         {
           "municipality": "Äänekoski",
           "areaCode": "KU992",
+          "lat": 62.7006047,
+          "lon": 25.8538717,
           "url": "/coat-of-arms/img/Keski-Suomi/Äänekoski.png",
           "alt": "Äänekoski municipality coat of arms",
           "blazon": "In a blue field, three flying silver cranes arranged in the shape of a right-pointing arrow.",
@@ -1204,6 +1368,8 @@
         {
           "municipality": "Hankasalmi",
           "areaCode": "KU077",
+          "lat": 62.385487,
+          "lon": 26.4880137,
           "url": "/coat-of-arms/img/Keski-Suomi/Hankasalmi.png",
           "alt": "Hankasalmi municipality coat of arms",
           "blazon": "In a black field, a wave-cornered silver log, with a red tool resting on it.",
@@ -1213,6 +1379,8 @@
         {
           "municipality": "Jämsä",
           "areaCode": "KU182",
+          "lat": 61.9207158,
+          "lon": 25.06044,
           "url": "/coat-of-arms/img/Keski-Suomi/Jämsä.png",
           "alt": "Jämsä municipality coat of arms",
           "blazon": "In a red field, a hedgehog iron, surrounded by a chain; both in silver.",
@@ -1222,6 +1390,8 @@
         {
           "municipality": "Joutsa",
           "areaCode": "KU172",
+          "lat": 61.8259327,
+          "lon": 26.1888371,
           "url": "/coat-of-arms/img/Keski-Suomi/Joutsa.png",
           "alt": "Joutsa municipality coat of arms",
           "blazon": "In a red field, a six-cornered base and a log bow, with an arrow above, the string, arrowhead, and feathers in gold, and the rest in silver.",
@@ -1231,6 +1401,8 @@
         {
           "municipality": "Jyväskylä",
           "areaCode": "KU179",
+          "lat": 62.2113973,
+          "lon": 25.8745827,
           "url": "/coat-of-arms/img/Keski-Suomi/Jyväskylä.png",
           "alt": "Jyväskylä municipality coat of arms",
           "blazon": "A divided shield, with a silver caduceus on a blue field in the upper part, and in the lower part, on a silver field, the bow of a freshwater boat in natural colors, viewed from the front, with three blue wavy lines beneath it.",
@@ -1240,6 +1412,8 @@
         {
           "municipality": "Kannonkoski",
           "areaCode": "KU216",
+          "lat": 62.9588645,
+          "lon": 25.3755119,
           "url": "/coat-of-arms/img/Keski-Suomi/Kannonkoski.png",
           "alt": "Kannonkoski municipality coat of arms",
           "blazon": "In a red field, a wave-shaped base with a stump above it; both in silver.",
@@ -1249,6 +1423,8 @@
         {
           "municipality": "Karstula",
           "areaCode": "KU226",
+          "lat": 62.8783813,
+          "lon": 24.819162,
           "url": "/coat-of-arms/img/Keski-Suomi/Karstula.png",
           "alt": "Karstula municipality coat of arms",
           "blazon": "In a red field, a silver lock plate in the shape of an anchor cross, with a keyhole in the center.",
@@ -1258,6 +1434,8 @@
         {
           "municipality": "Keuruu",
           "areaCode": "KU249",
+          "lat": 62.3444206,
+          "lon": 24.6324578,
           "url": "/coat-of-arms/img/Keski-Suomi/Keuruu.png",
           "alt": "Keuruu municipality coat of arms",
           "blazon": "In a red field, two silver ropes crossed, with a silver cradle above, containing a black church boat.",
@@ -1267,6 +1445,8 @@
         {
           "municipality": "Kinnula",
           "areaCode": "KU256",
+          "lat": 63.3493594,
+          "lon": 25.0531931,
           "url": "/coat-of-arms/img/Keski-Suomi/Kinnula.png",
           "alt": "Kinnula municipality coat of arms",
           "blazon": "In a silver field, three branch-crowned, black-and-red sawteeth.",
@@ -1276,6 +1456,8 @@
         {
           "municipality": "Kivijärvi",
           "areaCode": "KU265",
+          "lat": 63.1432639,
+          "lon": 25.0552678,
           "url": "/coat-of-arms/img/Keski-Suomi/Kivijärvi.png",
           "alt": "Kivijärvi municipality coat of arms",
           "blazon": "In a silver field, a red, wave-crowned log, with a black rooster, its legs red, standing on it.",
@@ -1285,6 +1467,8 @@
         {
           "municipality": "Konnevesi",
           "areaCode": "KU275",
+          "lat": 62.6633552,
+          "lon": 26.3119466,
           "url": "/coat-of-arms/img/Keski-Suomi/Konnevesi.png",
           "alt": "Konnevesi municipality coat of arms",
           "blazon": "In a red field, silver timber scissors.",
@@ -1294,6 +1478,8 @@
         {
           "municipality": "Kyyjärvi",
           "areaCode": "KU312",
+          "lat": 63.0443584,
+          "lon": 24.5486259,
           "url": "/coat-of-arms/img/Keski-Suomi/Kyyjärvi.png",
           "alt": "Kyyjärvi municipality coat of arms",
           "blazon": "In a blue field, a wavy left bordure and a serpentine snake; all in silver.",
@@ -1303,6 +1489,8 @@
         {
           "municipality": "Laukaa",
           "areaCode": "KU410",
+          "lat": 62.3821309,
+          "lon": 25.9550521,
           "url": "/coat-of-arms/img/Keski-Suomi/Laukaa.png",
           "alt": "Laukaa municipality coat of arms",
           "blazon": "In a silver field, a red heart from which grows a three-pronged green conifer branch.",
@@ -1312,6 +1500,8 @@
         {
           "municipality": "Luhanka",
           "areaCode": "KU435",
+          "lat": 61.7829511,
+          "lon": 25.709169,
           "url": "/coat-of-arms/img/Keski-Suomi/Luhanka.png",
           "alt": "Luhanka municipality coat of arms",
           "blazon": "In a green field, a silver badger with golden claws, walking, and accompanied by three golden, nailed, arch-shaped crosses, two above and one below.",
@@ -1321,6 +1511,8 @@
         {
           "municipality": "Multia",
           "areaCode": "KU495",
+          "lat": 62.490785,
+          "lon": 24.8777687,
           "url": "/coat-of-arms/img/Keski-Suomi/Multia.png",
           "alt": "Multia municipality coat of arms",
           "blazon": "In a black field, a golden ant.",
@@ -1330,6 +1522,8 @@
         {
           "municipality": "Muurame",
           "areaCode": "KU500",
+          "lat": 62.1531935,
+          "lon": 25.6328745,
           "url": "/coat-of-arms/img/Keski-Suomi/Muurame.png",
           "alt": "Muurame municipality coat of arms",
           "blazon": "In a red field, a silver crowberry with a golden berry.",
@@ -1339,6 +1533,8 @@
         {
           "municipality": "Petäjävesi",
           "areaCode": "KU592",
+          "lat": 62.2896873,
+          "lon": 25.2287433,
           "url": "/coat-of-arms/img/Keski-Suomi/Petäjävesi.png",
           "alt": "Petäjävesi municipality coat of arms",
           "blazon": "In a silver field, above a red wavy base, a black Scots pine.",
@@ -1348,6 +1544,8 @@
         {
           "municipality": "Pihtipudas",
           "areaCode": "KU601",
+          "lat": 63.4289496,
+          "lon": 25.6293035,
           "url": "/coat-of-arms/img/Keski-Suomi/Pihtipudas.png",
           "alt": "Pihtipudas municipality coat of arms",
           "blazon": "Quartered in silver and black, in the second and third fields, silver arrowheads.",
@@ -1357,6 +1555,8 @@
         {
           "municipality": "Saarijärvi",
           "areaCode": "KU729",
+          "lat": 62.7152171,
+          "lon": 25.100423,
           "url": "/coat-of-arms/img/Keski-Suomi/Saarijärvi.png",
           "alt": "Saarijärvi municipality coat of arms",
           "blazon": "In a silver field, three saw-toothed beams at the top, the central one red and the outer ones black.",
@@ -1366,6 +1566,8 @@
         {
           "municipality": "Toivakka",
           "areaCode": "KU850",
+          "lat": 62.1164052,
+          "lon": 26.0497982,
           "url": "/coat-of-arms/img/Keski-Suomi/Toivakka.png",
           "alt": "Toivakka municipality coat of arms",
           "blazon": "In a green field, a sower in silver garments; the sowing basket with straps and footwear in gold.",
@@ -1375,6 +1577,8 @@
         {
           "municipality": "Uurainen",
           "areaCode": "KU892",
+          "lat": 62.4669766,
+          "lon": 25.4099536,
           "url": "/coat-of-arms/img/Keski-Suomi/Uurainen.png",
           "alt": "Uurainen municipality coat of arms",
           "blazon": "In a green field, a golden bow-shaped tip with a green ski pole basket.",
@@ -1384,6 +1588,8 @@
         {
           "municipality": "Viitasaari",
           "areaCode": "KU931",
+          "lat": 63.0665609,
+          "lon": 25.2749246,
           "url": "/coat-of-arms/img/Keski-Suomi/Viitasaari.png",
           "alt": "Viitasaari municipality coat of arms",
           "blazon": "In a red field, seven fully silver swimming vendace arranged in a pattern of 1+2+1+2+1.",
@@ -1517,6 +1723,8 @@
         {
           "municipality": "Hamina",
           "areaCode": "KU075",
+          "lat": 60.5214138,
+          "lon": 27.2959669,
           "url": "/coat-of-arms/img/Kymenlaakso/Hamina.png",
           "alt": "Hamina municipality coat of arms",
           "blazon": "In a blue field, a silver, wavy timber log with a golden boat floating on it, above which is a golden royal crown with purple lining.",
@@ -1526,6 +1734,8 @@
         {
           "municipality": "Kotka",
           "areaCode": "KU285",
+          "lat": 60.5069438,
+          "lon": 27.2196574,
           "url": "/coat-of-arms/img/Kymenlaakso/Kotka.png",
           "alt": "Kotka municipality coat of arms",
           "blazon": "In a blue field, a golden natural eagle with wings raised, standing on a crossed anchor and caduceus, both in silver.",
@@ -1535,6 +1745,8 @@
         {
           "municipality": "Kouvola",
           "areaCode": "KU286",
+          "lat": 60.8724368,
+          "lon": 26.710648,
           "url": "/coat-of-arms/img/Kymenlaakso/Kouvola.png",
           "alt": "Kouvola municipality coat of arms",
           "blazon": "On a black shield, a silver wavy base and a golden, lily-tipped, six-part rosette.",
@@ -1544,6 +1756,8 @@
         {
           "municipality": "Miehikkälä",
           "areaCode": "KU489",
+          "lat": 60.7218319,
+          "lon": 27.7065748,
           "url": "/coat-of-arms/img/Kymenlaakso/Miehikkälä.png",
           "alt": "Miehikkälä municipality coat of arms",
           "blazon": "In a red field, a silver double-bent scythe.",
@@ -1553,6 +1767,8 @@
         {
           "municipality": "Pyhtää",
           "areaCode": "KU624",
+          "lat": 60.4118151,
+          "lon": 26.6618271,
           "url": "/coat-of-arms/img/Kymenlaakso/Pyhtää.png",
           "alt": "Pyhtää municipality coat of arms",
           "blazon": "In a black field, two silver salmon with red fins, arranged crosswise, each accompanied by a silver Greek cross in the corners",
@@ -1562,6 +1778,8 @@
         {
           "municipality": "Virolahti",
           "areaCode": "KU935",
+          "lat": 60.5089834,
+          "lon": 27.6198077,
           "url": "/coat-of-arms/img/Kymenlaakso/Virolahti.png",
           "alt": "Virolahti municipality coat of arms",
           "blazon": "In a red field with a golden clover sowing, a silver anchor on a pole.",
@@ -1657,6 +1875,8 @@
         {
           "municipality": "Enontekiö",
           "areaCode": "KU047",
+          "lat": 68.7139205,
+          "lon": 22.7879404,
           "url": "/coat-of-arms/img/Lappi/Enontekiö.png",
           "alt": "Enontekiö municipality coat of arms",
           "blazon": "In a blue field, a silver ptarmigan with red legs.",
@@ -1666,6 +1886,8 @@
         {
           "municipality": "Inari",
           "areaCode": "KU148",
+          "lat": 69.0633818,
+          "lon": 27.1198307,
           "url": "/coat-of-arms/img/Lappi/Inari.png",
           "alt": "Inari municipality coat of arms",
           "blazon": "On a black field, a swimming silver vendace with golden reindeer antlers on its head.",
@@ -1675,6 +1897,8 @@
         {
           "municipality": "Kemi",
           "areaCode": "KU240",
+          "lat": 65.5662838,
+          "lon": 24.4400816,
           "url": "/coat-of-arms/img/Lappi/Kemi.png",
           "alt": "Kemi municipality coat of arms",
           "blazon": "In the red upper section of a divided shield, a silver anchor; in the blue lower section, a silver salmon.",
@@ -1684,6 +1908,8 @@
         {
           "municipality": "Kemijärvi",
           "areaCode": "KU320",
+          "lat": 66.6660521,
+          "lon": 27.3291368,
           "url": "/coat-of-arms/img/Lappi/Kemijärvi.png",
           "alt": "Kemijärvi municipality coat of arms",
           "blazon": "In a black field, a stump with its top sharpened into a triple point, flanked by a six-pointed star on either side, all in silver.",
@@ -1693,6 +1919,8 @@
         {
           "municipality": "Keminmaa",
           "areaCode": "KU241",
+          "lat": 65.862739,
+          "lon": 24.8314551,
           "url": "/coat-of-arms/img/Lappi/Keminmaa.png",
           "alt": "Keminmaa municipality coat of arms",
           "blazon": "In a red field, a leaping salmon with a padlock on its chin; all in silver, except for the black keyhole in the lock.",
@@ -1702,6 +1930,8 @@
         {
           "municipality": "Kittilä",
           "areaCode": "KU261",
+          "lat": 67.773224,
+          "lon": 25.0505245,
           "url": "/coat-of-arms/img/Lappi/Kittilä.png",
           "alt": "Kittilä municipality coat of arms",
           "blazon": "In a silver field, a walking wolverine with a curved crown above; all in black, except for the wolverine's claws, which are red.",
@@ -1711,6 +1941,8 @@
         {
           "municipality": "Kolari",
           "areaCode": "KU273",
+          "lat": 67.2883623,
+          "lon": 24.2051465,
           "url": "/coat-of-arms/img/Lappi/Kolari.png",
           "alt": "Kolari municipality coat of arms",
           "blazon": "The shield is divided diagonally into silver and black fields; in the upper field, five rising red tongues of flame arranged side by side.",
@@ -1720,6 +1952,8 @@
         {
           "municipality": "Muonio",
           "areaCode": "KU498",
+          "lat": 67.8164785,
+          "lon": 23.7941375,
           "url": "/coat-of-arms/img/Lappi/Muonio.png",
           "alt": "Muonio municipality coat of arms",
           "blazon": "In a red field, above a tapered base, a six-pointed star; all in silver.",
@@ -1729,6 +1963,8 @@
         {
           "municipality": "Pelkosenniemi",
           "areaCode": "KU583",
+          "lat": 67.1556205,
+          "lon": 27.4387378,
           "url": "/coat-of-arms/img/Lappi/Pelkosenniemi.png",
           "alt": "Pelkosenniemi municipality coat of arms",
           "blazon": "In a silver field, a blue nail cross, and beneath it, a blue and silver three-peaked mountain.",
@@ -1738,6 +1974,8 @@
         {
           "municipality": "Pello",
           "areaCode": "KU854",
+          "lat": 66.7401686,
+          "lon": 24.3829477,
           "url": "/coat-of-arms/img/Lappi/Pello.png",
           "alt": "Pello municipality coat of arms",
           "blazon": "In a blue field, a three-peaked mountain, above which are three six-pointed stars arranged in the pattern 1+2; all in silver.",
@@ -1747,6 +1985,8 @@
         {
           "municipality": "Posio",
           "areaCode": "KU614",
+          "lat": 66.1465351,
+          "lon": 28.0011651,
           "url": "/coat-of-arms/img/Lappi/Posio.png",
           "alt": "Posio municipality coat of arms",
           "blazon": "In a black field, three silver huts arranged in a 2:1 pattern, with red doorways.",
@@ -1756,6 +1996,8 @@
         {
           "municipality": "Ranua",
           "areaCode": "KU683",
+          "lat": 66.0012779,
+          "lon": 26.5877037,
           "url": "/coat-of-arms/img/Lappi/Ranua.png",
           "alt": "Ranua municipality coat of arms",
           "blazon": "In a green field, a wavy log beneath a crosscut saw, all in silver.",
@@ -1765,6 +2007,8 @@
         {
           "municipality": "Rovaniemi",
           "areaCode": "KU698",
+          "lat": 66.6675064,
+          "lon": 26.0316119,
           "url": "/coat-of-arms/img/Lappi/Rovaniemi.png",
           "alt": "Rovaniemi municipality coat of arms",
           "blazon": "In a green field, a silver trident cross, with the upper arms shaped like lightning bolts; accompanied by a golden flame in the upper corner.",
@@ -1774,6 +2018,8 @@
         {
           "municipality": "Salla",
           "areaCode": "KU732",
+          "lat": 67.1055585,
+          "lon": 28.9492632,
           "url": "/coat-of-arms/img/Lappi/Salla.png",
           "alt": "Salla municipality coat of arms",
           "blazon": "In a blue field, a silver arch log.",
@@ -1783,6 +2029,8 @@
         {
           "municipality": "Savukoski",
           "areaCode": "KU742",
+          "lat": 67.6522063,
+          "lon": 28.440777,
           "url": "/coat-of-arms/img/Lappi/Savukoski.png",
           "alt": "Savukoski municipality coat of arms",
           "blazon": "In a black field, a golden statue fence.",
@@ -1792,6 +2040,8 @@
         {
           "municipality": "Simo",
           "areaCode": "KU751",
+          "lat": 65.7043571,
+          "lon": 25.0446371,
           "url": "/coat-of-arms/img/Lappi/Simo.png",
           "alt": "Simo municipality coat of arms",
           "blazon": "In a blue field, four silver salmon tails arranged in a cross pattern.",
@@ -1801,6 +2051,8 @@
         {
           "municipality": "Sodankylä",
           "areaCode": "KU758",
+          "lat": 67.7042013,
+          "lon": 26.9980737,
           "url": "/coat-of-arms/img/Lappi/Sodankylä.png",
           "alt": "Sodankylä municipality coat of arms",
           "blazon": "In a black field, a silver log with a red shaft adorned with flame-shaped decorations at the top, and above the log, a silver six-pointed star.",
@@ -1810,6 +2062,8 @@
         {
           "municipality": "Tervola",
           "areaCode": "KU845",
+          "lat": 66.1409013,
+          "lon": 25.2807297,
           "url": "/coat-of-arms/img/Lappi/Tervola.png",
           "alt": "Tervola municipality coat of arms",
           "blazon": "In a red field, a walking crane, entirely in silver, holding a golden onion in its beak, stacked like logs.",
@@ -1819,6 +2073,8 @@
         {
           "municipality": "Tornio",
           "areaCode": "Tornio",
+          "lat": 66.5901172,
+          "lon": 24.3466346,
           "url": "/coat-of-arms/img/Lappi/Tornio.png",
           "alt": "Tornio municipality coat of arms",
           "blazon": "In a silver field, a red church tower, with a blue roof featuring central and corner peaks, and blue door, window, and gun openings.",
@@ -1828,6 +2084,8 @@
         {
           "municipality": "Utsjoki",
           "areaCode": "KU890",
+          "lat": 69.6199363,
+          "lon": 27.0190057,
           "url": "/coat-of-arms/img/Lappi/Utsjoki.png",
           "alt": "Utsjoki municipality coat of arms",
           "blazon": "In a black field, the Northern Lights, above which is a four-pointed star; both in silver.",
@@ -1837,6 +2095,8 @@
         {
           "municipality": "Ylitornio",
           "areaCode": "KU976",
+          "lat": 66.4654831,
+          "lon": 24.3466346,
           "url": "/coat-of-arms/img/Lappi/Ylitornio.png",
           "alt": "Ylitornio municipality coat of arms",
           "blazon": "In a silver field, above a triple mountain, the sun; both in red.",
@@ -1898,6 +2158,8 @@
         {
           "municipality": "Asikkala",
           "areaCode": "KU016",
+          "lat": 61.2304573,
+          "lon": 25.5635431,
           "url": "/coat-of-arms/img/Päijät-Häme/Asikkala.png",
           "alt": "Asikkala municipality coat of arms",
           "blazon": "Quartered shield, silver and red; in each field, a five-petaled flower in counterchanged colors with a golden center.",
@@ -1907,6 +2169,8 @@
         {
           "municipality": "Hartola",
           "areaCode": "KU081",
+          "lat": 61.5971567,
+          "lon": 26.0594765,
           "url": "/coat-of-arms/img/Päijät-Häme/Hartola.png",
           "alt": "Hartola municipality coat of arms",
           "blazon": "In a red field, two crossed burning torches surmounted by a crown; all in gold except the flames of the torches, which are silver.",
@@ -1916,6 +2180,8 @@
         {
           "municipality": "Heinola",
           "areaCode": "KU111",
+          "lat": 61.248364,
+          "lon": 26.157363,
           "url": "/coat-of-arms/img/Päijät-Häme/Heinola.png",
           "alt": "Heinola municipality coat of arms",
           "blazon": "In a red field, a silver log with an arched top, under which walks a golden lynx, with blue paws and black ear tufts.",
@@ -1925,6 +2191,8 @@
         {
           "municipality": "Hollola",
           "areaCode": "KU098",
+          "lat": 61.0025275,
+          "lon": 25.4148604,
           "url": "/coat-of-arms/img/Päijät-Häme/Hollola.png",
           "alt": "Hollola municipality coat of arms",
           "blazon": "In a red field, a golden moose head facing forward, beneath which is a golden barley ear. Accompanying the moose head are five silver nail crosses: one above the moose head and two on either side of the main emblem.",
@@ -1934,6 +2202,8 @@
         {
           "municipality": "Iitti",
           "areaCode": "KU142",
+          "lat": 60.9516543,
+          "lon": 26.2684546,
           "url": "/coat-of-arms/img/Päijät-Häme/Iitti.png",
           "alt": "Iitti municipality coat of arms",
           "blazon": "In a black field, a wavy silver log, surmounted by a two-leafed gold key.",
@@ -1943,6 +2213,8 @@
         {
           "municipality": "Kärkölä",
           "areaCode": "KU316",
+          "lat": 60.866815,
+          "lon": 25.2640954,
           "url": "/coat-of-arms/img/Päijät-Häme/Kärkölä.png",
           "alt": "Kärkölä municipality coat of arms",
           "blazon": "In a red field, three silver, notched axes with wooden handles.",
@@ -1952,6 +2224,8 @@
         {
           "municipality": "Lahti",
           "areaCode": "KU398",
+          "lat": 60.9946588,
+          "lon": 25.8546395,
           "url": "/coat-of-arms/img/Päijät-Häme/Lahti.png",
           "alt": "Lahti municipality coat of arms",
           "blazon": "In a silver field, a black seven-spoked railway wheel; from each spoke of the wheel rises a red flame.",
@@ -1961,6 +2235,8 @@
         {
           "municipality": "Orimattila",
           "areaCode": "KU560",
+          "lat": 60.8030125,
+          "lon": 25.8094151,
           "url": "/coat-of-arms/img/Päijät-Häme/Orimattila.png",
           "alt": "Orimattila municipality coat of arms",
           "blazon": "In a red field, a rising horse holding a scythe; all in silver.",
@@ -1970,6 +2246,8 @@
         {
           "municipality": "Padasjoki",
           "areaCode": "KU576",
+          "lat": 61.3634366,
+          "lon": 25.2003166,
           "url": "/coat-of-arms/img/Päijät-Häme/Padasjoki.png",
           "alt": "Padasjoki municipality coat of arms",
           "blazon": "In a red field, a cauldron, below which is a log with an undulating crest; both silver.",
@@ -1979,6 +2257,8 @@
         {
           "municipality": "Sysmä",
           "areaCode": "KU781",
+          "lat": 61.514499,
+          "lon": 25.8126041,
           "url": "/coat-of-arms/img/Päijät-Häme/Sysmä.png",
           "alt": "Sysmä municipality coat of arms",
           "blazon": "In a black field, a quiver with three arrows; all silver; in the middle of the arrow case, a red miniature shield with a silver flint standing on it.",
@@ -2028,6 +2308,8 @@
         {
           "municipality": "Akaa",
           "areaCode": "KU020",
+          "lat": 61.1581714,
+          "lon": 23.7259052,
           "url": "/coat-of-arms/img/Pirkanmaa/Akaa.png",
           "alt": "Akaa municipality coat of arms",
           "blazon": "In a shield divided in red and silver, a silver wall anchor.",
@@ -2037,6 +2319,8 @@
         {
           "municipality": "Hämeenkyrö",
           "areaCode": "KU108",
+          "lat": 61.6266374,
+          "lon": 23.1621794,
           "url": "/coat-of-arms/img/Pirkanmaa/Hämeenkyrö.png",
           "alt": "Hämeenkyrö municipality coat of arms",
           "blazon": "In a golden field, a red and blue segmented drinking horn, with a silver foot and handle, mouth facing right, above the horn, a blue flame-shaped ornament with a six-pointed star.",
@@ -2046,6 +2330,8 @@
         {
           "municipality": "Ikaalinen",
           "areaCode": "KU143",
+          "lat": 61.8298113,
+          "lon": 23.136652,
           "url": "/coat-of-arms/img/Pirkanmaa/Ikaalinen.png",
           "alt": "Ikaalinen municipality coat of arms",
           "blazon": "In a golden field, a blue post with three silver oars side by side.",
@@ -2055,6 +2341,8 @@
         {
           "municipality": "Juupajoki",
           "areaCode": "KU177",
+          "lat": 61.8220049,
+          "lon": 24.4470319,
           "url": "/coat-of-arms/img/Pirkanmaa/Juupajoki.png",
           "alt": "Juupajoki municipality coat of arms",
           "blazon": "In a silver field, a red log with a golden spruce branch.",
@@ -2064,6 +2352,8 @@
         {
           "municipality": "Kangasala",
           "areaCode": "KU211",
+          "lat": 61.461221,
+          "lon": 24.1859132,
           "url": "/coat-of-arms/img/Pirkanmaa/Kangasala.png",
           "alt": "Kangasala municipality coat of arms",
           "blazon": "In a silver field, a harp whose joint and neck form an eagle pattern, with seven red droplets arranged 2+2+2+1.",
@@ -2073,6 +2363,8 @@
         {
           "municipality": "Sastamala",
           "areaCode": "KU790",
+          "lat": 61.4532036,
+          "lon": 22.8607278,
           "url": "/coat-of-arms/img/Pirkanmaa/Sastamala.png",
           "alt": "Sastamala municipality coat of arms",
           "blazon": "In a blue field, a golden consecration cross with a cross-corrugated outer edge.’ The coat of arms was designed by Lauri Ahlgrén",
@@ -2082,6 +2374,8 @@
         {
           "municipality": "Kihniö",
           "areaCode": "KU250",
+          "lat": 62.2084145,
+          "lon": 23.2092102,
           "url": "/coat-of-arms/img/Pirkanmaa/Kihniö.png",
           "alt": "Kihniö municipality coat of arms",
           "blazon": "In a blue field, two golden bars with saw-teeth at the bottom.",
@@ -2091,6 +2385,8 @@
         {
           "municipality": "Kuhmoinen",
           "areaCode": "KU291",
+          "lat": 61.6188106,
+          "lon": 25.1595687,
           "url": "/coat-of-arms/img/Pirkanmaa/Kuhmoinen.png",
           "alt": "Kuhmoinen municipality coat of arms",
           "blazon": "In a silver field, three red wavy logs with their upper edges arched.",
@@ -2100,6 +2396,8 @@
         {
           "municipality": "Lempäälä",
           "areaCode": "KU418",
+          "lat": 61.3315587,
+          "lon": 23.7568122,
           "url": "/coat-of-arms/img/Pirkanmaa/Lempäälä.png",
           "alt": "Lempäälä municipality coat of arms",
           "blazon": "In a red field, a wavy gold post, with a black crossbow set on top, with black-tipped gold arrows; at the base of the post, on either side, a golden plowshare.",
@@ -2109,6 +2407,8 @@
         {
           "municipality": "Pälkäne",
           "areaCode": "KU635",
+          "lat": 61.3620858,
+          "lon": 24.4971206,
           "url": "/coat-of-arms/img/Pirkanmaa/Pälkäne.png",
           "alt": "Pälkäne municipality coat of arms",
           "blazon": "In a blue field, a silver water lily with a golden seedpod.",
@@ -2118,6 +2418,8 @@
         {
           "municipality": "Nokia",
           "areaCode": "KU536",
+          "lat": 61.449919,
+          "lon": 23.3545473,
           "url": "/coat-of-arms/img/Pirkanmaa/Nokia.png",
           "alt": "Nokia municipality coat of arms",
           "blazon": "In a gold field, a blue wavy fess, above which a black marten with a red collar is in a standing position.",
@@ -2127,6 +2429,8 @@
         {
           "municipality": "Orivesi",
           "areaCode": "KU562",
+          "lat": 61.6883527,
+          "lon": 24.4976802,
           "url": "/coat-of-arms/img/Pirkanmaa/Orivesi.png",
           "alt": "Orivesi municipality coat of arms",
           "blazon": "In a silver field, a red stallion rearing up, emerging from the blue water extending to the edge of the shield.",
@@ -2136,6 +2440,8 @@
         {
           "municipality": "Parkano",
           "areaCode": "KU581",
+          "lat": 62.0923877,
+          "lon": 22.9434527,
           "url": "/coat-of-arms/img/Pirkanmaa/Parkano.png",
           "alt": "Parkano municipality coat of arms",
           "blazon": "In a blue field, a wavy golden log, with a golden pine tree above, its bark silver. On either side of the tree's top, a seven-pointed silver star.",
@@ -2145,6 +2451,8 @@
         {
           "municipality": "Pirkkala",
           "areaCode": "KU604",
+          "lat": 61.4222152,
+          "lon": 23.6091508,
           "url": "/coat-of-arms/img/Pirkanmaa/Pirkkala.png",
           "alt": "Pirkkala municipality coat of arms",
           "blazon": "A silver and red shield, divided by a fur collar.",
@@ -2154,6 +2462,8 @@
         {
           "municipality": "Punkalaidun",
           "areaCode": "KU619",
+          "lat": 61.1124691,
+          "lon": 23.1492124,
           "url": "/coat-of-arms/img/Pirkanmaa/Punkalaidun.png",
           "alt": "Punkalaidun municipality coat of arms",
           "blazon": "In a blue field, a base with a wattle fence extending from one side of the shield to the other; both in gold.",
@@ -2163,6 +2473,8 @@
         {
           "municipality": "Ruovesi",
           "areaCode": "KU702",
+          "lat": 61.9845962,
+          "lon": 24.0668214,
           "url": "/coat-of-arms/img/Pirkanmaa/Ruovesi.png",
           "alt": "Ruovesi municipality coat of arms",
           "blazon": "In a red field, three silver bream arranged 2 + 1; in a silver chief, a red church boat.",
@@ -2172,6 +2484,8 @@
         {
           "municipality": "Tampere",
           "areaCode": "KU837",
+          "lat": 61.6319891,
+          "lon": 23.8303912,
           "url": "/coat-of-arms/img/Pirkanmaa/Tampere.png",
           "alt": "Tampere municipality coat of arms",
           "blazon": "In a red field, a wavy fess enhanced, with a vertical hammer above and a vertical caduceus below; all in gold.",
@@ -2181,6 +2495,8 @@
         {
           "municipality": "Urjala",
           "areaCode": "KU887",
+          "lat": 61.0898366,
+          "lon": 23.5528827,
           "url": "/coat-of-arms/img/Pirkanmaa/Urjala.png",
           "alt": "Urjala municipality coat of arms",
           "blazon": "In a red field, a silver cross bottony with a golden flame issuing from each corner.",
@@ -2190,6 +2506,8 @@
         {
           "municipality": "Valkeakoski",
           "areaCode": "KU908",
+          "lat": 61.2228645,
+          "lon": 24.0473998,
           "url": "/coat-of-arms/img/Pirkanmaa/Valkeakoski.png",
           "alt": "Valkeakoski municipality coat of arms",
           "blazon": "In a red field, a silver diagonal stream, with a golden spruce tree in the upper field and a golden cogwheel in the lower field.",
@@ -2199,6 +2517,8 @@
         {
           "municipality": "Vesilahti",
           "areaCode": "KU922",
+          "lat": 61.2983463,
+          "lon": 23.4789501,
           "url": "/coat-of-arms/img/Pirkanmaa/Vesilahti.png",
           "alt": "Vesilahti municipality coat of arms",
           "blazon": "On a silver and red split shield, in the right field a red key, and in the left field a silver crane with golden feet, its crown red and tail feathers tipped with black.",
@@ -2208,6 +2528,8 @@
         {
           "municipality": "Mänttä-Vilppula",
           "areaCode": "KU508",
+          "lat": 62.0831898,
+          "lon": 24.3832035,
           "url": "/coat-of-arms/img/Pirkanmaa/Vilppula.png",
           "alt": "Mänttä-Vilppula municipality coat of arms",
           "blazon": "In a red field, a curved log at the bottom, from which three sprigs of pine grow; all silver.",
@@ -2217,6 +2539,8 @@
         {
           "municipality": "Virrat",
           "areaCode": "KU936",
+          "lat": 62.2841953,
+          "lon": 23.7209885,
           "url": "/coat-of-arms/img/Pirkanmaa/Virrat.png",
           "alt": "Virrat municipality coat of arms",
           "blazon": "In a blue field, three wavy silver lines, accompanied by a bear spearhead with a barbed point on each side; all in silver.",
@@ -2226,6 +2550,8 @@
         {
           "municipality": "Ylöjärvi",
           "areaCode": "KU980",
+          "lat": 61.8405457,
+          "lon": 23.546706,
           "url": "/coat-of-arms/img/Pirkanmaa/Ylöjärvi.png",
           "alt": "Ylöjärvi municipality coat of arms",
           "blazon": "In a red field, a forked cross, with a cross in the upper corner; both in gold.",
@@ -2449,6 +2775,8 @@
         {
           "municipality": "Kaskinen",
           "areaCode": "KU231",
+          "lat": 62.3223658,
+          "lon": 20.9820057,
           "url": "/coat-of-arms/img/Pohjanmaa/Kaskinen.png",
           "alt": "Kaskinen municipality coat of arms",
           "blazon": "Per pale, on the dexter azure a rudder oar argent, and on the sinister argent a laurel branch vert.",
@@ -2458,6 +2786,8 @@
         {
           "municipality": "Korsnäs",
           "areaCode": "KU280",
+          "lat": 63.0793939,
+          "lon": 21.6980522,
           "url": "/coat-of-arms/img/Pohjanmaa/Korsnäs.png",
           "alt": "Korsnäs municipality coat of arms",
           "blazon": "In a blue field, two harpoons crossed with points argent and shafts or; in the upper section, a Mantuan cross or.",
@@ -2467,6 +2797,8 @@
         {
           "municipality": "Kristiinankaupunki",
           "areaCode": "KU287",
+          "lat": 62.1729823,
+          "lon": 21.2490295,
           "url": "/coat-of-arms/img/Pohjanmaa/Kristiinankaupunki.png",
           "alt": "Kristiinankaupunki municipality coat of arms",
           "blazon": "In a waved silver and blue shield, in the right field, eleven green spruces growing from the field, arranged 3 + 3 + 3 + 2.",
@@ -2476,6 +2808,8 @@
         {
           "municipality": "Kruunupyy",
           "areaCode": "KU288",
+          "lat": 63.5860155,
+          "lon": 23.286879,
           "url": "/coat-of-arms/img/Pohjanmaa/Kruunupyy.png",
           "alt": "Kruunupyy municipality coat of arms",
           "blazon": "In a red field, a crowned clover cross, with the descending arm forming an inverted plowshare, all in gold.",
@@ -2485,6 +2819,8 @@
         {
           "municipality": "Laihia",
           "areaCode": "KU399",
+          "lat": 62.9001713,
+          "lon": 22.0318728,
           "url": "/coat-of-arms/img/Pohjanmaa/Laihia.png",
           "alt": "Laihia municipality coat of arms",
           "blazon": "In a green field, a silver squirrel sitting on a golden branch, holding a golden pine cone in its front paws.",
@@ -2494,6 +2830,8 @@
         {
           "municipality": "Luoto",
           "areaCode": "KU440",
+          "lat": 63.0913325,
+          "lon": 21.5640579,
           "url": "/coat-of-arms/img/Pohjanmaa/Luoto.png",
           "alt": "Luoto municipality coat of arms",
           "blazon": "In a blue field, a silver two-masted fishing boat.",
@@ -2503,6 +2841,8 @@
         {
           "municipality": "Maalahti",
           "areaCode": "KU475",
+          "lat": 63.0021521,
+          "lon": 20.9743493,
           "url": "/coat-of-arms/img/Pohjanmaa/Maalahti.png",
           "alt": "Maalahti municipality coat of arms",
           "blazon": "In a blue field, a wavy base and three padlocks arranged 2:1, all in silver.",
@@ -2512,6 +2852,8 @@
         {
           "municipality": "Mustasaari",
           "areaCode": "KU499",
+          "lat": 63.2624605,
+          "lon": 21.1822855,
           "url": "/coat-of-arms/img/Pohjanmaa/Mustasaari.png",
           "alt": "Mustasaari municipality coat of arms",
           "blazon": "In a red field, a cross formed by a triple scythe and a double staff extending to the edges, with a ring surrounding the intersection of the cross, all in gold; the designs are woven together.",
@@ -2521,6 +2863,8 @@
         {
           "municipality": "Närpiö",
           "areaCode": "KU545",
+          "lat": 62.4857212,
+          "lon": 21.1285106,
           "url": "/coat-of-arms/img/Pohjanmaa/Närpiö.png",
           "alt": "Närpiö municipality coat of arms",
           "blazon": "In a red field, an inverted golden water leaf with silver wings.",
@@ -2530,6 +2874,8 @@
         {
           "municipality": "Pedersöre",
           "areaCode": "KU599",
+          "lat": 63.5416069,
+          "lon": 22.9649323,
           "url": "/coat-of-arms/img/Pohjanmaa/Pedersöre.png",
           "alt": "Pedersöre municipality coat of arms",
           "blazon": "In a red field, an ear of barley surrounded by three nail crosses, all in gold.",
@@ -2539,6 +2885,8 @@
         {
           "municipality": "Pietarsaari",
           "areaCode": "KU598",
+          "lat": 63.721697,
+          "lon": 22.4010988,
           "url": "/coat-of-arms/img/Pohjanmaa/Pietarsaari.png",
           "alt": "Pietarsaari municipality coat of arms",
           "blazon": "In a golden field, a blue wavy base from which rises a red tower; from the tower rises a blue lion, red armed, crowned with a red crown, its tail bifurcated; the lion holds in its right paw a blue sword with a red hilt, raised in the ready position.",
@@ -2548,6 +2896,8 @@
         {
           "municipality": "Uusikaarlepyy",
           "areaCode": "KU893",
+          "lat": 63.5210002,
+          "lon": 22.2900991,
           "url": "/coat-of-arms/img/Pohjanmaa/Uusikaarlepyy.png",
           "alt": "Uusikaarlepyy municipality coat of arms",
           "blazon": "In a blue shield, a golden tar barrel standing upright, with golden, red-tipped flames emerging from the lid and both sides.",
@@ -2557,6 +2907,8 @@
         {
           "municipality": "Vaasa",
           "areaCode": "KU905",
+          "lat": 63.0691459,
+          "lon": 21.634975,
           "url": "/coat-of-arms/img/Pohjanmaa/Vaasa.png",
           "alt": "Vaasa municipality coat of arms",
           "blazon": "In a red field, the golden symbol of the Vaasa family, beneath which hangs a gold-and-white Cross of Liberty, surrounded by golden laurel wreaths and swords, suspended from a golden ribbon inscribed with two red lines, which encircles the bottom of the shield.",
@@ -2566,6 +2918,8 @@
         {
           "municipality": "Vöyri",
           "areaCode": "KU946",
+          "lat": 63.3631662,
+          "lon": 22.0076719,
           "url": "/coat-of-arms/img/Pohjanmaa/Vöyri.png",
           "alt": "Vöyri municipality coat of arms",
           "blazon": "In a blue field, a water spirit holding a fish in its right hand and a cloverleaf in its left; all silver.",
@@ -2765,6 +3119,8 @@
         {
           "municipality": "Heinävesi",
           "areaCode": "KU090",
+          "lat": 62.4309736,
+          "lon": 28.7169877,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Heinävesi.png",
           "alt": "Heinävesi municipality coat of arms",
           "blazon": "A silver wavy fess on a green background, with three log rafts connected by golden chains arranged in a row.",
@@ -2774,6 +3130,8 @@
         {
           "municipality": "Ilomantsi",
           "areaCode": "KU146",
+          "lat": 62.7900455,
+          "lon": 30.972795,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Ilomantsi.png",
           "alt": "Ilomantsi municipality coat of arms",
           "blazon": "The shield is divided horizontally into two sections: the upper part is red, and the lower part is black. Across the middle, there are three silver five-stringed kanteles, arranged in a row. The strings of the kanteles are depicted in black.",
@@ -2783,6 +3141,8 @@
         {
           "municipality": "Joensuu",
           "areaCode": "KU167",
+          "lat": 62.6491962,
+          "lon": 30.3533004,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Joensuu.png",
           "alt": "Joensuu municipality coat of arms",
           "blazon": "The shield is divided horizontally into three sections with a zigzag line, alternating in colors: red at the top, silver in the middle, and black at the bottom.",
@@ -2792,6 +3152,8 @@
         {
           "municipality": "Juuka",
           "areaCode": "KU176",
+          "lat": 63.209057,
+          "lon": 29.2023951,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Juuka.png",
           "alt": "Juuka municipality coat of arms",
           "blazon": "A red field featuring a silver birch tree adorned with golden catkins.",
@@ -2801,6 +3163,8 @@
         {
           "municipality": "Kitee",
           "areaCode": "KU260",
+          "lat": 62.054716,
+          "lon": 29.9450871,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Kitee.png",
           "alt": "Kitee municipality coat of arms",
           "blazon": "Divided horizontally into red and black, featuring a silver ship's wheel.",
@@ -2810,6 +3174,8 @@
         {
           "municipality": "Kontiolahti",
           "areaCode": "KU276",
+          "lat": 62.8160037,
+          "lon": 29.9240219,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Kontiolahti.png",
           "alt": "Kontiolahti municipality coat of arms",
           "blazon": "In a silver field, a bear standing upright holding a log driving hook over its shoulder, all in black, except for the bear's equipment and the shaft of the hook, which are red.",
@@ -2819,6 +3185,8 @@
         {
           "municipality": "Lieksa",
           "areaCode": "KU422",
+          "lat": 63.3777849,
+          "lon": 30.3539692,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Lieksa.png",
           "alt": "Lieksa municipality coat of arms",
           "blazon": "In a red field, a man with a crossbow, wearing a fur hat and an axe at his belt, rising from the base; all silver.",
@@ -2828,6 +3196,8 @@
         {
           "municipality": "Liperi",
           "areaCode": "KU426",
+          "lat": 62.5410481,
+          "lon": 29.3523311,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Liperi.png",
           "alt": "Liperi municipality coat of arms",
           "blazon": "A red repeating cross on a silver field.",
@@ -2837,6 +3207,8 @@
         {
           "municipality": "Nurmes",
           "areaCode": "KU541",
+          "lat": 63.6152301,
+          "lon": 29.0674647,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Nurmes.png",
           "alt": "Nurmes municipality coat of arms",
           "blazon": "In a red field, three silver bear spearheads standing upright side by side.",
@@ -2846,6 +3218,8 @@
         {
           "municipality": "Outokumpu",
           "areaCode": "KU309",
+          "lat": 62.7093252,
+          "lon": 28.9683296,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Outokumpu.png",
           "alt": "Outokumpu municipality coat of arms",
           "blazon": "In a red field, a spruce crown with a copper symbol beneath it; all in gold.",
@@ -2855,6 +3229,8 @@
         {
           "municipality": "Polvijärvi",
           "areaCode": "KU607",
+          "lat": 62.8952093,
+          "lon": 29.3270834,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Polvijärvi.png",
           "alt": "Polvijärvi municipality coat of arms",
           "blazon": "In a silver field, a red bend with three silver flying geese in a row.",
@@ -2864,6 +3240,8 @@
         {
           "municipality": "Rääkkylä",
           "areaCode": "KU707",
+          "lat": 62.2767683,
+          "lon": 29.6656235,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Rääkkylä.png",
           "alt": "Rääkkylä municipality coat of arms",
           "blazon": "In a red field, two black embers crossed, with flames in silver.",
@@ -2873,6 +3251,8 @@
         {
           "municipality": "Tohmajärvi",
           "areaCode": "KU848",
+          "lat": 62.2385055,
+          "lon": 30.3694176,
           "url": "/coat-of-arms/img/Pohjois-Karjala/Tohmajärvi.png",
           "alt": "Tohmajärvi municipality coat of arms",
           "blazon": "In a black and red partitioned shield, a silver birch branch on a post.",
@@ -2976,6 +3356,8 @@
         {
           "municipality": "Alavieska",
           "areaCode": "KU009",
+          "lat": 64.1708193,
+          "lon": 24.3632942,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Alavieska.png",
           "alt": "Alavieska municipality coat of arms",
           "blazon": "In a green field, two silver scythes crossed in saltire, with golden blades.",
@@ -2985,6 +3367,8 @@
         {
           "municipality": "Haapajärvi",
           "areaCode": "KU069",
+          "lat": 63.7582165,
+          "lon": 25.3116823,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Haapajärvi.png",
           "alt": "Haapajärvi municipality coat of arms",
           "blazon": "On a blue field, a silver winged arrow with a golden point and feathers.",
@@ -2994,6 +3378,8 @@
         {
           "municipality": "Haapavesi",
           "areaCode": "KU071",
+          "lat": 64.1475399,
+          "lon": 25.3214774,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Haapavesi.png",
           "alt": "Haapavesi municipality coat of arms",
           "blazon": "In a blue field, a silver aspen, beneath it a wave-shaped silver base, with a blue, gold-tipped snowshoe.",
@@ -3003,6 +3389,8 @@
         {
           "municipality": "Hailuoto",
           "areaCode": "KU072",
+          "lat": 65.0361851,
+          "lon": 24.5866555,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Hailuoto.png",
           "alt": "Hailuoto municipality coat of arms",
           "blazon": "In a blue field, a silver sea scythe.",
@@ -3012,6 +3400,8 @@
         {
           "municipality": "Kalajoki",
           "areaCode": "KU208",
+          "lat": 64.2243637,
+          "lon": 23.562722,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Kalajoki.png",
           "alt": "Kalajoki municipality coat of arms",
           "blazon": "On a gold field, a blue two-masted schooner.",
@@ -3021,6 +3411,8 @@
         {
           "municipality": "Kärsämäki",
           "areaCode": "KU317",
+          "lat": 63.9487465,
+          "lon": 25.8882414,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Kärsämäki.png",
           "alt": "Kärsämäki municipality coat of arms",
           "blazon": "In a silver field, a blue base and a blue boat, from which rise seven red flames.",
@@ -3030,6 +3422,8 @@
         {
           "municipality": "Kempele",
           "areaCode": "KU244",
+          "lat": 64.8953688,
+          "lon": 25.5774779,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Kempele.png",
           "alt": "Kempele municipality coat of arms",
           "blazon": "On a blue field, a silver wave-shaped left side and two silver ducks flying upwards, one above the other.",
@@ -3039,6 +3433,8 @@
         {
           "municipality": "Ii",
           "areaCode": "KU139",
+          "lat": 65.5169043,
+          "lon": 25.1488007,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Ii.png",
           "alt": "Ii municipality coat of arms",
           "blazon": "On a silver field, a wave-shaped left flank and a seal, both in blue.",
@@ -3048,6 +3444,8 @@
         {
           "municipality": "Kuusamo",
           "areaCode": "KU305",
+          "lat": 65.9869472,
+          "lon": 29.253354,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Kuusamo.png",
           "alt": "Kuusamo municipality coat of arms",
           "blazon": "On a red field, a silver running reindeer, with a golden aurora borealis above it.",
@@ -3057,6 +3455,8 @@
         {
           "municipality": "Liminka",
           "areaCode": "KU425",
+          "lat": 64.6775363,
+          "lon": 25.7297769,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Liminka.png",
           "alt": "Liminka municipality coat of arms",
           "blazon": "In a blue field, a wavy silver base and three walking ermines in a row; all other elements are silver except the tips of the ermine tails, which are black.",
@@ -3066,6 +3466,8 @@
         {
           "municipality": "Lumijoki",
           "areaCode": "KU436",
+          "lat": 64.8583381,
+          "lon": 25.1417542,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Lumijoki.png",
           "alt": "Lumijoki municipality coat of arms",
           "blazon": "In a blue field, a wave-shaped log, above which is a snowflake; both in silver.",
@@ -3075,6 +3477,8 @@
         {
           "municipality": "Merijärvi",
           "areaCode": "KU483",
+          "lat": 64.2858327,
+          "lon": 24.5530079,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Merijärvi.png",
           "alt": "Merijärvi municipality coat of arms",
           "blazon": "In a blue field, a ring attached to a swivel, rising from a curved base, all in silver.",
@@ -3084,6 +3488,8 @@
         {
           "municipality": "Muhos",
           "areaCode": "KU494",
+          "lat": 64.7299726,
+          "lon": 26.127453,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Muhos.png",
           "alt": "Muhos municipality coat of arms",
           "blazon": "On a shield divided by a wave-pattern line, the blue upper section features a silver salmon, and the silver lower section displays three blue zigzag lightning bolts side by side.",
@@ -3093,6 +3499,8 @@
         {
           "municipality": "Nivala",
           "areaCode": "KU535",
+          "lat": 63.9158724,
+          "lon": 25.0020475,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Nivala.png",
           "alt": "Nivala municipality coat of arms",
           "blazon": "In a green field, a one-sided golden wooden gate.",
@@ -3102,6 +3510,8 @@
         {
           "municipality": "Oulainen",
           "areaCode": "KU563",
+          "lat": 64.2512782,
+          "lon": 24.8954669,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Oulainen.png",
           "alt": "Oulainen municipality coat of arms",
           "blazon": "On a green field, an upright golden crayfish.",
@@ -3111,6 +3521,8 @@
         {
           "municipality": "Oulu",
           "areaCode": "KU564",
+          "lat": 65.2043821,
+          "lon": 25.4432305,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Oulu.png",
           "alt": "Oulu municipality coat of arms",
           "blazon": "In a red field, a golden castle with blue gate and window openings, rising from a silver base; the castle has four domed towers adorned with pennants. In the base, a blue salmon with red details.",
@@ -3119,7 +3531,9 @@
         },
         {
           "municipality": "Pudasjärvi",
-          "areaCode": "",
+          "areaCode": "KU615",
+          "lat": 65.5236956,
+          "lon": 27.1588095,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pudasjärvi.png",
           "alt": "Pudasjärvi municipality coat of arms",
           "blazon": "In a gold field, a black, walking bear with red claws and tongue, above which is a black spruce crown chief featuring the seven-starred constellation of the Big Dipper; each star gold and five-pointed.",
@@ -3128,7 +3542,9 @@
         },
         {
           "municipality": "Pyhäjärvi",
-          "areaCode": "KU615",
+          "areaCode": "KU626",
+          "lat": 63.6777327,
+          "lon": 25.8200014,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pyhäjärvi.png",
           "alt": "Pyhäjärvi municipality coat of arms",
           "blazon": "In a blue field, a pointed boundary post rising, with a cross on each side; all in silver.",
@@ -3138,6 +3554,8 @@
         {
           "municipality": "Pyhäjoki",
           "areaCode": "KU625",
+          "lat": 64.4692175,
+          "lon": 24.0151454,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pyhäjoki.png",
           "alt": "Pyhäjoki municipality coat of arms",
           "blazon": "In a blue field, a silver goose with golden gear, beneath which is a golden crown and cross, arranged upright.",
@@ -3147,6 +3565,8 @@
         {
           "municipality": "Pyhäntä",
           "areaCode": "KU630",
+          "lat": 64.0411239,
+          "lon": 26.5052555,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Pyhäntä.png",
           "alt": "Pyhäntä municipality coat of arms",
           "blazon": "In a red field, three horizontal logs, with five pointed posts rising from the base above them; all in silver.",
@@ -3156,6 +3576,8 @@
         {
           "municipality": "Raahe",
           "areaCode": "KU678",
+          "lat": 64.6231284,
+          "lon": 24.3055751,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Raahe.png",
           "alt": "Raahe municipality coat of arms",
           "blazon": "In a red field, a silver wave-like base, from which rises a golden buoy (a maritime mark); above it, a knight in armor riding a rearing horse, holding a lance with a pennon in his right hand; all other elements in silver except the helmet’s visor, the pennon, the reins, the saddle blanket, and the spurs, which are gold.",
@@ -3165,6 +3587,8 @@
         {
           "municipality": "Reisjärvi",
           "areaCode": "KU691",
+          "lat": 63.6081186,
+          "lon": 24.9400202,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Reisjärvi.png",
           "alt": "Reisjärvi municipality coat of arms",
           "blazon": "In a blue field, a silver five-pronged ploughshare.",
@@ -3174,6 +3598,8 @@
         {
           "municipality": "Sievi",
           "areaCode": "KU746",
+          "lat": 63.8391422,
+          "lon": 24.5477944,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Sievi.png",
           "alt": "Sievi municipality coat of arms",
           "blazon": "On a green field, a clover-crowned gable (upper field) and a wave-like log; both in gold.",
@@ -3183,6 +3609,8 @@
         {
           "municipality": "Siikajoki",
           "areaCode": "KU748",
+          "lat": 64.7121808,
+          "lon": 24.7363097,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Siikajoki.png",
           "alt": "Siikajoki municipality coat of arms",
           "blazon": "On a blue shield, a log with a saw-tooth pattern at the top and a wave-like base at the bottom, with three six-pointed stars arranged in a row above and a white whitefish below; all in silver.",
@@ -3192,6 +3620,8 @@
         {
           "municipality": "Siikalatva",
           "areaCode": "KU791",
+          "lat": 64.31209,
+          "lon": 26.0752182,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Siikalatva.png",
           "alt": "Siikalatva municipality coat of arms",
           "blazon": "On a blue shield, a wave-like base and four flying swans arranged in a cross; all in silver.",
@@ -3201,6 +3631,8 @@
         {
           "municipality": "Taivalkoski",
           "areaCode": "KU832",
+          "lat": 65.5482759,
+          "lon": 28.4658883,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Taivalkoski.png",
           "alt": "Taivalkoski municipality coat of arms",
           "blazon": "In a red field, a crosscut saw, above which a spruce crown; all in silver.",
@@ -3210,6 +3642,8 @@
         {
           "municipality": "Tyrnävä",
           "areaCode": "KU859",
+          "lat": 64.7335927,
+          "lon": 25.8152752,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Tyrnävä.png",
           "alt": "Tyrnävä municipality coat of arms",
           "blazon": "In a blue field, three silver barns with red doors, arranged 2 + 1.",
@@ -3219,6 +3653,8 @@
         {
           "municipality": "Utajärvi",
           "areaCode": "KU889",
+          "lat": 64.8325283,
+          "lon": 26.7732292,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Utajärvi.png",
           "alt": "Utajärvi municipality coat of arms",
           "blazon": "In a green field, a silver wave-shaped counterbar, with a black tar boat.",
@@ -3228,6 +3664,8 @@
         {
           "municipality": "Vaala",
           "areaCode": "KU785",
+          "lat": 64.5497441,
+          "lon": 26.844052,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Vaala.png",
           "alt": "Vaala municipality coat of arms",
           "blazon": "In a red field, a bent knee cross, from which rises a three-pronged tower; both in silver.",
@@ -3237,6 +3675,8 @@
         {
           "municipality": "Ylivieska",
           "areaCode": "KU977",
+          "lat": 64.0635781,
+          "lon": 24.6630551,
           "url": "/coat-of-arms/img/Pohjois-Pohjanmaa/Ylivieska.png",
           "alt": "Ylivieska municipality coat of arms",
           "blazon": "In a silver field, a blue cloverleaf-shaped forked cross.",
@@ -3412,6 +3852,8 @@
         {
           "municipality": "Iisalmi",
           "areaCode": "KU140",
+          "lat": 63.4944383,
+          "lon": 27.228341,
           "url": "/coat-of-arms/img/Pohjois-Savo/Iisalmi.png",
           "alt": "Iisalmi municipality coat of arms",
           "blazon": "A black and gold divided shield, with a vertically positioned drawn crossbow in the upper field, all in gold, and in the lower field, two crossed matchlocks, with four roses arranged 1 + 2 + 1 around the shafts, all in black.",
@@ -3421,6 +3863,8 @@
         {
           "municipality": "Joroinen",
           "areaCode": "KU171",
+          "lat": 62.1812614,
+          "lon": 27.7928896,
           "url": "/coat-of-arms/img/Pohjois-Savo/Joroinen.png",
           "alt": "Joroinen municipality coat of arms",
           "blazon": "On a gold field, a black bull's head with red horns facing forward, accompanied by three black cannonballs, one above the head and one on each side.",
@@ -3430,6 +3874,8 @@
         {
           "municipality": "Kaavi",
           "areaCode": "KU204",
+          "lat": 62.9548147,
+          "lon": 28.741727,
           "url": "/coat-of-arms/img/Pohjois-Savo/Kaavi.png",
           "alt": "Kaavi municipality coat of arms",
           "blazon": "On a red field, a silver wavy-pointed section directed to the right.",
@@ -3439,6 +3885,8 @@
         {
           "municipality": "Keitele",
           "areaCode": "KU239",
+          "lat": 63.2176061,
+          "lon": 26.3465162,
           "url": "/coat-of-arms/img/Pohjois-Savo/Keitele.png",
           "alt": "Keitele municipality coat of arms",
           "blazon": "On a black field, three gold seine boats arranged one below the other.",
@@ -3448,6 +3896,8 @@
         {
           "municipality": "Kiuruvesi",
           "areaCode": "KU263",
+          "lat": 63.6985356,
+          "lon": 26.5450897,
           "url": "/coat-of-arms/img/Pohjois-Savo/Kiuruvesi.png",
           "alt": "Kiuruvesi municipality coat of arms",
           "blazon": "On a black field, a golden skylark with wings spread, accompanied below by three silver water leaves arranged 2 + 1.",
@@ -3457,6 +3907,8 @@
         {
           "municipality": "Kuopio",
           "areaCode": "KU297",
+          "lat": 62.99776,
+          "lon": 27.8262781,
           "url": "/coat-of-arms/img/Pohjois-Savo/Kuopio.png",
           "alt": "Kuopio municipality coat of arms",
           "blazon": "In the black upper field, a golden, vertically drawn bow with a silver arrow (its tip and feathering in silver) is depicted beneath a golden crown. In the silver lower field, a red, single-tower church with black door and window openings is displayed.",
@@ -3466,6 +3918,8 @@
         {
           "municipality": "Lapinlahti",
           "areaCode": "KU402",
+          "lat": 63.3519569,
+          "lon": 27.6248225,
           "url": "/coat-of-arms/img/Pohjois-Savo/Lapinlahti.png",
           "alt": "Lapinlahti municipality coat of arms",
           "blazon": "Sable, a slash-and-burn farmer with a clearing tool; his face and hands in natural color, his footwear and tool's base gules; flanked by two six-pointed stars.",
@@ -3475,6 +3929,8 @@
         {
           "municipality": "Leppävirta",
           "areaCode": "KU420",
+          "lat": 62.3248013,
+          "lon": 28.1883629,
           "url": "/coat-of-arms/img/Pohjois-Savo/Leppävirta.png",
           "alt": "Leppävirta municipality coat of arms",
           "blazon": "At the base of the black field, a wavy golden log, above which is a golden alder with red catkins and buds.",
@@ -3484,6 +3940,8 @@
         {
           "municipality": "Pielavesi",
           "areaCode": "KU595",
+          "lat": 63.2792254,
+          "lon": 26.6433513,
           "url": "/coat-of-arms/img/Pohjois-Savo/Pielavesi.png",
           "alt": "Pielavesi municipality coat of arms",
           "blazon": "In the black field, two upright silver birch bark horns facing each other, with a golden, nail-headed shamrock cross in the upper corners and on both sides.",
@@ -3493,6 +3951,8 @@
         {
           "municipality": "Rautalampi",
           "areaCode": "KU686",
+          "lat": 62.6365832,
+          "lon": 26.7283603,
           "url": "/coat-of-arms/img/Pohjois-Savo/Rautalampi.png",
           "alt": "Rautalampi municipality coat of arms",
           "blazon": "A shield divided into two wavy sections, with black, silver, and red fields; in each color field, a silver iron mark.",
@@ -3502,6 +3962,8 @@
         {
           "municipality": "Rautavaara",
           "areaCode": "KU687",
+          "lat": 63.4794847,
+          "lon": 28.4002093,
           "url": "/coat-of-arms/img/Pohjois-Savo/Rautavaara.png",
           "alt": "Rautavaara municipality coat of arms",
           "blazon": "In the black field, a triple mountain, above which are two crossed axes, all in silver; on the mountain, a red iron mark.",
@@ -3511,6 +3973,8 @@
         {
           "municipality": "Siilinjärvi",
           "areaCode": "KU749",
+          "lat": 63.1018472,
+          "lon": 27.6435277,
           "url": "/coat-of-arms/img/Pohjois-Savo/Siilinjärvi.png",
           "alt": "Siilinjärvi municipality coat of arms",
           "blazon": "In a black field, two golden sickles (kasara) crossed in saltire, beneath them a water leaf, all in gold.",
@@ -3520,6 +3984,8 @@
         {
           "municipality": "Sonkajärvi",
           "areaCode": "KU762",
+          "lat": 63.7499265,
+          "lon": 27.6436832,
           "url": "/coat-of-arms/img/Pohjois-Savo/Sonkajärvi.png",
           "alt": "Sonkajärvi municipality coat of arms",
           "blazon": "In a black field, a golden mill wheel from which five golden-red flames rise.",
@@ -3529,6 +3995,8 @@
         {
           "municipality": "Suonenjoki",
           "areaCode": "KU778",
+          "lat": 62.6461546,
+          "lon": 27.1833103,
           "url": "/coat-of-arms/img/Pohjois-Savo/Suonenjoki.png",
           "alt": "Suonenjoki municipality coat of arms",
           "blazon": "In a black field, a strawberry leaf surrounded by a ring, both in gold.",
@@ -3538,6 +4006,8 @@
         {
           "municipality": "Tervo",
           "areaCode": "KU844",
+          "lat": 62.9639727,
+          "lon": 26.8359892,
           "url": "/coat-of-arms/img/Pohjois-Savo/Tervo.png",
           "alt": "Tervo municipality coat of arms",
           "blazon": "In a blue field, golden sides with five golden loose logs arranged in the pattern 2:1:2.",
@@ -3547,6 +4017,8 @@
         {
           "municipality": "Tuusniemi",
           "areaCode": "KU857",
+          "lat": 62.7722574,
+          "lon": 28.4553902,
           "url": "/coat-of-arms/img/Pohjois-Savo/Tuusniemi.png",
           "alt": "Tuusniemi municipality coat of arms",
           "blazon": "On a gold field, a black arching bow with a black capercaillie with red underparts standing on it, and three gold crowns arranged in the pattern 2:1 in the base.",
@@ -3556,6 +4028,8 @@
         {
           "municipality": "Varkaus",
           "areaCode": "KU915",
+          "lat": 62.2607688,
+          "lon": 28.1967339,
           "url": "/coat-of-arms/img/Pohjois-Savo/Varkaus.png",
           "alt": "Varkaus municipality coat of arms",
           "blazon": "On a black field, a protruding bent arm holding a log-built anchor; all in gold.",
@@ -3565,6 +4039,8 @@
         {
           "municipality": "Vesanto",
           "areaCode": "KU921",
+          "lat": 62.8956569,
+          "lon": 26.360576,
           "url": "/coat-of-arms/img/Pohjois-Savo/Vesanto.png",
           "alt": "Vesanto municipality coat of arms",
           "blazon": "On a black field, five golden strings.",
@@ -3574,6 +4050,8 @@
         {
           "municipality": "Vieremä",
           "areaCode": "KU925",
+          "lat": 63.8237277,
+          "lon": 26.9586703,
           "url": "/coat-of-arms/img/Pohjois-Savo/Vieremä.png",
           "alt": "Vieremä municipality coat of arms",
           "blazon": "In a black field, a crooked knee-pole with a branch of coniferous tree growing from it; both in gold.",

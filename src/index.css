@@ -299,6 +299,12 @@ a {
   display: flex;
 }
 
+/* POPULATION COMPONENT ONLY VALUE FROM STAT.FI*/
+.population-value-statFi {
+  margin-left: 5px;
+}
+/* POPULATION COMPONENT ENDS*/
+
 .weather-info {
 }
 
@@ -333,13 +339,11 @@ a {
   margin: 2rem;
 }
 
-/* POPULATION COMPONENT */
-
-.population-value-statFi {
-  margin-left: 5px;
+/* MAP COMPONENT, LOCATION OF MUNICIPALITY */
+#map {
+  height: 180px;
 }
-
-/* POPULATION COMPONENT ENDS*/
+/* MAP COMPONENT ENDS*/
 
 /* ERROR PAGE */
 #searchError-page-wrpper {
