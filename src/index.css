@@ -343,6 +343,47 @@ a {
 #map {
   height: 180px;
 }
+
+.map-container {
+  height: 400px;
+  width: 100%;
+
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+@media (max-width: 768px) {
+  .map-container {
+    height: 300px;
+    aspect-ratio: 4 / 3;
+  }
+}
+
+@media (max-width: 480px) {
+  .map-container {
+    height: 200px;
+    aspect-ratio: 1 / 1;
+  }
+}
+
+/* CSS properties written already in Leaflet library, to know class/id names look in browser dev tools */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: var(--blue);
+}
+
+.leaflet-popup-content-wrapper {
+  outline: var(--white) solid 2px;
+}
+
+.leaflet-popup-tip {
+  border: var(--white) solid 2px;
+}
+
+.leaflet-popup-content {
+  color: var(--white);
+}
+
 /* MAP COMPONENT ENDS*/
 
 /* ERROR PAGE */

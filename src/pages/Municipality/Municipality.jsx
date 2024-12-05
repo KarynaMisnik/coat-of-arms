@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react";
 import Paper from "@mui/material/Paper";
 import { useParams } from "react-router-dom";
 import Population from "../../components/Population";
+import Map from "../../components/Map";
+import Weather from "../../components/Weather";
 
 const Municipality = () => {
   const { regionName, municipalityName } = useParams();
@@ -9,8 +11,18 @@ const Municipality = () => {
 
   useEffect(() => {
     // Fetch data for the specific municipality based on regionName and municipalityName
+
+    {
+      /*
     import("/src/data/regions.json")
       .then((module) => module.default)
+      .then((jsonData) => {
+        TESTING
+*/
+    }
+
+    fetch("/src/data/regions.json")
+      .then((response) => response.json())
       .then((jsonData) => {
         // Find the selected region in the data
         const selectedRegion = jsonData.regions.find(
@@ -44,6 +56,11 @@ const Municipality = () => {
   if (!municipalityData) {
     return <div>Loading...</div>;
   }
+  const { lat, lon, municipality } = municipalityData;
+
+  if (!lat || !lon) {
+    return <div>Location data is not available for this municipality.</div>;
+  }
 
   return (
     <div className="municipality-page-wrapper">
@@ -63,7 +80,7 @@ const Municipality = () => {
           {/* Use dynamic areaCode */}
         </p>
 
-        {/* <p className="weather-info">Weather Info: -3</p> */}
+        <Weather lat={lat} lon={lon} municipalityName={municipalityName} />
       </Paper>
       <div className="municipality-img-description-wrapper">
         <Paper
@@ -96,7 +113,9 @@ const Municipality = () => {
             <p className="municipality-description details">
               {municipalityData.municipalityDescription}
             </p>
-            <div id="map"></div>
+            <div id="map">
+              <Map lat={lat} lon={lon} municipality={municipality} />
+            </div>
           </div>
         </Paper>
       </div>

@@ -45,3 +45,31 @@ export async function fetchPopulationData(areaCode, month) {
     return null;
   }
 }
+
+// src/utils/apiHelper.js
+
+const OpenMeteoData = "https://api.open-meteo.com/v1/forecast";
+
+/**
+ * Fetch weather data from Open-Meteo API.
+ * @param {number} lat - Latitude of the location.
+ * @param {number} lon - Longitude of the location.
+ * @returns {Promise<Object>} Weather data as JSON.
+ */
+export const fetchWeatherData = async (lat, lon) => {
+  try {
+    const response = await fetch(
+      `${OpenMeteoData}?latitude=${lat}&longitude=${lon}&current_weather=true`
+    );
+
+    if (!response.ok) {
+      throw new Error("Failed to fetch weather data");
+    }
+
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error("Error fetching weather data:", error);
+    return null;
+  }
+};

@@ -1,4 +1,6 @@
 import * as React from "react";
+import { useState, useEffect } from "react";
+
 import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
 import CssBaseline from "@mui/material/CssBaseline";
@@ -14,9 +16,9 @@ import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
 import { NavLink } from "react-router-dom";
-
 import { styled } from "@mui/material/styles";
 import InputBase from "@mui/material/InputBase";
+import Randomizer from "./Randomizer";
 
 import Searchbar from "./Searchbar";
 
@@ -33,6 +35,7 @@ const navItems = ["Home", "About"];
 export default function Navbar(props) {
   const { window } = props;
   const [mobileOpen, setMobileOpen] = React.useState(false);
+  const [regions, setRegions] = useState([]);
 
   const handleDrawerToggle = () => {
     setMobileOpen((prevState) => !prevState);
@@ -92,6 +95,7 @@ export default function Navbar(props) {
             </NavLink>
           </ListItem>
         ))}
+        <Randomizer regions={regions} />
       </List>
       {/* Possible to add other elemnts in menu drawer */}
     </Box>
@@ -130,7 +134,10 @@ export default function Navbar(props) {
           <Typography
             variant="h6"
             component="div"
-            sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
+            sx={{
+              flexGrow: 1,
+              display: { xs: "none", sm: "block" },
+            }}
             {...navText}
           >
             Finnish Emblem
@@ -151,15 +158,8 @@ export default function Navbar(props) {
               </NavLink>
             ))}
           </Box>
+          <Randomizer regions={regions} />
           <Searchbar />
-          {/* SEARCH BAR HERE 
-          <Search>
-            <StyledInputBase
-              placeholder="Search…"
-              inputProps={{ "aria-label": "search" }}
-            />
-          </Search>
-          */}
         </Toolbar>
       </AppBar>
       <nav>
