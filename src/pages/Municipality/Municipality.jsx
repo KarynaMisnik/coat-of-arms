@@ -18,11 +18,15 @@ const Municipality = () => {
       .then((module) => module.default)
       .then((jsonData) => {
         TESTING
+
+fetch("/src/data/regions.json")
+        .then((response) => response.json())
+      .then((jsonData) => {
 */
     }
 
-    fetch("/src/data/regions.json")
-      .then((response) => response.json())
+    import("/src/data/regions.json")
+      .then((module) => module.default)
       .then((jsonData) => {
         // Find the selected region in the data
         const selectedRegion = jsonData.regions.find(
