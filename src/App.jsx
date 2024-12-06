@@ -22,7 +22,7 @@ function App() {
       <Navbar pages={pages} />
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route path="/" element={<Randomizer />} />
+        <Route path="/randomizer" element={<Randomizer />} />
         <Route path="/home" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/quiz" element={<Quiz />} />
