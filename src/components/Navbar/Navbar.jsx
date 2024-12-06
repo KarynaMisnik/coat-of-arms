@@ -18,7 +18,11 @@ import Button from "@mui/material/Button";
 import { NavLink } from "react-router-dom";
 import { styled } from "@mui/material/styles";
 import InputBase from "@mui/material/InputBase";
+{
+  /* Doesn't work in github pages, fixes nedded
 import Randomizer from "./Randomizer";
+*/
+}
 
 import Searchbar from "./Searchbar";
 
@@ -95,7 +99,9 @@ export default function Navbar(props) {
             </NavLink>
           </ListItem>
         ))}
-        <Randomizer regions={regions} />
+        {/* Use later
+          <Randomizer regions={regions} />
+          */}
       </List>
       {/* Possible to add other elemnts in menu drawer */}
     </Box>
@@ -158,7 +164,9 @@ export default function Navbar(props) {
               </NavLink>
             ))}
           </Box>
+          {/* Use later
           <Randomizer regions={regions} />
+          */}
           <Searchbar />
         </Toolbar>
       </AppBar>
