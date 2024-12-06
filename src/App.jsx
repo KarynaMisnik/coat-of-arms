@@ -7,7 +7,6 @@ import Region from "./pages/Region/Region";
 import SearchError from "./pages/Errors/SearchError";
 import Municipality from "./pages/Municipality/Municipality";
 import Footer from "./components/Footer";
-import Randomizer from "./components/Navbar/Randomizer";
 import "./data/municipalities.json";
 import "./index.css";
 const pages = ["Home", "About", "Quiz"];
@@ -18,7 +17,6 @@ function App() {
       <Navbar pages={pages} />
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route path="/" element={<Randomizer />} />
         <Route path="/home" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/quiz" element={<Quiz />} />
