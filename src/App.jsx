@@ -1,4 +1,7 @@
-import { Routes, Route } from "react-router-dom";
+{
+  /*import { Routes, Route } from "react-router-dom";*/
+}
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import Home from "./pages/Home/Home";
 import About from "./pages/About/About";
@@ -9,6 +12,8 @@ import Municipality from "./pages/Municipality/Municipality";
 import Footer from "./components/Footer";
 import "./data/municipalities.json";
 import "./index.css";
+import Randomizer from "./components/Navbar/Randomizer";
+
 const pages = ["Home", "About", "Quiz"];
 
 function App() {
@@ -17,6 +22,7 @@ function App() {
       <Navbar pages={pages} />
       <Routes>
         <Route exact path="/" element={<Home />} />
+        <Route path="/" element={<Randomizer />} />
         <Route path="/home" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/quiz" element={<Quiz />} />

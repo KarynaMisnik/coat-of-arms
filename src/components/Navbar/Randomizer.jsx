@@ -8,7 +8,7 @@ const Randomizer = () => {
 
   // Fetch the regions data from the JSON file
   useEffect(() => {
-    fetch("/src/data/regions.json")
+    fetch("/data/regions.json")
       .then((response) => response.json())
       .then((data) => {
         setRegions(data.regions); // Save the regions data to state
