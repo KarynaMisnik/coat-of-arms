@@ -33,6 +33,13 @@ a {
   text-decoration: none;
 }
 
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 @media (min-width: 300px) {
   :root {
     --h1: 1.25rem;
@@ -109,25 +116,83 @@ a {
 /* === ABOUT PAGE  === */
 
 .about-page-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
   min-height: 100vh;
 }
 
 .about-page-content-container {
-  margin: 2rem;
+  width: 100%;
+  max-width: 800px;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--white);
 }
 
-.about-page-heading {
+@media (max-width: 768px) {
+  .about-page-content-container {
+    padding: 20px;
+    max-width: 100%;
+    border-radius: 0;
+    box-shadow: none;
+  }
+}
+
+.about-page-h1,
+.about-page-heading,
+.about-page-text,
+.about-page-h2,
+.about-page-list-key-features {
+  color: var(--black);
+}
+
+.about-page-h1,
+.about-page-h2 {
   text-align: center;
   padding: 1rem;
-  font-size: var(--h1);
-  color: var(--blue);
 }
 
-.about-page-text {
+.about-page-h1 {
+  font-size: var(--h1);
+}
+
+.about-page-h2 {
+  font-size: var(--h2);
+}
+
+.about-page-text,
+.about-page-list {
   padding: 1.5rem;
-  font-size: 1.5rem;
-  color: var(--blue);
+  font-size: var(--h3);
   text-align: justify;
+}
+
+.heart-icon {
+  font-size: 1rem;
+  color: var(--blue);
+  animation: beat 1s infinite;
+  margin: 4px;
+}
+
+/* the whole container on hover paintsa a heart red */
+.about-page-content-container:hover .heart-icon {
+  color: #f31f1f;
+}
+
+/* animation to scale the heart */
+@keyframes beat {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 
 /* === ABOUT PAGE END === */
@@ -306,9 +371,6 @@ a {
 }
 /* POPULATION COMPONENT ENDS*/
 
-.weather-info {
-}
-
 .municipality-img-description-wrapper {
   display: flex;
   gap: 1.5rem;
@@ -437,7 +499,6 @@ a {
 }
 
 .component-footer-version-details {
-  font-size: var(--h4);
   color: var(--gray);
   margin: 2rem 0 1rem 0;
 }
