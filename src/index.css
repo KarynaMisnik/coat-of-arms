@@ -234,6 +234,7 @@ a {
 
 .oldMunicipalities-name {
   color: var(--white);
+  margin: 2rem 0;
 }
 
 .oldMunicipalities-grid {

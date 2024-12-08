@@ -1,4 +1,5 @@
 import Paper from "@mui/material/Paper";
+import RoadMap from "../../components/RoadMap";
 
 const About = () => {
   return (
@@ -19,6 +20,7 @@ const About = () => {
           and municipalities with their distinctive coat of arms.
         </p>
       </Paper>
+      <RoadMap />
     </div>
   );
 };

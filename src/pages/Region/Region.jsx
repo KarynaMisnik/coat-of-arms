@@ -106,7 +106,9 @@ const Region = () => {
               key={consolidatedImg.oldMunicipality}
               id="oldMunicipalities-grid"
             >
-              {/* <NavLink
+              {/* WILL BE USED LATER TO NAVIGATE TO OLD MUNICIPALITIES CARDS
+              
+              <NavLink
                 className="nav-link oldMunicipality-nav-lik"
                 to={`/municipality/${regionName}/${consolidatedImg.oldMunicipality}`}
                 style={{
