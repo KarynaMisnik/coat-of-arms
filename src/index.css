@@ -111,6 +111,11 @@ li {
   color: var(--black);
 }
 
+/*~~~ Navbar component ~~~*/
+.home-link-redirect {
+  color: var(--white);
+}
+
 /* === HOME PAGE END === */
 
 /* === ABOUT PAGE  === */

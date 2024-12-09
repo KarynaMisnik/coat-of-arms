@@ -74,6 +74,10 @@ export default function Navbar(props) {
     },
   }));
 
+  {
+    /* Side menu, mobile layout */
+  }
+
   const drawer = (
     <Box
       onClick={handleDrawerToggle}
@@ -86,7 +90,10 @@ export default function Navbar(props) {
       {...navText}
     >
       <Typography variant="h6" sx={{ my: 2 }} {...navText}>
-        Finnish Emblem
+        <a href="/coat-of-arms/#/home" className="home-link-redirect">
+          {" "}
+          Finnish Emblem
+        </a>
       </Typography>
       <Divider sx={{ background: "var(--white)" }} />
       <List>
@@ -135,7 +142,9 @@ export default function Navbar(props) {
             sx={{ display: { xs: "flex", sm: "none", md: "none", xl: "none" } }}
             {...navText}
           >
-            Finnish Emblem
+            <a href="/coat-of-arms/#/home" className="home-link-redirect">
+              Finnish Emblem
+            </a>
           </Typography>
           <Typography
             variant="h6"
@@ -146,7 +155,9 @@ export default function Navbar(props) {
             }}
             {...navText}
           >
-            Finnish Emblem
+            <a href="/coat-of-arms/#/home" className="home-link-redirect">
+              Finnish Emblem
+            </a>
           </Typography>
           <Box sx={{ display: { xs: "none", sm: "block" } }}>
             {navItems.map((item) => (
