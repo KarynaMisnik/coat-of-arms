@@ -4,6 +4,7 @@ import { useParams } from "react-router-dom";
 import Population from "../../components/Population";
 import Map from "../../components/Map";
 import Weather from "../../components/Weather";
+import { Button } from "@mui/material";
 
 const Municipality = () => {
   const { regionName, municipalityName } = useParams();

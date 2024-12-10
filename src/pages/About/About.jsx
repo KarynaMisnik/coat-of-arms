@@ -1,18 +1,13 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faHeart } from "@fortawesome/free-solid-svg-icons";
-
+import FavoriteIcon from "@mui/icons-material/Favorite";
+import GitHubIcon from "@mui/icons-material/GitHub";
 const About = () => {
   return (
     <div className="about-page-wrapper">
       <div className="about-page-content-container">
         <h1 className="about-page-h1">Finnish Emblem</h1>
         <p className="about-page-text intro-paragraph">
-          This project is dedicated to exploring the rich regional tapestry of
-          Finland! Immerse yourself in the fascinating details of Finland's 19
-          regions, each adorned with its unique coat of arms. The country has
-          undergone various historical events that have shaped it, and these
-          events have given rise to specific cultural and traditional traits,
-          reflected in the coat of arms.
+          This project is dedicated to showcasing the unique coat of arms and
+          municipalities of Finland.
         </p>
 
         <h2 className="about-page-h2">The Key Features of the App:</h2>
@@ -101,14 +96,19 @@ const About = () => {
         <h2 className="about-page-h2">Developer</h2>
         <p className="about-page-text developer-details">
           This app was created by a passionate developer with a deep
-          <FontAwesomeIcon className="heart-icon" icon={faHeart} />
+          <FavoriteIcon className="heart-icon" />
           to Finnish culture and heritage.
         </p>
 
         <h2 className="about-page-h2">Contact</h2>
         <p className="about-page-text contact-details">
-          Have feedback or suggestions? We'd love to hear from you! Contact us
-          at <a href="#">your-email@example.com</a>.
+          Did you spot a mistake or you see that something is wrong, want to
+          contribute and help to make the app better? Start the issue in the
+          project's repositary at
+          <a href="#">
+            <GitHubIcon className="github-contact" />
+          </a>
+          page .
         </p>
       </div>
     </div>

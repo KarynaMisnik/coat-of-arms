@@ -175,11 +175,17 @@ li {
   text-align: justify;
 }
 
-.heart-icon {
+/*~~~ About pag: icons ~~~*/
+
+.heart-icon,
+.github-contact {
   font-size: 1rem;
   color: var(--blue);
+  margin: 0 4px;
+}
+
+.heart-icon {
   animation: beat 1s infinite;
-  margin: 4px;
 }
 
 /* the whole container on hover paintsa a heart red */
@@ -197,6 +203,24 @@ li {
   }
   100% {
     transform: scale(1);
+  }
+}
+
+.github-contact {
+  animation: coin-flip 1.5s infinite linear;
+  display: inline-block;
+  transform-origin: center;
+}
+
+@keyframes coin-flip {
+  0% {
+    transform: perspective(1000px) rotateY(0deg);
+  }
+  50% {
+    transform: perspective(1000px) rotateY(180deg);
+  }
+  100% {
+    transform: perspective(1000px) rotateY(360deg);
   }
 }
 
@@ -295,7 +319,7 @@ li {
   font-size: var(--h3);
 }
 
-.oldMunicipalities-container {
+.paper-oldMunicipality-content-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -304,7 +328,8 @@ li {
 
 .oldMunicipalities-name {
   color: var(--white);
-  margin: 2rem 0;
+  margin: 2rem;
+  text-align: center;
 }
 
 .oldMunicipalities-grid {
@@ -337,8 +362,9 @@ li {
   }
 }
 
-.previousMunicipalities-name {
+.previous-municipalities-name {
   text-align: center;
+  color: var(--black);
 }
 
 /* === REGION PAGE END === */
