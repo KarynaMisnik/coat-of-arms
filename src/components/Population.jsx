@@ -1,6 +1,9 @@
-// src/components/Population.js
+/*=== REACT HOOKS AND OTHERS ===*/
 import React, { useState, useEffect } from "react";
+/*=== CUSTOM COMPONENTS ===*/
 import { fetchPopulationData } from "../utils/apiHelper";
+/*=== MUI ICONS ===*/
+import GroupsIcon from "@mui/icons-material/Groups";
 
 const Population = ({ areaCode, month = "2023M12" }) => {
   const [population, setPopulation] = useState(null);
@@ -11,7 +14,7 @@ const Population = ({ areaCode, month = "2023M12" }) => {
 
       if (data) {
         // Accessing the population value from the JSON response structure
-        const populationValue = data.value?.[0]; // Assumes population is in `data.value[0]`
+        const populationValue = data.value?.[0]; // assumes population is in `data.value[0]`
         setPopulation(populationValue);
       } else {
         setPopulation("Data not available");
@@ -22,9 +25,13 @@ const Population = ({ areaCode, month = "2023M12" }) => {
   }, [areaCode, month]);
 
   return (
-    <span className="population-value-statFi">
+    <div className="population-value-statFi">
+      <GroupsIcon
+        className="mui-icon population-icon"
+        style={{ marginRight: ".5rem" }}
+      />{" "}
       {population ? population : "Loading..."}
-    </span>
+    </div>
   );
 };
 

@@ -1,10 +1,12 @@
+/*=== REACT HOOKS, OTHERS ===*/
 import React from "react";
+/*=== MUI COMPONENTS ===*/
 import Grid from "@mui/material/Grid";
 import Paper from "@mui/material/Paper";
 
 const OldMunicipalities = ({ consolidatedData, regionName }) => {
   if (!consolidatedData || consolidatedData.length === 0) {
-    return null; // No old municipalities to show
+    return null; // No old municipalities to show, error
   }
 
   return (
@@ -18,7 +20,7 @@ const OldMunicipalities = ({ consolidatedData, regionName }) => {
             md={4}
             lg={3}
             xl={2}
-            key={`${regionName}-${oldMunicipality.oldMunicipality}-${index}`} // Unique key
+            key={`${regionName}-${oldMunicipality.oldMunicipality}-${index}`} // Unique key, added bc old municipalities have repeating names, caused errors
           >
             <Paper
               className="paper-oldMunicipality-content-container"

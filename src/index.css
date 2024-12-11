@@ -6,7 +6,7 @@
   --white: #fff;
   --gray: rgb(164, 160, 160);
   --black: #08111f;
-  --dark-gray: #0000005e;
+  --dark-gray: #070707a1;
 
   /* FONT-FAMILY */
   --main-text: "Montserrat", sans-serif;
@@ -133,8 +133,8 @@ li {
   max-width: 800px;
   padding: 30px;
   border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   background-color: var(--white);
+  text-align: justify;
 }
 
 @media (max-width: 768px) {
@@ -147,35 +147,30 @@ li {
 }
 
 .about-page-h1,
-.about-page-heading,
-.about-page-text,
-.about-page-h2,
-.about-page-list-key-features {
-  color: var(--black);
-}
-
-.about-page-h1,
 .about-page-h2 {
   text-align: center;
-  padding: 1rem;
+  margin: 0.5rem 0;
+  color: var(--blue);
 }
 
-.about-page-h1 {
-  font-size: var(--h1);
+.about-page-for-developers {
+  margin: 0.5rem 0;
+}
+.about-page-for-developers li {
+  list-style-type: disc;
 }
 
-.about-page-h2 {
-  font-size: var(--h2);
+.about-page-target-audience span {
+  color: var(--blue);
 }
 
-.about-page-text,
-.about-page-list {
-  padding: 1.5rem;
-  font-size: var(--h3);
-  text-align: justify;
-}
+/*~~~ About page: icons ~~~*/
 
-/*~~~ About pag: icons ~~~*/
+.developer-details {
+  text-align: center;
+  justify-content: center;
+  color: var(--dark-gray);
+}
 
 .heart-icon,
 .github-contact {
@@ -413,15 +408,20 @@ li {
   margin-right: 0.5rem;
 }
 
-.population-info {
-  display: flex;
-}
-
-/* POPULATION COMPONENT ONLY VALUE FROM STAT.FI*/
+/*~~~ POPULATION COMPONENT ONLY VALUE FROM STAT.FI ~~~*/
 .population-value-statFi {
   margin-left: 5px;
+  display: flex;
 }
-/* POPULATION COMPONENT ENDS*/
+/*~~~ population & temperature components ~~~*/
+.mui-icon {
+  color: var(--blue);
+  margin-right: 0.5rem;
+}
+
+.weather-element {
+  display: flex;
+}
 
 .municipality-img-description-wrapper {
   display: flex;
@@ -433,6 +433,11 @@ li {
   .municipality-img-description-wrapper {
     flex-direction: column;
   }
+}
+
+.blazon,
+.designer {
+  color: var(--blue);
 }
 
 .municipality-full-img {
@@ -455,14 +460,14 @@ li {
 }
 
 /* MAP COMPONENT, LOCATION OF MUNICIPALITY */
-#map {
-  height: 180px;
-}
 
 .map-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 400px;
   width: 100%;
-
   max-width: 100%;
   aspect-ratio: 16 / 9;
 }

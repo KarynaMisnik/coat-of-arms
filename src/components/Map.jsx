@@ -1,23 +1,7 @@
 import React from "react";
+import { Tooltip, IconButton } from "@mui/material";
+import InfoIcon from "@mui/icons-material/Info";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
-import L from "leaflet";
-
-// Import marker images explicitly
-import markerIcon from "leaflet/dist/images/marker-icon.png";
-import markerIconRetina from "leaflet/dist/images/marker-icon-2x.png";
-import markerShadow from "leaflet/dist/images/marker-shadow.png";
-
-// Fix marker icon issue
-const DefaultIcon = L.icon({
-  iconUrl: markerIcon,
-  iconRetinaUrl: markerIconRetina,
-  shadowUrl: markerShadow,
-  iconSize: [25, 41],
-  iconAnchor: [12, 41],
-  popupAnchor: [1, -34],
-  shadowSize: [41, 41],
-});
-L.Marker.prototype.options.icon = DefaultIcon;
 
 const Map = ({ lat, lon, municipality }) => {
   if (!lat || !lon) {
@@ -26,17 +10,35 @@ const Map = ({ lat, lon, municipality }) => {
 
   return (
     <div className="map-container">
+      <Tooltip title="Refresh the page to see right location" arrow>
+        <IconButton
+          sx={{
+            position: "absolute",
+            zIndex: 1000,
+            top: { xs: "10px", sm: "30px" },
+            right: { xs: "20px", sm: "40px" },
+          }}
+        >
+          <InfoIcon fontSize="small" />
+        </IconButton>
+      </Tooltip>
+
+      {/* Leaflet Map */}
       <MapContainer
         center={[lat, lon]}
         zoom={13}
-        style={{ height: "100%", width: "100%" }}
+        style={{
+          height: "85%",
+          width: "90%",
+          border: "2px solid var(--black)",
+        }}
       >
         <TileLayer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         />
         <Marker position={[lat, lon]}>
-          <Popup className="municipality-location-popup">
+          <Popup>
             <strong>{municipality}</strong>
           </Popup>
         </Marker>

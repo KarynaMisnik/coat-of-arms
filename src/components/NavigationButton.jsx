@@ -1,5 +1,3 @@
-import { fontWeight } from "@mui/system";
-
 const NavigationButton = ({
   className,
   onClick,
@@ -17,10 +15,10 @@ const NavigationButton = ({
     color: "var(--white)",
     fontWeight: "bold",
     transition: "background-color 0.3s ease",
-    flex: "1", // Allow buttons to grow/shrink equally
-    margin: "0.5rem", // Add space between buttons
+    flex: "1",
+    margin: "0.5rem",
 
-    ...style, // Allow extending or overriding styles
+    ...style, // allow extending or overriding styles
   };
 
   return (

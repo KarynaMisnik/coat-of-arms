@@ -6,26 +6,26 @@ const Randomizer = () => {
   const navigate = useNavigate();
   const [regions, setRegions] = useState([]);
 
-  // Fetch the regions data from the JSON file
+  // fetching regions from JSON
   useEffect(() => {
     fetch("/data/regions.json")
       .then((response) => response.json())
       .then((data) => {
-        setRegions(data.regions); // Save the regions data to state
+        setRegions(data.regions); // Save to state
       })
       .catch((error) => {
         console.error("Error fetching regions data:", error);
       });
   }, []);
 
-  // Function to pick a random municipality
+  // random municipality pick
   const getRandomMunicipality = () => {
     if (regions.length === 0) return null;
 
-    // Randomly pick a region
+    // random region pick
     const randomRegion = regions[Math.floor(Math.random() * regions.length)];
 
-    // Randomly pick a municipality from the selected region
+    // random municipality pick from selected region
     const randomMunicipality =
       randomRegion.images[
         Math.floor(Math.random() * randomRegion.images.length)
@@ -37,7 +37,7 @@ const Randomizer = () => {
     };
   };
 
-  // Handler for the Surprise Me button click
+  // handler for btn Surprise me
   const handleSurpriseMeClick = () => {
     const randomMunicipality = getRandomMunicipality();
 
@@ -46,7 +46,7 @@ const Randomizer = () => {
       return;
     }
 
-    // Navigate to the random municipality's page
+    // redirects to random municipality page
     const { regionName, municipalityName } = randomMunicipality;
     navigate(`/municipality/${regionName}/${municipalityName}`);
   };

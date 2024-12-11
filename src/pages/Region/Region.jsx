@@ -1,9 +1,10 @@
+/*=== REACT HOOKS, OTHERS ===*/
 import React, { useState, useEffect } from "react";
+import { useParams, NavLink, useNavigate } from "react-router-dom";
+/*=== MUI COMPONENTS ===*/
 import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Grid";
-import { useParams, NavLink, useNavigate } from "react-router-dom";
-import { color, display } from "@mui/system";
-import { Button } from "@mui/material";
+/*=== CUSTOM COMPONENTS ===*/
 import OldMunicipalities from "../Municipality/OldMunicipalities";
 import NavigationButton from "../../components/NavigationButton";
 
@@ -14,7 +15,7 @@ const Region = () => {
   const [currentRegionIndex, setCurrentRegionIndex] = useState(0);
 
   useEffect(() => {
-    // Dynamic import using import()
+    // Dynamic import
     import("/src/data/regions.json")
       .then((module) => module.default)
       .then((jsonData) => {

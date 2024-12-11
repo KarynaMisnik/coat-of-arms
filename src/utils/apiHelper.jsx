@@ -1,4 +1,4 @@
-// src/utils/apiHelper.js
+/*=== DATA FROM STAT.FI ===*/
 export async function fetchPopulationData(areaCode, month) {
   const url =
     "https://pxdata.stat.fi:443/PxWeb/api/v1/en/StatFin/vaerak/statfin_vaerak_pxt_11s5.px";
@@ -46,15 +46,14 @@ export async function fetchPopulationData(areaCode, month) {
   }
 }
 
-// src/utils/apiHelper.js
-
+/*=== DATA FROM OPEN METEO ===*/
 const OpenMeteoData = "https://api.open-meteo.com/v1/forecast";
 
 /**
  * Fetch weather data from Open-Meteo API.
- * @param {number} lat - Latitude of the location.
- * @param {number} lon - Longitude of the location.
- * @returns {Promise<Object>} Weather data as JSON.
+ * @param {number} lat - lat of location.
+ * @param {number} lon - lon of location.
+ * @returns {Promise<Object>} weather data as JSON.
  */
 export const fetchWeatherData = async (lat, lon) => {
   try {

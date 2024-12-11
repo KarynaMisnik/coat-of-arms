@@ -1,9 +1,12 @@
-// src/components/Weather.js
-
+/*=== REACT HOOKS AND OTHERS ===*/
 import React, { useEffect, useState } from "react";
+/*=== CUSTOM COMPONENTS ===*/
 import { fetchWeatherData } from "../utils/apiHelper";
+/*=== MUI ICONS ===*/
+import ThermostatIcon from "@mui/icons-material/Thermostat";
+import AirIcon from "@mui/icons-material/Air";
 
-const Weather = ({ lat, lon, municipalityName }) => {
+const Weather = ({ lat, lon }) => {
   const [weatherData, setWeatherData] = useState(null);
 
   useEffect(() => {
@@ -23,13 +26,13 @@ const Weather = ({ lat, lon, municipalityName }) => {
   const { temperature, windspeed } = weatherData.current_weather;
 
   return (
-    <div className="weather">
-      <p>
-        <strong>Temperature:</strong> {temperature}°C
-      </p>
-      <p>
-        <strong>Windspeed:</strong> {windspeed} km/h
-      </p>
+    <div className="weather-container">
+      <div className="weather-element temperaure">
+        <ThermostatIcon className="mui-icon temperature-icon" /> {temperature}°C
+      </div>
+      <div className="weather-element wind">
+        <AirIcon className="mui-icon wind-icon" /> {windspeed} km/h
+      </div>
     </div>
   );
 };

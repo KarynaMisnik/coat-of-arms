@@ -10,7 +10,6 @@ import Region from "./pages/Region/Region";
 import SearchError from "./pages/Errors/SearchError";
 import Municipality from "./pages/Municipality/Municipality";
 import Footer from "./components/Footer";
-import "./data/municipalities.json";
 import "./index.css";
 import Randomizer from "./components/Navbar/Randomizer";
 

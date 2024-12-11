@@ -59,7 +59,13 @@ export default function Navbar(props) {
       }}
       {...navText}
     >
-      <Typography variant="h6" sx={{ my: 2 }} {...navText}>
+      <Typography
+        variant="h6"
+        sx={{
+          my: 2,
+        }}
+        {...navText}
+      >
         <a href="/coat-of-arms/#/home" className="home-link-redirect">
           Finnish Emblem
         </a>
@@ -89,7 +95,7 @@ export default function Navbar(props) {
   return (
     <Box sx={{ display: "flex" }}>
       <CssBaseline />
-      {/* MUI component resets default browser style(done partly in css) */}
+      {/* MUI global component resets default browser style(done partly in css) */}
       <AppBar
         component="nav"
         sx={{
@@ -110,7 +116,12 @@ export default function Navbar(props) {
           </IconButton>
           {/* Logo navItems for computer screen size */}
           <Typography
-            sx={{ display: { xs: "flex", sm: "none", md: "none", xl: "none" } }}
+            sx={{
+              display: { xs: "flex", sm: "none", md: "none", xl: "none" },
+              fontSize: {
+                xs: ".5rem",
+              },
+            }}
             {...navText}
           >
             <a href="/coat-of-arms/#/home" className="home-link-redirect">
@@ -132,6 +143,7 @@ export default function Navbar(props) {
               Finnish Emblem
             </a>
           </Typography>
+          {/* Mapping nav items as buttons, are hidden if mobile */}
           <Box sx={{ display: { xs: "none", sm: "block" } }}>
             {navItems.map((item) => (
               <NavLink className="nav-link" to={`/${item.toLowerCase()}`}>
@@ -154,6 +166,7 @@ export default function Navbar(props) {
           <Searchbar />
         </Toolbar>
       </AppBar>
+      {/* Side menu, mobile layout */}
       <nav>
         <Drawer
           container={container}

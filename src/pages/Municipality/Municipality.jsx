@@ -1,6 +1,10 @@
+/*=== REACT HOOKS AND OTHERS ===*/
 import React, { useState, useEffect } from "react";
-import Paper from "@mui/material/Paper";
 import { useParams, useNavigate } from "react-router-dom";
+/*=== MUI COMPONENTS ===*/
+import Paper from "@mui/material/Paper";
+
+/*=== CUSTOM COMPONENTS ===*/
 import Population from "../../components/Population";
 import Map from "../../components/Map";
 import Weather from "../../components/Weather";
@@ -113,7 +117,6 @@ const Municipality = () => {
         </div>
         <p>Region: {regionName}</p>
         <p className="population-info">
-          Population:
           <Population areaCode={municipalityData.areaCode} />
         </p>
 
@@ -126,8 +129,9 @@ const Municipality = () => {
           sx={{ flex: "1" }}
         >
           <div className="municipality-img-content-container">
-            <p className="municipality-description blazon">
-              The blazon reads: {municipalityData.blazon}
+            <p className="municipality-description ">
+              <span className="blazon">The blazon reads:</span>{" "}
+              {municipalityData.blazon}
             </p>
             <img
               className="municipality-full-img"
@@ -135,8 +139,9 @@ const Municipality = () => {
               alt={municipalityData.municipality}
               loading="lazy"
             />
-            <p className="municipality-description designer">
-              Designed by: {municipalityData.designer}
+            <p className="municipality-description ">
+              <span className="designer">Designed by:</span>{" "}
+              {municipalityData.designer}
             </p>
           </div>
         </Paper>
@@ -150,9 +155,8 @@ const Municipality = () => {
             <p className="municipality-description details">
               {municipalityData.municipalityDescription}
             </p>
-            <div id="map">
-              <Map lat={lat} lon={lon} municipality={municipality} />
-            </div>
+
+            <Map lat={lat} lon={lon} municipality={municipality} />
           </div>
         </Paper>
       </div>

@@ -1,3 +1,8 @@
+// will be imported in About component, mb Figma mockup will be integrated
+
+{
+  /*
+
 import React from "react";
 
 const Roadmap = () => {
@@ -9,3 +14,6 @@ const Roadmap = () => {
 };
 
 export default Roadmap;
+
+*/
+}

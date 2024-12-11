@@ -1,13 +1,15 @@
+/*=== REACT HOOKS, OTHERS ===*/
 import React, { useState, useEffect } from "react";
+import { NavLink } from "react-router-dom";
+/*=== MUI COMPONENTS ===*/
 import Paper from "@mui/material/Paper";
 import Grid from "@mui/material/Grid";
-import { NavLink } from "react-router-dom";
 
 const Home = () => {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    // Dynamic import using import()
+    // Dynamic import
     import("/src/data/regions.json")
       .then((module) => module.default)
       .then((jsonData) => setData(jsonData))
