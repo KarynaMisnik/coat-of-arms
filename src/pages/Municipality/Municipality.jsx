@@ -1,31 +1,18 @@
 import React, { useState, useEffect } from "react";
 import Paper from "@mui/material/Paper";
-import { useParams } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import Population from "../../components/Population";
 import Map from "../../components/Map";
 import Weather from "../../components/Weather";
-import { Button } from "@mui/material";
+import NavigationButton from "../../components/NavigationButton";
 
 const Municipality = () => {
   const { regionName, municipalityName } = useParams();
+  const navigate = useNavigate();
   const [municipalityData, setMunicipalityData] = useState(null);
+  const [regionData, setRegionData] = useState(null);
 
   useEffect(() => {
-    // Fetch data for the specific municipality based on regionName and municipalityName
-
-    {
-      /*
-    import("/src/data/regions.json")
-      .then((module) => module.default)
-      .then((jsonData) => {
-        TESTING
-
-fetch("/src/data/regions.json")
-        .then((response) => response.json())
-      .then((jsonData) => {
-*/
-    }
-
     import("/src/data/regions.json")
       .then((module) => module.default)
       .then((jsonData) => {
@@ -38,6 +25,8 @@ fetch("/src/data/regions.json")
           console.error(`Region "${regionName}" not found in data.`);
           return;
         }
+
+        setRegionData(selectedRegion);
 
         // Find the selected municipality in the region
         const selectedMunicipality = selectedRegion.images.find(
@@ -58,17 +47,61 @@ fetch("/src/data/regions.json")
       });
   }, [regionName, municipalityName]);
 
-  if (!municipalityData) {
+  if (!municipalityData || !regionData) {
     return <div>Loading...</div>;
   }
+
   const { lat, lon, municipality } = municipalityData;
 
   if (!lat || !lon) {
     return <div>Location data is not available for this municipality.</div>;
   }
 
+  // Get the index of the current municipality
+  const currentIndex = regionData.images.findIndex(
+    (image) => image.municipality === municipalityName
+  );
+
+  // Calculate previous and next municipality indices
+  const prevIndex =
+    currentIndex === 0 ? regionData.images.length - 1 : currentIndex - 1;
+  const nextIndex =
+    currentIndex === regionData.images.length - 1 ? 0 : currentIndex + 1;
+
+  const prevMunicipality = regionData.images[prevIndex];
+  const nextMunicipality = regionData.images[nextIndex];
+
+  // Handlers for navigation
+  const handleGoBackToRegion = () => {
+    navigate(`/region/${regionName}`);
+  };
+
+  const handleNavigateToMunicipality = (municipality) => {
+    navigate(`/municipality/${regionName}/${municipality}`);
+  };
+
   return (
     <div className="municipality-page-wrapper">
+      <div className="municipality-navigation-buttons-container">
+        <NavigationButton
+          onClick={() =>
+            handleNavigateToMunicipality(prevMunicipality.municipality)
+          }
+        >
+          Previous
+        </NavigationButton>
+        <NavigationButton onClick={handleGoBackToRegion}>
+          Region
+        </NavigationButton>
+        <NavigationButton
+          onClick={() =>
+            handleNavigateToMunicipality(nextMunicipality.municipality)
+          }
+        >
+          Next
+        </NavigationButton>
+      </div>
+
       <Paper className="paper-municipality-page" elevation={3}>
         <div className="municipality-card-content">
           <img
@@ -82,7 +115,6 @@ fetch("/src/data/regions.json")
         <p className="population-info">
           Population:
           <Population areaCode={municipalityData.areaCode} />
-          {/* Use dynamic areaCode */}
         </p>
 
         <Weather lat={lat} lon={lon} municipalityName={municipalityName} />

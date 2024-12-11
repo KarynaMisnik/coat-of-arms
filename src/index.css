@@ -303,6 +303,27 @@ li {
   align-items: center;
 }
 
+.municipality-navigation-buttons-container,
+.region-navigation-buttons-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem; /* rules for navigation buttons container from Region added here */
+}
+
+@media (max-width: 400px) {
+  .municipality-navigation-buttons-container {
+    flex-direction: column; /* Stack buttons vertically */
+  }
+
+  .municipality-navigation-buttons-container button {
+    width: 100%; /* Make buttons full-width */
+    max-width: 300px; /* Optional: Limit max width */
+  }
+}
+
 .nav-link-muniipalities {
   display: flex;
   justify-content: center;

@@ -1,6 +1,8 @@
+/*=== REACT HOOKS AND OTHERS ===*/
 import * as React from "react";
 import { useState, useEffect } from "react";
-
+import { NavLink } from "react-router-dom";
+/*=== MUI COMPONENTS ===*/
 import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
 import CssBaseline from "@mui/material/CssBaseline";
@@ -15,16 +17,14 @@ import MenuIcon from "@mui/icons-material/Menu";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
-import { NavLink } from "react-router-dom";
-import { styled } from "@mui/material/styles";
-import InputBase from "@mui/material/InputBase";
+/*=== CUSTOM COMPONENTS ===*/
+import Searchbar from "./Searchbar";
+
 {
   /* Doesn't work in github pages, fixes nedded
 import Randomizer from "./Randomizer";
 */
 }
-
-import Searchbar from "./Searchbar";
 
 const navText = {
   color: "var(--white)",
@@ -34,45 +34,15 @@ const navText = {
 };
 
 const drawerWidth = 240;
-const navItems = ["Home", "About"];
+const navItems = ["Home", "About"]; /* Add new nav items here */
 
 export default function Navbar(props) {
   const { window } = props;
   const [mobileOpen, setMobileOpen] = React.useState(false);
-  const [regions, setRegions] = useState([]);
 
   const handleDrawerToggle = () => {
     setMobileOpen((prevState) => !prevState);
   };
-
-  const Search = styled("div")(({ theme }) => ({
-    borderRadius: "50px",
-    border: "1px solid var(--white)",
-    margin: "0  10px",
-    padding: 1,
-    backgroundColor: "var(--black)",
-    transition: "transform .3s linear",
-
-    "&:hover": {
-      transform: "scale(1.03)",
-    },
-  }));
-
-  const StyledInputBase = styled(InputBase)(({ theme }) => ({
-    color: "inherit",
-    width: "100%",
-    "& .MuiInputBase-input": {
-      margin: "0 10px",
-
-      transition: theme.transitions.create("width"),
-      [theme.breakpoints.up("sm")]: {
-        width: "10ch",
-      },
-      [theme.breakpoints.up("xs")]: {
-        width: "15ch",
-      },
-    },
-  }));
 
   {
     /* Side menu, mobile layout */
@@ -91,7 +61,6 @@ export default function Navbar(props) {
     >
       <Typography variant="h6" sx={{ my: 2 }} {...navText}>
         <a href="/coat-of-arms/#/home" className="home-link-redirect">
-          {" "}
           Finnish Emblem
         </a>
       </Typography>
@@ -120,7 +89,7 @@ export default function Navbar(props) {
   return (
     <Box sx={{ display: "flex" }}>
       <CssBaseline />
-
+      {/* MUI component resets default browser style(done partly in css) */}
       <AppBar
         component="nav"
         sx={{
@@ -129,6 +98,7 @@ export default function Navbar(props) {
         }}
       >
         <Toolbar>
+          {/* hamburger menu computer screen size - hidden */}
           <IconButton
             color="inherit"
             aria-label="open drawer"
@@ -138,6 +108,7 @@ export default function Navbar(props) {
           >
             <MenuIcon />
           </IconButton>
+          {/* Logo navItems for computer screen size */}
           <Typography
             sx={{ display: { xs: "flex", sm: "none", md: "none", xl: "none" } }}
             {...navText}
@@ -146,6 +117,8 @@ export default function Navbar(props) {
               Finnish Emblem
             </a>
           </Typography>
+          {/* Logo navItems for computer screen size */}
+
           <Typography
             variant="h6"
             component="div"

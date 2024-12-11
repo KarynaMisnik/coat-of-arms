@@ -5,6 +5,7 @@ import { useParams, NavLink, useNavigate } from "react-router-dom";
 import { color, display } from "@mui/system";
 import { Button } from "@mui/material";
 import OldMunicipalities from "../Municipality/OldMunicipalities";
+import NavigationButton from "../../components/NavigationButton";
 
 const Region = () => {
   const { regionName } = useParams();
@@ -51,25 +52,13 @@ const Region = () => {
 
   return (
     <div className="region-component-wrapper">
-      <div
-        style={{
-          display: "flex",
-          justifyContent: "space-between",
-          marginBottom: "1rem",
-        }}
-      >
-        <Button
-          variant="contained"
-          onClick={() => handleNavigate(prevRegion.name)}
-        >
+      <div className="region-navigation-buttons-container">
+        <NavigationButton onClick={() => handleNavigate(prevRegion.name)}>
           {prevRegion.name}
-        </Button>
-        <Button
-          variant="contained"
-          onClick={() => handleNavigate(nextRegion.name)}
-        >
+        </NavigationButton>
+        <NavigationButton onClick={() => handleNavigate(nextRegion.name)}>
           {nextRegion.name}
-        </Button>
+        </NavigationButton>
       </div>
       <div className="region-map-wrapper">
         <Paper elevation={3} className="paper-region-info">
