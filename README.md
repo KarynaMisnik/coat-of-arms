@@ -4,13 +4,13 @@
 
 ## 📜 TO-DO:
 
-- [ ] Add old coat of arms, before consolidation;
-- [ ] Add population info (Tilastokeskus);
+- ~~[x] Add old coat of arms, before consolidation~~;
+- ~~[X] Add population info (Tilastokeskus)~~;
 - [ ] Add English translation of geographic names; 
 - [ ] Update layout(Figma update);
 - [ ] Build a quiz;
-- [ ] Add weather info (opt);
-- [ ] Add location (opt);
+- ~~[X] Add weather info (opt)~~;
+- ~~[X] Add location (opt)~~;
 
 <img src='https://img.shields.io/static/v1?style=for-the-badge&message=Wikipedia&color=000000&logo=Wikipedia&logoColor=FFFFFF&label=' />
 
