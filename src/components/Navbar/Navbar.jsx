@@ -119,7 +119,7 @@ export default function Navbar(props) {
             sx={{
               display: { xs: "flex", sm: "none", md: "none", xl: "none" },
               fontSize: {
-                xs: ".5rem",
+                xs: "1rem",
               },
             }}
             {...navText}

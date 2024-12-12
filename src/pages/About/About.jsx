@@ -25,7 +25,7 @@ const About = () => {
           accessible to others. This inspired me to create an app that brings
           the rich history and symbolism of Finland’s municipalities to life.
         </p>
-        <h2 className="about-page-h2">The Finnish Emblem is designed for:</h2>
+        <h2 className="about-page-h2">The Finnish Emblem is designed for</h2>
         <ul className="about-page-target-audience">
           <li>
             <span>Foreigners</span> who are falling in love with Finland and
