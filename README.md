@@ -97,9 +97,9 @@ I experienced only a small part of Finland's vast and diverse landscape, a lands
 </details>
 
 
-## Find more details how to feploy SPA to Github pages:
+## Find more details how to deploy SPA to Github pages:
 
-<a href="Deploying React Vite with Routing on GitHub Pages https://medium.com/@karinamisnik94/deploying-react-vite-with-routing-on-github-pages-68385676b788">Medium article </a>
+<a href="https://medium.com/@karinamisnik94/deploying-react-vite-with-routing-on-github-pages-68385676b788">Medium article </a>
 
 
 ## Demo
