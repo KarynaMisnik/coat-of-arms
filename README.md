@@ -4,11 +4,16 @@
 
 ## 📜 TO-DO:
 
-- ~~[x] Add old coat of arms, before consolidation~~;
-- ~~[X] Add population info (Tilastokeskus)~~;
+- [ ] Build a quiz;
+- [ ] Create Achievement system;
+- [ ] Add Old Coat of Arms info;
+- [ ] Add borders of Municipalities(OpenStreets coordinates?);
+- [ ] Finnish version(opt);
 - [ ] Add English translation of geographic names; 
 - [ ] Update layout(Figma update);
-- [ ] Build a quiz;
+- [ ] User account(opt);
+- ~~[x] Add old coat of arms, before consolidation~~;
+- ~~[X] Add population info (Tilastokeskus)~~;
 - ~~[X] Add weather info (opt)~~;
 - ~~[X] Add location (opt)~~;
 
@@ -70,6 +75,25 @@ I experienced only a small part of Finland's vast and diverse landscape, a lands
 | <img src="https://github.com/KarynaMisnik/coat-of-arms/assets/96831988/0d231f39-3853-4c4f-a6ff-e08f43641bb3" alt="Home page" width="300" />|<img src="https://github.com/KarynaMisnik/coat-of-arms/assets/96831988/94cda4a2-2482-4d96-be1a-43efd8300909" alt="Region page" width="300" /> | <img src="https://github.com/KarynaMisnik/coat-of-arms/assets/96831988/36051570-a429-4db6-80f0-54fd5aa8febb" alt="Municipality page" width="300" />| <img src= "https://github.com/KarynaMisnik/coat-of-arms/assets/96831988/27986566-481b-4afc-87c4-cff1dd424e65" alt="About page" width="300" /> | <img src="https://github.com/KarynaMisnik/coat-of-arms/assets/96831988/de3f6b85-d4a6-4f8d-a606-704ae6f35a3d" alt="Quiz Menu page" width="300" />|<img src="https://github.com/KarynaMisnik/coat-of-arms/assets/96831988/88f0a15b-9578-489f-a3f7-30fb1d662c15" alt="Quiz page" width="300" />|
 
 
+</details>
+
+<details>
+  <summary><h1>Project Structure</h1></summary>
+  The app is built using React.js in the Vite environment, which leverages modern build tools, ensuring faster development and deployment processes. Vite also provides better scalability and enhanced performance.
+  <ul>
+    <li><strong>Routing</strong>: Navigation between multiple pages is handled using Routes from React Router.</li>
+  </ul>
+  <h3>Data Management:</h3>
+  <ul>
+    <li>For comprehensive data on regions and municipalities (including images and information), a local regions.json file is used as an internal AP</li>
+    <ul>External APIs are used for dynamic data:
+    <li><strong>Population:</strong> Data is fetched from the Stat.fi API.</li>
+       <li><strong>Weather: </strong>Weather information is retrieved from the OpenMeteo API.</li>
+       <li><strong>Location Mapping:</strong> The Leaflet library, integrated with OpenStreetMap data, is used for visualizing municipality locations.</li>
+    </ul>
+    <li>U<strong>I Components:</strong> The app utilizes Material-UI (MUI) components and icons, complemented by custom reusable components written in JSX.</li>
+    <li><strong>Deployment: </strong>The app is deployed on GitHub Pages, with dynamic routing managed using a YAML configuration.</li>
+  </ul>
 </details>
 
 ## Demo
