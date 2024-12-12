@@ -1,6 +1,9 @@
-import React from "react";
+/*=== REACT HOOKS, OTHERS ===*/
+import React, { useState } from "react";
+/*=== MUI COMPONENTS ===*/
 import { Tooltip, IconButton } from "@mui/material";
 import InfoIcon from "@mui/icons-material/Info";
+/*=== LEAFLET LIBRARY COMPONENTS ===*/
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 
 const Map = ({ lat, lon, municipality }) => {
@@ -8,9 +11,27 @@ const Map = ({ lat, lon, municipality }) => {
     return <div>No location data available.</div>;
   }
 
+  {
+    /* onMouseEnter,  onMouseLeave - for mouse nav, onClick - sensor screen*/
+  }
+  const [tooltipOpen, setTooltipOpen] = useState(false);
+
+  const handleTooltipOpen = () => {
+    setTooltipOpen(true);
+  };
+
+  const handleTooltipClose = () => {
+    setTooltipOpen(false);
+  };
+
   return (
     <div className="map-container">
-      <Tooltip title="Refresh the page to see right location" arrow>
+      <Tooltip
+        title="Refresh the page to see right location"
+        arrow
+        open={tooltipOpen}
+        onClose={handleTooltipClose}
+      >
         <IconButton
           sx={{
             position: "absolute",
@@ -18,6 +39,9 @@ const Map = ({ lat, lon, municipality }) => {
             top: { xs: "10px", sm: "30px" },
             right: { xs: "20px", sm: "40px" },
           }}
+          onClick={handleTooltipOpen}
+          onMouseEnter={handleTooltipOpen}
+          onMouseLeave={handleTooltipClose}
         >
           <InfoIcon fontSize="small" />
         </IconButton>
