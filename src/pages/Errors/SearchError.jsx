@@ -3,7 +3,7 @@ const SearchError = () => {
     <div id="searchError-page-wrpper">
       <img
         className="searchError-img"
-        src="../../img/stoat-artist-errorPage.png"
+        src="/coat-of-arms/img/stoat-artist-errorPage.png"
         alt="Error image"
         loading="lazy"
       />
