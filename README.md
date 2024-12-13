@@ -12,6 +12,7 @@
 - [ ] Add English translation of geographic names; 
 - [ ] Update layout(Figma update);
 - [ ] User account(opt);
+- [ ] Alphabetical navigation;
 - ~~[x] Add old coat of arms, before consolidation~~;
 - ~~[X] Add population info (Tilastokeskus)~~;
 - ~~[X] Add weather info (opt)~~;
