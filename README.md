@@ -13,6 +13,7 @@
 - [ ] Update layout(Figma update);
 - [ ] User account(opt);
 - [ ] Add Alphabetical navigation;
+- [ ] Add fixed Randomizer(fixes needed)
 - ~~[x] Add old coat of arms, before consolidation~~;
 - ~~[X] Add population info (Tilastokeskus)~~;
 - ~~[X] Add weather info (opt)~~;
