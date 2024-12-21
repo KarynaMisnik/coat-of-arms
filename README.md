@@ -32,7 +32,6 @@
 </ul></summary>
 </div>
 
-
 <details>
 
 <summary><h1>About the project</h1></summary>
