@@ -11,7 +11,7 @@
 - [ ] Finnish version(opt);
 - [ ] Add English translation of geographic names; 
 - [ ] Update layout(Figma update);
-- [ ] User account(opt);
+- [ ] User account(google authentication);
 - [ ] Add Alphabetical navigation;
 - [ ] Add fixed Randomizer(fixes needed)
 - ~~[x] Add old coat of arms, before consolidation~~;
