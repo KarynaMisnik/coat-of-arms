@@ -1,4 +1,4 @@
-/*=== REACT HOOKS, OTHERS ===*/
+/*=== REACT HOOKS ===*/
 import React, { useState } from "react";
 /*=== MUI COMPONENTS ===*/
 import { Tooltip, IconButton } from "@mui/material";
