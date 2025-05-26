@@ -1,4 +1,4 @@
-/*=== REACT HOOKS AND OTHERS ===*/
+/*=== REACT HOOKS ===*/
 import React, { useState, useEffect } from "react";
 /*=== CUSTOM COMPONENTS ===*/
 import { fetchPopulationData } from "../utils/apiHelper";
