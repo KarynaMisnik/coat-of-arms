@@ -14,7 +14,7 @@ const Population = ({ areaCode, month = "2023M12" }) => {
 
       if (data) {
         // Accessing the population value from the JSON response structure
-        const populationValue = data.value?.[0]; // assumes population is in `data.value[0]`
+        const populationValue = data.value?.[0]; // assumes population in `data.value[0]`
         setPopulation(populationValue);
       } else {
         setPopulation("Data not available");
