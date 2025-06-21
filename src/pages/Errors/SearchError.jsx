@@ -1,3 +1,4 @@
+//Appears when Search result does not exist
 const SearchError = () => {
   return (
     <div id="searchError-page-wrpper">
