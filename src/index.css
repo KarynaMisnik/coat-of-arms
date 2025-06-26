@@ -368,6 +368,7 @@ li {
 }
 
 /* switch off filter for mobile devices */
+/*
 @media (max-width: 768px) {
   .oldMunicipalities-img {
     filter: none;
@@ -377,6 +378,8 @@ li {
     filter: none;
   }
 }
+
+*/
 
 .previous-municipalities-name {
   text-align: center;
