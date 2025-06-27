@@ -27,9 +27,11 @@ const OldMunicipalities = ({ consolidatedData, regionName }) => {
               elevation={3}
               style={{ padding: "1rem" }}
             >
+              {/*
               <h3 className="previous-municipalities-name">
                 {oldMunicipality.oldName}
               </h3>
+*/}
               <img
                 className="oldMunicipalities-img"
                 src={oldMunicipality.url}
