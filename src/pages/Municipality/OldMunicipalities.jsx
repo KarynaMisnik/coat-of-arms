@@ -29,7 +29,7 @@ const OldMunicipalities = ({ consolidatedData, regionName }) => {
             >
               {/*
               <h3 className="previous-municipalities-name">
-                {oldMunicipality.oldName}
+                {oldMunicipality.oldMunicipality}
               </h3>
 */}
               <img
@@ -41,7 +41,7 @@ const OldMunicipalities = ({ consolidatedData, regionName }) => {
                 className="previous-municipalities-name"
                 style={{ textAlign: "center" }}
               >
-                {oldMunicipality.oldMunicipality}
+                {oldMunicipality.oldName}
               </h4>
             </Paper>
           </Grid>
