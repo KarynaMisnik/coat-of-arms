@@ -653,7 +653,7 @@
         },
         {
           "oldMunicipality": "Seinäjoki",
-          "oldName": "Seinäjoen mlk.",
+          "oldName": "Seinäjoki",
           "url": "/coat-of-arms/img/old-coats/old-coats-Etelä-Pohjanmaa/Seinäjoki/Seinäjoen-maalaiskunta.png",
           "alt": "Seinäjoen mlk. old municipality coat of arms"
         },
@@ -825,7 +825,7 @@
         },
         {
           "oldMunicipality": "Mikkeli",
-          "oldName": "Mikkelin mlk.",
+          "oldName": "Mikkeli",
           "url": "/coat-of-arms/img/old-coats/old-coats-Etela-Savo/Mikkeli/Mikkelin-maalaiskunta.png",
           "alt": "Mikkelin mlk. old municipality coat of arms"
         },
@@ -849,7 +849,7 @@
         },
         {
           "oldMunicipality": "Pieksämäki",
-          "oldName": "Pieksämäen mlk.",
+          "oldName": "Pieksämäki",
           "url": "/coat-of-arms/img/old-coats/old-coats-Etela-Savo/Pieksämäki/Pieksämäen-maalaiskunta.png",
           "alt": "Pieksämäen mlk. old municipality coat of arms"
         },
@@ -994,8 +994,8 @@
       ],
       "consolidated": [
         {
-          "oldMunicipality": "Kajaanin mlk.",
-          "oldName": "Kajaanin mlk.",
+          "oldMunicipality": "Kajaani",
+          "oldName": "Kajaani",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kainu/Kajaani/Kajaanin-maalaiskunta.png",
           "alt": "Kajaanin mlk. old municipality coat of arms"
         },
@@ -1156,7 +1156,7 @@
         },
         {
           "oldMunicipality": "Hämeenlinna",
-          "oldName": "Hämeenlinnan mlk.",
+          "oldName": "Hämeenlinna",
           "url": "/coat-of-arms/img/old-coats/old-coats-Kanta-Häme/Hämeenlinna/Hämeenlinnan-maalaiskunta-unofficial.png",
           "alt": "Hämeenlinnan mlk. old municipality coat of arms"
         },
@@ -1674,7 +1674,7 @@
         },
         {
           "oldMunicipality": "Jyväskylä",
-          "oldName": "Jyväskylän mlk.",
+          "oldName": "Jyväskylä",
           "url": "/coat-of-arms/img/old-coats/old-coats-Keski-Suomi/Jyväskylä/Jyväskylän-maalaiskunta.png",
           "alt": "Jyväskylän mlk. old municipality coat of arms"
         },
@@ -2109,7 +2109,7 @@
       "consolidated": [
         {
           "oldMunicipality": "Kemijärvi",
-          "oldName": "Kemijärven mlk.",
+          "oldName": "Kemijärvi",
           "url": "/coat-of-arms/img/old-coats/old-coats-Lappi/Kemijärvi/Kemijärven-maalaiskunta.png",
           "alt": "Kemijärven mlk. old municipalities coat of arms"
         },
@@ -2121,7 +2121,7 @@
         },
         {
           "oldMunicipality": "Rovaniemi",
-          "oldName": "Rovaniemen mlk.",
+          "oldName": "Rovaniemi",
           "url": "/coat-of-arms/img/old-coats/old-coats-Lappi/Rovaniemi/Rovaniemen-maalaiskunta.png",
           "alt": "Rovaniemen mlk. old municipalities coat of arms"
         },
@@ -2271,7 +2271,7 @@
       "consolidated": [
         {
           "oldMunicipality": "Heinola",
-          "oldName": "Heinolan mlk.",
+          "oldName": "Heinola",
           "url": "/coat-of-arms/img/old-coats/old-coats-Päijät-Häme/Heinola/Heinolan-maalaiskunta.png",
           "alt": "Heinolan mlk. old municipality coat of arms"
         },
@@ -2582,7 +2582,7 @@
         },
         {
           "oldMunicipality": "Ikaalinen",
-          "oldName": "Ikaalisten mlk.",
+          "oldName": "Ikaalinen",
           "url": "/coat-of-arms/img/old-coats/old-coats-Pirkanmaa/Ikaalinen/Ikaalisten-maalaiskunta.png",
           "alt": "Ikaalisten mlk. old municipality coat of arms"
         },
@@ -3040,7 +3040,7 @@
         },
         {
           "oldMunicipality": "Pietarsaari",
-          "oldName": "Pietarsaaren mlk.",
+          "oldName": "Pietarsaari",
           "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Pietarsaari/Pietarsaaren-maalaiskunta.png",
           "alt": "Pietarsaaren mlk. old municipality coat of arms"
         },
@@ -3070,7 +3070,7 @@
         },
         {
           "oldMunicipality": "Uusikaarlepyy",
-          "oldName": "Uudenkaarlepyyn mlk.",
+          "oldName": "Uudenkaarlepyy",
           "url": "/coat-of-arms/img/old-coats/old-coats-Pohjanmaa/Uusikaarlepyy/Uudenkaarlepyyn-maalaiskunta.png",
           "alt": "Uudenkaarlepyyn mlk. old municipality coat of arms"
         },
@@ -3313,7 +3313,7 @@
         },
         {
           "oldMunicipality": "Nurmes",
-          "oldName": "Nurmeksen mlk.",
+          "oldName": "Nurmes",
           "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Karjala/Nurmes/Nurmeksen-maalaiskunta.png",
           "alt": "Nurmeksen mlk. old municipality coat of arms"
         },
@@ -4088,7 +4088,7 @@
         },
         {
           "oldMunicipality": "Kuopio",
-          "oldName": "Kuopion mlk.",
+          "oldName": "Kuopio",
           "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Savo/Kuopio/Kuopion-maalaiskunta.png",
           "alt": "Kuopion mlk. old municipality coat of arms"
         },
@@ -4124,7 +4124,7 @@
         },
         {
           "oldMunicipality": "Pohjois-Savo",
-          "oldName": "Iisalmen mlk.",
+          "oldName": "Iisalmi",
           "url": "/coat-of-arms/img/old-coats/old-coats-Pohjois-Savo/Iisalmen-maalaiskunta.png",
           "alt": "Iisalmen mlk. old municipality coat of arms"
         }
@@ -4376,7 +4376,7 @@
         },
         {
           "oldMunicipality": "Pori",
-          "oldName": "Porin mlk.",
+          "oldName": "Pori",
           "url": "/coat-of-arms/img/old-coats/old-coats-Satakunta/Pori/Porin-maalaiskunta.png",
           "alt": "Porin mlk. old municipality coat of arms"
         },
@@ -4394,7 +4394,7 @@
         },
         {
           "oldMunicipality": "Rauma",
-          "oldName": "Rauman mlk.",
+          "oldName": "Rauma",
           "url": "/coat-of-arms/img/old-coats/old-coats-Satakunta/Rauma/Rauman-maalaiskunta.png",
           "alt": "Rauman mlk. old municipality coat of arms"
         },
@@ -4709,7 +4709,7 @@
       "consolidated": [
         {
           "oldMunicipality": "Hyvinkää",
-          "oldName": "Hyvinkään mlk.",
+          "oldName": "Hyvinkää",
           "url": "/coat-of-arms/img/old-coats/old-coats-Uudenmaa/Hyvinkää/Hyvinkään-maalaiskunta.png",
           "alt": "Hyvinkään mlk. old municipality coat of arms"
         },
@@ -4781,7 +4781,7 @@
         },
         {
           "oldMunicipality": "Porvoo",
-          "oldName": "Porvoon mlk.",
+          "oldName": "Porvoo",
           "url": "/coat-of-arms/img/old-coats/old-coats-Uudenmaa/Porvoo/Porvoon-maalaiskunta.png",
           "alt": "Porvoon mlk. old municipality coat of arms"
         },
@@ -4792,8 +4792,8 @@
           "alt": "Snappertuna old municipality coat of arms"
         },
         {
-          "oldMunicipality": "Raasepori(Tammisaari)",
-          "oldName": "Tammisaaren mlk.",
+          "oldMunicipality": "Raasepori",
+          "oldName": "Tammisaari",
           "url": "/coat-of-arms/img/old-coats/old-coats-Uudenmaa/Raasepori/Tammisaari/Tammisaaren-maalaiskunta.png",
           "alt": "Tammisaaren mlk. old municipality coat of arms"
         },
@@ -4817,7 +4817,7 @@
         },
         {
           "oldMunicipality": "Raasepori",
-          "oldName": "Karjaan mlk.",
+          "oldName": "Karjaa",
           "url": "/coat-of-arms/img/old-coats/old-coats-Uudenmaa/Raasepori/Karjaan-maalaiskunta.png",
           "alt": "Karjaan mlk. old municipality coat of arms"
         },
@@ -5268,7 +5268,7 @@
         },
         {
           "oldMunicipality": "Naantali",
-          "oldName": "Naantalin mlk.",
+          "oldName": "Naantali",
           "url": "/coat-of-arms/img/old-coats/old-coats-Varsinais-Suomessa/Naantali/Naantalin-maalaiskunta.png",
           "alt": "Naantalin mlk. old municipality coat of arms"
         },
@@ -5316,7 +5316,7 @@
         },
         {
           "oldMunicipality": "Parainen",
-          "oldName": "Paraisten mlk.",
+          "oldName": "Parainen",
           "url": "/coat-of-arms/img/old-coats/old-coats-Varsinais-Suomessa/Parainen/Paraisten-maalaiskunta.png",
           "alt": "Paraisten mlk. old municipality coat of arms"
         },
@@ -5466,7 +5466,7 @@
         },
         {
           "oldMunicipality": "Uusikaupunki",
-          "oldName": "Uudenkaupungin mlk.",
+          "oldName": "Uusikaupunki",
           "url": "/coat-of-arms/img/old-coats/old-coats-Varsinais-Suomessa/Uusikaupunki/Uudenkaupungin-maalaiskunta-unofficial.png",
           "alt": "Uudenkaupungin mlk. old municipality coat of arms"
         }
