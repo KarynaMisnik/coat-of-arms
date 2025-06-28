@@ -54,18 +54,18 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 }));
 
 const Searchbar = () => {
-  const [searchQuery, setSearchQuery] =
-    useState(""); /* hook for current state and update state */
-  const navigate = useNavigate(); /* hook for new navigation */
+  const [searchQuery, setSearchQuery] = useState("");
+  const navigate = useNavigate();
+
+  const normalize = (str) => str.trim().toLowerCase();
 
   const handleSearch = (event) => {
     if (event.key === "Enter") {
-      const searchTerm = searchQuery.toLowerCase();
+      const searchTerm = normalize(searchQuery);
 
-      // search for region or municipality that matches the search query,
-      // using find() array method
-      const matchedRegion = regionsData.regions.find(
-        (region) => region.name.toLowerCase() === searchTerm
+      // Try to match region (using includes)
+      const matchedRegion = regionsData.regions.find((region) =>
+        normalize(region.name).includes(searchTerm)
       );
 
       if (matchedRegion) {
@@ -73,11 +73,12 @@ const Searchbar = () => {
         setSearchQuery("");
       } else {
         let matchedMunicipality = null;
+
         regionsData.regions.forEach((region) => {
-          const foundMunicipality = region.images.find(
-            (image) => image.municipality.toLowerCase() === searchTerm
+          const foundMunicipality = region.images.find((image) =>
+            normalize(image.municipality).includes(searchTerm)
           );
-          if (foundMunicipality) {
+          if (foundMunicipality && !matchedMunicipality) {
             matchedMunicipality = {
               regionName: region.name,
               municipality: foundMunicipality.municipality,
