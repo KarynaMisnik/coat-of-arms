@@ -744,17 +744,6 @@
           "municipalityDescription": "The coat of arms of Mikkeli, featuring the Savonian bow and marshal's batons, is the city's official emblem. It also includes the Cross of Liberty and is topped with a Swedish-style count's crown. Designed by Gunnar Clément and redrawn by Eero Jokilehto, the design was confirmed in 1943. Created to honor Mikkeli's role as the Finnish Army’s General Headquarters during the Winter War, Continuation War, and Lapland War, the coat of arms was initially used without the honor decoration. In December 1944, Mikkeli was awarded the 4th Class Cross of Liberty with swords for its military service, and the city's coat of arms became the emblem of the honor decoration."
         },
         {
-          "municipality": "Pertunmaa",
-          "areaCode": "KU588",
-          "lat": 61.5033928,
-          "lon": 26.4784098,
-          "url": "/coat-of-arms/img/Etelä-Savo/Pertunmaa.png",
-          "alt": "Pertunmaa municipality coat of arms",
-          "blazon": "In a red field, a golden flame with a black ear of grain.",
-          "designer": "Tapio Vallioja",
-          "municipalityDescription": "The coat of arms of Pertunmaa is the official emblem of the municipality, and its design is inspired by ancient slash-and-burn farming.  The coat of arms was designed by Tapio Vallioja, and it was approved by the Pertunmaa municipal council on April 14, 1965. The Ministry of the Interior officially confirmed it on July 1 of the same year."
-        },
-        {
           "municipality": "Pieksämäki",
           "areaCode": "KU593",
           "lat": 62.300466,
@@ -846,6 +835,12 @@
           "oldName": "Jäppilä",
           "url": "/coat-of-arms/img/old-coats/old-coats-Etela-Savo/Pieksämäki/Jäppilä.png",
           "alt": "Jäppilä old municipality coat of arms"
+        },
+        {
+          "oldMunicipality": "Pertunmaa",
+          "oldName": "Pertunmaa",
+          "url": "/coat-of-arms/img/old-coats/old-coats-Etela-Savo/Pertunmaa/Pertunmaa.png",
+          "alt": "Pertunmaa old municipality coat of arms"
         },
         {
           "oldMunicipality": "Pieksämäki",
