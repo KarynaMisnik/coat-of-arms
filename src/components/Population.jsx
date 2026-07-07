@@ -5,7 +5,7 @@ import { fetchPopulationData } from "../utils/apiHelper";
 /*=== MUI ICONS ===*/
 import GroupsIcon from "@mui/icons-material/Groups";
 
-const Population = ({ areaCode, month = "2023M12" }) => {
+const Population = ({ areaCode, month = "2025M12" }) => {
   const [population, setPopulation] = useState(null);
 
   useEffect(() => {
